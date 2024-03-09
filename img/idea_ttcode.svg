@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="320" height="320" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <defs>
+    <!-- ttx -->
+    <g id="ttx">
+      <rect x="0" y="0" width="128" height="128" fill="#EEEEEE"/>
+      <path x="3" y="3" fill="none" stroke="#FFFFFF" stroke-width="2" d="M2,2 h124 v124 h-124 z"/>
+      <rect x="0" y="0" width="32" height="32" fill="#FFFFFF" stroke="#FFFFFF"/>
+      <path x="0" y="0" fill="none" stroke-width="2" d="M0,0 h128 v128 h-128 z"/>
+    </g>
+    <!-- arrow head -->
+    <marker id="mhead" markerUnits="strokeWidth" markerWidth="5" markerHeight="5" viewBox="0 0 10 10" refX="5" refY="5" orient="auto">
+      <polygon points="0,0 2,5 0,10 10,5"/>
+    </marker>
+  </defs>
+  <!-- ttc -->
+  <g stroke="#FFA726" transform="translate(96,8)">
+    <use xlink:href="#ttx"/>
+    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <text x="48" y="24">本表</text>
+    <text x="56" y="96">▽</text>
+    <text x="80" y="72">▲</text>
+    </g>
+  </g>
+  <!-- ttl -->
+  <g stroke="#26A69A" transform="translate(8,182)">
+    <use xlink:href="#ttx"/>
+    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <text x="48" y="24">左表</text>
+    </g>
+  </g>
+  <!-- ttr -->
+  <g stroke="#EC407A" transform="translate(182,182)">
+    <use xlink:href="#ttx"/>
+    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <text x="48" y="24">右表</text>
+    </g>
+  </g>
+  <!-- ss -->
+  <g stroke="#424242" stroke-width="2" marker-end="url(#mhead)">
+    <!-- ssl -->
+    <path d="M152,104 l-80,72"/>
+    <!-- ssr -->
+    <path d="M188,84 l60,92"/>
+  </g>
+</svg>

@@ -1,0 +1,11679 @@
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+10	
+1q	
+1w	
+1e	
+1r	
+1t	
+1y	
+1u	
+1i	
+1o	
+1p	
+1a	
+1s	
+1d	
+1f	
+1g	
+1h	
+1j	
+1k	
+1l	
+1;	
+1z	
+1x	
+1c	
+1v	
+1b	
+1n	
+1m	
+1,	
+1.	
+1/	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+20	
+2q	
+2w	
+2e	
+2r	
+2t	
+2y	
+2u	
+2i	
+2o	
+2p	
+2a	
+2s	
+2d	
+2f	
+2g	
+2h	
+2j	
+2k	
+2l	
+2;	
+2z	
+2x	
+2c	
+2v	
+2b	
+2n	
+2m	
+2,	
+2.	
+2/	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+30	
+3q	
+3w	
+3e	
+3r	
+3t	
+3y	
+3u	
+3i	
+3o	
+3p	
+3a	
+3s	
+3d	
+3f	
+3g	
+3h	
+3j	
+3k	
+3l	
+3;	
+3z	
+3x	
+3c	
+3v	
+3b	
+3n	
+3m	
+3,	
+3.	
+3/	
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+40	
+4q	
+4w	
+4e	
+4r	
+4t	
+4y	
+4u	
+4i	
+4o	
+4p	
+4a	
+4s	
+4d	
+4f	
+4g	
+4h	
+4j	
+4k	
+4l	
+4;	
+4z	
+4x	
+4c	
+4v	
+4b	
+4n	
+4m	
+4,	
+4.	
+4/	
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+50	
+5q	
+5w	
+5e	
+5r	
+5t	
+5y	
+5u	
+5i	
+5o	
+5p	
+5a	
+5s	
+5d	
+5f	
+5g	
+5h	
+5j	
+5k	
+5l	
+5;	
+5z	
+5x	
+5c	
+5v	
+5b	
+5n	
+5m	
+5,	
+5.	
+5/	
+61	
+62	
+63	
+64	
+65	
+66	
+67	
+68	
+69	
+60	
+6q	
+6w	
+6e	
+6r	
+6t	
+6y	
+6u	
+6i	
+6o	
+6p	
+6a	
+6s	
+6d	
+6f	
+6g	
+6h	
+6j	
+6k	
+6l	
+6;	
+6z	
+6x	
+6c	
+6v	
+6b	
+6n	
+6m	
+6,	
+6.	
+6/	
+71	
+72	
+73	
+74	
+75	
+76	
+77	
+78	
+79	
+70	
+7q	
+7w	
+7e	
+7r	
+7t	
+7y	
+7u	
+7i	
+7o	
+7p	
+7a	
+7s	
+7d	
+7f	
+7g	
+7h	
+7j	
+7k	
+7l	
+7;	
+7z	
+7x	
+7c	
+7v	
+7b	
+7n	
+7m	
+7,	
+7.	
+7/	
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+80	
+8q	
+8w	
+8e	
+8r	
+8t	
+8y	
+8u	
+8i	
+8o	
+8p	
+8a	
+8s	
+8d	
+8f	
+8g	
+8h	
+8j	
+8k	
+8l	
+8;	
+8z	
+8x	
+8c	
+8v	
+8b	
+8n	
+8m	
+8,	
+8.	
+8/	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+90	
+9q	
+9w	
+9e	
+9r	
+9t	
+9y	
+9u	
+9i	
+9o	
+9p	
+9a	
+9s	
+9d	
+9f	
+9g	
+9h	
+9j	
+9k	
+9l	
+9;	
+9z	
+9x	
+9c	
+9v	
+9b	
+9n	
+9m	
+9,	
+9.	
+9/	
+01	
+02	
+03	
+04	
+05	
+06	
+07	
+08	
+09	
+00	
+0q	
+0w	
+0e	
+0r	
+0t	
+0y	
+0u	
+0i	
+0o	
+0p	
+0a	
+0s	
+0d	
+0f	
+0g	
+0h	
+0j	
+0k	
+0l	
+0;	
+0z	
+0x	
+0c	
+0v	
+0b	
+0n	
+0m	
+0,	
+0.	
+0/	
+q1	
+q2	
+q3	
+q4	
+q5	
+q6	
+q7	
+q8	
+q9	
+q0	
+qq	
+qw	
+qe	
+qr	
+qt	
+qy	
+qu	
+qi	
+qo	
+qp	
+qa	
+qs	
+qd	
+qf	
+qg	
+qh	
+qj	
+qk	
+ql	
+q;	
+qz	
+qx	
+qc	
+qv	
+qb	
+qn	
+qm	
+q,	
+q.	
+q/	
+w1	
+w2	
+w3	
+w4	
+w5	
+w6	
+w7	
+w8	
+w9	
+w0	
+wq	
+ww	
+we	
+wr	
+wt	
+wy	
+wu	
+wi	
+wo	
+wp	
+wa	
+ws	
+wd	
+wf	
+wg	
+wh	
+wj	
+wk	
+wl	
+w;	
+wz	
+wx	
+wc	
+wv	
+wb	
+wn	
+wm	
+w,	
+w.	
+w/	
+e1	
+e2	
+e3	
+e4	
+e5	
+e6	
+e7	
+e8	
+e9	
+e0	
+eq	
+ew	
+ee	
+er	
+et	
+ey	
+eu	
+ei	
+eo	
+ep	
+ea	
+es	
+ed	
+ef	
+eg	
+eh	
+ej	
+ek	
+el	
+e;	
+ez	
+ex	
+ec	
+ev	
+eb	
+en	
+em	
+e,	
+e.	
+e/	
+r1	
+r2	
+r3	
+r4	
+r5	
+r6	
+r7	
+r8	
+r9	
+r0	
+rq	
+rw	
+re	
+rr	
+rt	
+ry	
+ru	
+ri	
+ro	
+rp	
+ra	
+rs	
+rd	
+rf	
+rg	
+rh	
+rj	
+rk	
+rl	
+r;	
+rz	
+rx	
+rc	
+rv	
+rb	
+rn	
+rm	
+r,	
+r.	
+r/	
+t1	
+t2	
+t3	
+t4	
+t5	
+t6	
+t7	
+t8	
+t9	
+t0	
+tq	
+tw	
+te	
+tr	
+tt	
+ty	
+tu	
+ti	
+to	
+tp	
+ta	
+ts	
+td	
+tf	
+tg	
+th	
+tj	
+tk	
+tl	
+t;	
+tz	
+tx	
+tc	
+tv	
+tb	
+tn	
+tm	
+t,	
+t.	
+t/	
+y1	
+y2	
+y3	
+y4	
+y5	
+y6	
+y7	
+y8	
+y9	
+y0	
+yq	
+yw	
+ye	
+yr	
+yt	
+yy	
+yu	
+yi	
+yo	
+yp	
+ya	
+ys	
+yd	
+yf	
+yg	
+yh	
+yj	
+yk	
+yl	
+y;	
+yz	
+yx	
+yc	
+yv	
+yb	
+yn	
+ym	
+y,	
+y.	
+y/	
+u1	
+u2	
+u3	
+u4	
+u5	
+u6	
+u7	
+u8	
+u9	
+u0	
+uq	
+uw	
+ue	
+ur	
+ut	
+uy	
+uu	
+ui	
+uo	
+up	
+ua	
+us	
+ud	
+uf	
+ug	
+uh	
+uj	
+uk	
+ul	
+u;	
+uz	
+ux	
+uc	
+uv	
+ub	
+un	
+um	
+u,	
+u.	
+u/	
+i1	
+i2	
+i3	
+i4	
+i5	
+i6	
+i7	
+i8	
+i9	
+i0	
+iq	
+iw	
+ie	
+ir	
+it	
+iy	
+iu	
+ii	
+io	
+ip	
+ia	
+is	
+id	
+if	
+ig	
+ih	
+ij	
+ik	
+il	
+i;	
+iz	
+ix	
+ic	
+iv	
+ib	
+in	
+im	
+i,	
+i.	
+i/	
+o1	
+o2	
+o3	
+o4	
+o5	
+o6	
+o7	
+o8	
+o9	
+o0	
+oq	
+ow	
+oe	
+or	
+ot	
+oy	
+ou	
+oi	
+oo	
+op	
+oa	
+os	
+od	
+of	
+og	
+oh	
+oj	
+ok	
+ol	
+o;	
+oz	
+ox	
+oc	
+ov	
+ob	
+on	
+om	
+o,	
+o.	
+o/	
+p1	
+p2	
+p3	
+p4	
+p5	
+p6	
+p7	
+p8	
+p9	
+p0	
+pq	
+pw	
+pe	
+pr	
+pt	
+py	
+pu	
+pi	
+po	
+pp	
+pa	
+ps	
+pd	
+pf	
+pg	
+ph	
+pj	
+pk	
+pl	
+p;	
+pz	
+px	
+pc	
+pv	
+pb	
+pn	
+pm	
+p,	
+p.	
+p/	
+a1	
+a2	
+a3	
+a4	
+a5	
+a6	
+a7	
+a8	
+a9	
+a0	
+aq	
+aw	
+ae	
+ar	
+at	
+ay	
+au	
+ai	
+ao	
+ap	
+aa	
+as	
+ad	
+af	
+ag	
+ah	
+aj	
+ak	
+al	
+a;	
+az	
+ax	
+ac	
+av	
+ab	
+an	
+am	
+a,	
+a.	
+a/	
+s1	
+s2	
+s3	
+s4	
+s5	
+s6	
+s7	
+s8	
+s9	
+s0	
+sq	
+sw	
+se	
+sr	
+st	
+sy	
+su	
+si	
+so	
+sp	
+sa	
+ss	
+sd	
+sf	
+sg	
+sh	
+sj	
+sk	
+sl	
+s;	
+sz	
+sx	
+sc	
+sv	
+sb	
+sn	
+sm	
+s,	
+s.	
+s/	
+d1	
+d2	
+d3	
+d4	
+d5	
+d6	
+d7	
+d8	
+d9	
+d0	
+dq	
+dw	
+de	
+dr	
+dt	
+dy	
+du	
+di	
+do	
+dp	
+da	
+ds	
+dd	
+df	
+dg	
+dh	
+dj	
+dk	
+dl	
+d;	
+dz	
+dx	
+dc	
+dv	
+db	
+dn	
+dm	
+d,	
+d.	
+d/	
+f1	
+f2	
+f3	
+f4	
+f5	
+f6	
+f7	
+f8	
+f9	
+f0	
+fq	
+fw	
+fe	
+fr	
+ft	
+fy	
+fu	
+fi	
+fo	
+fp	
+fa	
+fs	
+fd	
+ff	
+fg	
+fh	
+fj	
+fk	
+fl	
+f;	
+fz	
+fx	
+fc	
+fv	
+fb	
+fn	
+fm	
+f,	
+f.	
+f/	
+g1	
+g2	
+g3	
+g4	
+g5	
+g6	
+g7	
+g8	
+g9	
+g0	
+gq	
+gw	
+ge	
+gr	
+gt	
+gy	
+gu	
+gi	
+go	
+gp	
+ga	
+gs	
+gd	
+gf	
+gg	
+gh	
+gj	
+gk	
+gl	
+g;	
+gz	
+gx	
+gc	
+gv	
+gb	
+gn	
+gm	
+g,	
+g.	
+g/	
+h1	
+h2	
+h3	
+h4	
+h5	
+h6	
+h7	
+h8	
+h9	
+h0	
+hq	
+hw	
+he	
+hr	
+ht	
+hy	
+hu	
+hi	
+ho	
+hp	
+ha	
+hs	
+hd	
+hf	
+hg	
+hh	
+hj	
+hk	
+hl	
+h;	
+hz	
+hx	
+hc	
+hv	
+hb	
+hn	
+hm	
+h,	
+h.	
+h/	
+j1	
+j2	
+j3	
+j4	
+j5	
+j6	
+j7	
+j8	
+j9	
+j0	
+jq	
+jw	
+je	
+jr	
+jt	
+jy	
+ju	
+ji	
+jo	
+jp	
+ja	
+js	
+jd	
+jf	
+jg	
+jh	
+jj	
+jk	
+jl	
+j;	
+jz	
+jx	
+jc	
+jv	
+jb	
+jn	
+jm	
+j,	
+j.	
+j/	
+k1	
+k2	
+k3	
+k4	
+k5	
+k6	
+k7	
+k8	
+k9	
+k0	
+kq	
+kw	
+ke	
+kr	
+kt	
+ky	
+ku	
+ki	
+ko	
+kp	
+ka	
+ks	
+kd	
+kf	
+kg	
+kh	
+kj	
+kk	
+kl	
+k;	
+kz	
+kx	
+kc	
+kv	
+kb	
+kn	
+km	
+k,	
+k.	
+k/	
+l1	
+l2	
+l3	
+l4	
+l5	
+l6	
+l7	
+l8	
+l9	
+l0	
+lq	
+lw	
+le	
+lr	
+lt	
+ly	
+lu	
+li	
+lo	
+lp	
+la	
+ls	
+ld	
+lf	
+lg	
+lh	
+lj	
+lk	
+ll	
+l;	
+lz	
+lx	
+lc	
+lv	
+lb	
+ln	
+lm	
+l,	
+l.	
+l/	
+;1	
+;2	
+;3	
+;4	
+;5	
+;6	
+;7	
+;8	
+;9	
+;0	
+;q	
+;w	
+;e	
+;r	
+;t	
+;y	
+;u	
+;i	
+;o	
+;p	
+;a	
+;s	
+;d	
+;f	
+;g	
+;h	
+;j	
+;k	
+;l	
+;;	
+;z	
+;x	
+;c	
+;v	
+;b	
+;n	
+;m	
+;,	
+;.	
+;/	
+z1	
+z2	
+z3	
+z4	
+z5	
+z6	
+z7	
+z8	
+z9	
+z0	
+zq	
+zw	
+ze	
+zr	
+zt	
+zy	
+zu	
+zi	
+zo	
+zp	
+za	
+zs	
+zd	
+zf	
+zg	
+zh	
+zj	
+zk	
+zl	
+z;	
+zz	
+zx	
+zc	
+zv	
+zb	
+zn	
+zm	
+z,	
+z.	
+z/	
+x1	
+x2	
+x3	
+x4	
+x5	
+x6	
+x7	
+x8	
+x9	
+x0	
+xq	
+xw	
+xe	
+xr	
+xt	
+xy	
+xu	
+xi	
+xo	
+xp	
+xa	
+xs	
+xd	
+xf	
+xg	
+xh	
+xj	
+xk	
+xl	
+x;	
+xz	
+xx	
+xc	
+xv	
+xb	
+xn	
+xm	
+x,	
+x.	
+x/	
+c1	
+c2	
+c3	
+c4	
+c5	
+c6	
+c7	
+c8	
+c9	
+c0	
+cq	
+cw	
+ce	
+cr	
+ct	
+cy	
+cu	
+ci	
+co	
+cp	
+ca	
+cs	
+cd	
+cf	
+cg	
+ch	
+cj	
+ck	
+cl	
+c;	
+cz	
+cx	
+cc	
+cv	
+cb	
+cn	
+cm	
+c,	
+c.	
+c/	
+v1	
+v2	
+v3	
+v4	
+v5	
+v6	
+v7	
+v8	
+v9	
+v0	
+vq	
+vw	
+ve	
+vr	
+vt	
+vy	
+vu	
+vi	
+vo	
+vp	
+va	
+vs	
+vd	
+vf	
+vg	
+vh	
+vj	
+vk	
+vl	
+v;	
+vz	
+vx	
+vc	
+vv	
+vb	
+vn	
+vm	
+v,	
+v.	
+v/	
+b1	
+b2	
+b3	
+b4	
+b5	
+b6	
+b7	
+b8	
+b9	
+b0	
+bq	
+bw	
+be	
+br	
+bt	
+by	
+bu	
+bi	
+bo	
+bp	
+ba	
+bs	
+bd	
+bf	
+bg	
+bh	
+bj	
+bk	
+bl	
+b;	
+bz	
+bx	
+bc	
+bv	
+bb	
+bn	
+bm	
+b,	
+b.	
+b/	
+n1	
+n2	
+n3	
+n4	
+n5	
+n6	
+n7	
+n8	
+n9	
+n0	
+nq	
+nw	
+ne	
+nr	
+nt	
+ny	
+nu	
+ni	
+no	
+np	
+na	
+ns	
+nd	
+nf	
+ng	
+nh	
+nj	
+nk	
+nl	
+n;	
+nz	
+nx	
+nc	
+nv	
+nb	
+nn	
+nm	
+n,	
+n.	
+n/	
+m1	
+m2	
+m3	
+m4	
+m5	
+m6	
+m7	
+m8	
+m9	
+m0	
+mq	
+mw	
+me	
+mr	
+mt	
+my	
+mu	
+mi	
+mo	
+mp	
+ma	
+ms	
+md	
+mf	
+mg	
+mh	
+mj	
+mk	
+ml	
+m;	
+mz	
+mx	
+mc	
+mv	
+mb	
+mn	
+mm	
+m,	
+m.	
+m/	
+,1	
+,2	
+,3	
+,4	
+,5	
+,6	
+,7	
+,8	
+,9	
+,0	
+,q	
+,w	
+,e	
+,r	
+,t	
+,y	
+,u	
+,i	
+,o	
+,p	
+,a	
+,s	
+,d	
+,f	
+,g	
+,h	
+,j	
+,k	
+,l	
+,;	
+,z	
+,x	
+,c	
+,v	
+,b	
+,n	
+,m	
+,,	
+,.	
+,/	
+.1	
+.2	
+.3	
+.4	
+.5	
+.6	
+.7	
+.8	
+.9	
+.0	
+.q	
+.w	
+.e	
+.r	
+.t	
+.y	
+.u	
+.i	
+.o	
+.p	
+.a	
+.s	
+.d	
+.f	
+.g	
+.h	
+.j	
+.k	
+.l	
+.;	
+.z	
+.x	
+.c	
+.v	
+.b	
+.n	
+.m	
+.,	
+..	
+./	
+/1	
+/2	
+/3	
+/4	
+/5	
+/6	
+/7	
+/8	
+/9	
+/0	
+/q	
+/w	
+/e	
+/r	
+/t	
+/y	
+/u	
+/i	
+/o	
+/p	
+/a	
+/s	
+/d	
+/f	
+/g	
+/h	
+/j	
+/k	
+/l	
+/;	
+/z	
+/x	
+/c	
+/v	
+/b	
+/n	
+/m	
+/,	
+/.	
+//	
+jf11	
+jf12	
+jf13	
+jf14	
+jf15	
+jf16	
+jf17	
+jf18	
+jf19	
+jf10	
+jf1q	
+jf1w	
+jf1e	
+jf1r	
+jf1t	
+jf1y	
+jf1u	
+jf1i	
+jf1o	
+jf1p	
+jf1a	
+jf1s	
+jf1d	
+jf1f	
+jf1g	
+jf1h	
+jf1j	
+jf1k	
+jf1l	
+jf1;	
+jf1z	
+jf1x	
+jf1c	
+jf1v	
+jf1b	
+jf1n	
+jf1m	
+jf1,	
+jf1.	
+jf1/	
+jf21	
+jf22	
+jf23	
+jf24	
+jf25	
+jf26	
+jf27	
+jf28	
+jf29	
+jf20	
+jf2q	
+jf2w	
+jf2e	
+jf2r	
+jf2t	
+jf2y	
+jf2u	
+jf2i	
+jf2o	
+jf2p	
+jf2a	
+jf2s	
+jf2d	
+jf2f	
+jf2g	
+jf2h	
+jf2j	
+jf2k	
+jf2l	
+jf2;	
+jf2z	
+jf2x	
+jf2c	
+jf2v	
+jf2b	
+jf2n	
+jf2m	
+jf2,	
+jf2.	
+jf2/	
+jf31	
+jf32	
+jf33	
+jf34	
+jf35	
+jf36	
+jf37	
+jf38	
+jf39	
+jf30	
+jf3q	
+jf3w	
+jf3e	
+jf3r	
+jf3t	
+jf3y	
+jf3u	
+jf3i	
+jf3o	
+jf3p	
+jf3a	
+jf3s	
+jf3d	
+jf3f	
+jf3g	
+jf3h	
+jf3j	
+jf3k	
+jf3l	
+jf3;	
+jf3z	
+jf3x	
+jf3c	
+jf3v	
+jf3b	
+jf3n	
+jf3m	
+jf3,	
+jf3.	
+jf3/	
+jf41	
+jf42	
+jf43	
+jf44	
+jf45	
+jf46	
+jf47	
+jf48	
+jf49	
+jf40	
+jf4q	
+jf4w	
+jf4e	
+jf4r	
+jf4t	
+jf4y	
+jf4u	
+jf4i	
+jf4o	
+jf4p	
+jf4a	
+jf4s	
+jf4d	
+jf4f	
+jf4g	
+jf4h	
+jf4j	
+jf4k	
+jf4l	
+jf4;	
+jf4z	
+jf4x	
+jf4c	
+jf4v	
+jf4b	
+jf4n	
+jf4m	
+jf4,	
+jf4.	
+jf4/	
+jf51	
+jf52	
+jf53	
+jf54	
+jf55	
+jf56	
+jf57	
+jf58	
+jf59	
+jf50	
+jf5q	
+jf5w	
+jf5e	
+jf5r	
+jf5t	
+jf5y	
+jf5u	
+jf5i	
+jf5o	
+jf5p	
+jf5a	
+jf5s	
+jf5d	
+jf5f	
+jf5g	
+jf5h	
+jf5j	
+jf5k	
+jf5l	
+jf5;	
+jf5z	
+jf5x	
+jf5c	
+jf5v	
+jf5b	
+jf5n	
+jf5m	
+jf5,	
+jf5.	
+jf5/	
+jf61	
+jf62	
+jf63	
+jf64	
+jf65	
+jf66	
+jf67	
+jf68	
+jf69	
+jf60	
+jf6q	
+jf6w	
+jf6e	
+jf6r	
+jf6t	
+jf6y	
+jf6u	
+jf6i	
+jf6o	
+jf6p	
+jf6a	
+jf6s	
+jf6d	
+jf6f	
+jf6g	
+jf6h	
+jf6j	
+jf6k	
+jf6l	
+jf6;	
+jf6z	
+jf6x	
+jf6c	
+jf6v	
+jf6b	
+jf6n	
+jf6m	
+jf6,	
+jf6.	
+jf6/	
+jf71	
+jf72	
+jf73	
+jf74	
+jf75	
+jf76	
+jf77	
+jf78	
+jf79	
+jf70	
+jf7q	
+jf7w	
+jf7e	
+jf7r	
+jf7t	
+jf7y	
+jf7u	
+jf7i	
+jf7o	
+jf7p	
+jf7a	
+jf7s	
+jf7d	
+jf7f	
+jf7g	
+jf7h	
+jf7j	
+jf7k	
+jf7l	
+jf7;	
+jf7z	
+jf7x	
+jf7c	
+jf7v	
+jf7b	
+jf7n	
+jf7m	
+jf7,	
+jf7.	
+jf7/	
+jf81	
+jf82	
+jf83	
+jf84	
+jf85	
+jf86	
+jf87	
+jf88	
+jf89	
+jf80	
+jf8q	
+jf8w	
+jf8e	
+jf8r	
+jf8t	
+jf8y	
+jf8u	
+jf8i	
+jf8o	
+jf8p	
+jf8a	
+jf8s	
+jf8d	
+jf8f	
+jf8g	
+jf8h	
+jf8j	
+jf8k	
+jf8l	
+jf8;	
+jf8z	
+jf8x	
+jf8c	
+jf8v	
+jf8b	
+jf8n	
+jf8m	
+jf8,	
+jf8.	
+jf8/	
+jf91	
+jf92	
+jf93	
+jf94	
+jf95	
+jf96	
+jf97	
+jf98	
+jf99	
+jf90	
+jf9q	
+jf9w	
+jf9e	
+jf9r	
+jf9t	
+jf9y	
+jf9u	
+jf9i	
+jf9o	
+jf9p	
+jf9a	
+jf9s	
+jf9d	
+jf9f	
+jf9g	
+jf9h	
+jf9j	
+jf9k	
+jf9l	
+jf9;	
+jf9z	
+jf9x	
+jf9c	
+jf9v	
+jf9b	
+jf9n	
+jf9m	
+jf9,	
+jf9.	
+jf9/	
+jf01	
+jf02	
+jf03	
+jf04	
+jf05	
+jf06	
+jf07	
+jf08	
+jf09	
+jf00	
+jf0q	
+jf0w	
+jf0e	
+jf0r	
+jf0t	
+jf0y	
+jf0u	
+jf0i	
+jf0o	
+jf0p	
+jf0a	
+jf0s	
+jf0d	
+jf0f	
+jf0g	
+jf0h	
+jf0j	
+jf0k	
+jf0l	
+jf0;	
+jf0z	
+jf0x	
+jf0c	
+jf0v	
+jf0b	
+jf0n	
+jf0m	
+jf0,	
+jf0.	
+jf0/	
+jfq1	
+jfq2	
+jfq3	
+jfq4	
+jfq5	
+jfq6	
+jfq7	
+jfq8	
+jfq9	
+jfq0	
+jfqq	
+jfqw	
+jfqe	
+jfqr	
+jfqt	
+jfqy	
+jfqu	
+jfqi	
+jfqo	
+jfqp	
+jfqa	
+jfqs	
+jfqd	
+jfqf	
+jfqg	
+jfqh	
+jfqj	
+jfqk	
+jfql	
+jfq;	
+jfqz	
+jfqx	
+jfqc	
+jfqv	
+jfqb	
+jfqn	
+jfqm	
+jfq,	
+jfq.	
+jfq/	
+jfw1	
+jfw2	
+jfw3	
+jfw4	
+jfw5	
+jfw6	
+jfw7	
+jfw8	
+jfw9	
+jfw0	
+jfwq	
+jfww	
+jfwe	
+jfwr	
+jfwt	
+jfwy	
+jfwu	
+jfwi	
+jfwo	
+jfwp	
+jfwa	
+jfws	
+jfwd	
+jfwf	
+jfwg	
+jfwh	
+jfwj	
+jfwk	
+jfwl	
+jfw;	
+jfwz	
+jfwx	
+jfwc	
+jfwv	
+jfwb	
+jfwn	
+jfwm	
+jfw,	
+jfw.	
+jfw/	
+jfe1	
+jfe2	
+jfe3	
+jfe4	
+jfe5	
+jfe6	
+jfe7	
+jfe8	
+jfe9	
+jfe0	
+jfeq	
+jfew	
+jfee	
+jfer	
+jfet	
+jfey	
+jfeu	
+jfei	
+jfeo	
+jfep	
+jfea	
+jfes	
+jfed	
+jfef	
+jfeg	
+jfeh	
+jfej	
+jfek	
+jfel	
+jfe;	
+jfez	
+jfex	
+jfec	
+jfev	
+jfeb	
+jfen	
+jfem	
+jfe,	
+jfe.	
+jfe/	
+jfr1	
+jfr2	
+jfr3	
+jfr4	
+jfr5	
+jfr6	
+jfr7	
+jfr8	
+jfr9	
+jfr0	
+jfrq	
+jfrw	
+jfre	
+jfrr	
+jfrt	
+jfry	
+jfru	
+jfri	
+jfro	
+jfrp	
+jfra	
+jfrs	
+jfrd	
+jfrf	
+jfrg	
+jfrh	
+jfrj	
+jfrk	
+jfrl	
+jfr;	
+jfrz	
+jfrx	
+jfrc	
+jfrv	
+jfrb	
+jfrn	
+jfrm	
+jfr,	
+jfr.	
+jfr/	
+jft1	
+jft2	
+jft3	
+jft4	
+jft5	
+jft6	
+jft7	
+jft8	
+jft9	
+jft0	
+jftq	
+jftw	
+jfte	
+jftr	
+jftt	
+jfty	
+jftu	
+jfti	
+jfto	
+jftp	
+jfta	
+jfts	
+jftd	
+jftf	
+jftg	
+jfth	
+jftj	
+jftk	
+jftl	
+jft;	
+jftz	
+jftx	
+jftc	
+jftv	
+jftb	
+jftn	
+jftm	
+jft,	
+jft.	
+jft/	
+jfy1	
+jfy2	
+jfy3	
+jfy4	
+jfy5	
+jfy6	
+jfy7	
+jfy8	
+jfy9	
+jfy0	
+jfyq	
+jfyw	
+jfye	
+jfyr	
+jfyt	
+jfyy	
+jfyu	
+jfyi	
+jfyo	
+jfyp	
+jfya	
+jfys	
+jfyd	
+jfyf	
+jfyg	
+jfyh	
+jfyj	
+jfyk	
+jfyl	
+jfy;	
+jfyz	
+jfyx	
+jfyc	
+jfyv	
+jfyb	
+jfyn	
+jfym	
+jfy,	
+jfy.	
+jfy/	
+jfu1	
+jfu2	
+jfu3	
+jfu4	
+jfu5	
+jfu6	
+jfu7	
+jfu8	
+jfu9	
+jfu0	
+jfuq	
+jfuw	
+jfue	
+jfur	
+jfut	
+jfuy	
+jfuu	
+jfui	
+jfuo	
+jfup	
+jfua	
+jfus	
+jfud	
+jfuf	
+jfug	
+jfuh	
+jfuj	
+jfuk	
+jful	
+jfu;	
+jfuz	
+jfux	
+jfuc	
+jfuv	
+jfub	
+jfun	
+jfum	
+jfu,	
+jfu.	
+jfu/	
+jfi1	
+jfi2	
+jfi3	
+jfi4	
+jfi5	
+jfi6	
+jfi7	
+jfi8	
+jfi9	
+jfi0	
+jfiq	
+jfiw	
+jfie	
+jfir	
+jfit	
+jfiy	
+jfiu	
+jfii	
+jfio	
+jfip	
+jfia	
+jfis	
+jfid	
+jfif	
+jfig	
+jfih	
+jfij	
+jfik	
+jfil	
+jfi;	
+jfiz	
+jfix	
+jfic	
+jfiv	
+jfib	
+jfin	
+jfim	
+jfi,	
+jfi.	
+jfi/	
+jfo1	
+jfo2	
+jfo3	
+jfo4	
+jfo5	
+jfo6	
+jfo7	
+jfo8	
+jfo9	
+jfo0	
+jfoq	
+jfow	
+jfoe	
+jfor	
+jfot	
+jfoy	
+jfou	
+jfoi	
+jfoo	
+jfop	
+jfoa	
+jfos	
+jfod	
+jfof	
+jfog	
+jfoh	
+jfoj	
+jfok	
+jfol	
+jfo;	
+jfoz	
+jfox	
+jfoc	
+jfov	
+jfob	
+jfon	
+jfom	
+jfo,	
+jfo.	
+jfo/	
+jfp1	
+jfp2	
+jfp3	
+jfp4	
+jfp5	
+jfp6	
+jfp7	
+jfp8	
+jfp9	
+jfp0	
+jfpq	
+jfpw	
+jfpe	
+jfpr	
+jfpt	
+jfpy	
+jfpu	
+jfpi	
+jfpo	
+jfpp	
+jfpa	
+jfps	
+jfpd	
+jfpf	
+jfpg	
+jfph	
+jfpj	
+jfpk	
+jfpl	
+jfp;	
+jfpz	
+jfpx	
+jfpc	
+jfpv	
+jfpb	
+jfpn	
+jfpm	
+jfp,	
+jfp.	
+jfp/	
+jfa1	
+jfa2	
+jfa3	
+jfa4	
+jfa5	
+jfa6	
+jfa7	
+jfa8	
+jfa9	
+jfa0	
+jfaq	
+jfaw	
+jfae	
+jfar	
+jfat	
+jfay	
+jfau	
+jfai	
+jfao	
+jfap	
+jfaa	
+jfas	
+jfad	
+jfaf	
+jfag	
+jfah	
+jfaj	
+jfak	
+jfal	
+jfa;	
+jfaz	
+jfax	
+jfac	
+jfav	
+jfab	
+jfan	
+jfam	
+jfa,	
+jfa.	
+jfa/	
+jfs1	
+jfs2	
+jfs3	
+jfs4	
+jfs5	
+jfs6	
+jfs7	
+jfs8	
+jfs9	
+jfs0	
+jfsq	
+jfsw	
+jfse	
+jfsr	
+jfst	
+jfsy	
+jfsu	
+jfsi	
+jfso	
+jfsp	
+jfsa	
+jfss	
+jfsd	
+jfsf	
+jfsg	
+jfsh	
+jfsj	
+jfsk	
+jfsl	
+jfs;	
+jfsz	
+jfsx	
+jfsc	
+jfsv	
+jfsb	
+jfsn	
+jfsm	
+jfs,	
+jfs.	
+jfs/	
+jfd1	
+jfd2	
+jfd3	
+jfd4	
+jfd5	
+jfd6	
+jfd7	
+jfd8	
+jfd9	
+jfd0	
+jfdq	
+jfdw	
+jfde	
+jfdr	
+jfdt	
+jfdy	
+jfdu	
+jfdi	
+jfdo	
+jfdp	
+jfda	
+jfds	
+jfdd	
+jfdf	
+jfdg	
+jfdh	
+jfdj	
+jfdk	
+jfdl	
+jfd;	
+jfdz	
+jfdx	
+jfdc	
+jfdv	
+jfdb	
+jfdn	
+jfdm	
+jfd,	
+jfd.	
+jfd/	
+jff1	
+jff2	
+jff3	
+jff4	
+jff5	
+jff6	
+jff7	
+jff8	
+jff9	
+jff0	
+jffq	
+jffw	
+jffe	
+jffr	
+jfft	
+jffy	
+jffu	
+jffi	
+jffo	
+jffp	
+jffa	
+jffs	
+jffd	
+jfff	
+jffg	
+jffh	
+jffj	
+jffk	
+jffl	
+jff;	
+jffz	
+jffx	
+jffc	
+jffv	
+jffb	
+jffn	
+jffm	
+jff,	
+jff.	
+jff/	
+jfg1	
+jfg2	
+jfg3	
+jfg4	
+jfg5	
+jfg6	
+jfg7	
+jfg8	
+jfg9	
+jfg0	
+jfgq	
+jfgw	
+jfge	
+jfgr	
+jfgt	
+jfgy	
+jfgu	
+jfgi	
+jfgo	
+jfgp	
+jfga	
+jfgs	
+jfgd	
+jfgf	
+jfgg	
+jfgh	
+jfgj	
+jfgk	
+jfgl	
+jfg;	
+jfgz	
+jfgx	
+jfgc	
+jfgv	
+jfgb	
+jfgn	
+jfgm	
+jfg,	
+jfg.	
+jfg/	
+jfh1	
+jfh2	
+jfh3	
+jfh4	
+jfh5	
+jfh6	
+jfh7	
+jfh8	
+jfh9	
+jfh0	
+jfhq	
+jfhw	
+jfhe	
+jfhr	
+jfht	
+jfhy	
+jfhu	
+jfhi	
+jfho	
+jfhp	
+jfha	
+jfhs	
+jfhd	
+jfhf	
+jfhg	
+jfhh	
+jfhj	
+jfhk	
+jfhl	
+jfh;	
+jfhz	
+jfhx	
+jfhc	
+jfhv	
+jfhb	
+jfhn	
+jfhm	
+jfh,	
+jfh.	
+jfh/	
+jfj1	
+jfj2	
+jfj3	
+jfj4	
+jfj5	
+jfj6	
+jfj7	
+jfj8	
+jfj9	
+jfj0	
+jfjq	
+jfjw	
+jfje	
+jfjr	
+jfjt	
+jfjy	
+jfju	
+jfji	
+jfjo	
+jfjp	
+jfja	
+jfjs	
+jfjd	
+jfjf	
+jfjg	
+jfjh	
+jfjj	
+jfjk	
+jfjl	
+jfj;	
+jfjz	
+jfjx	
+jfjc	
+jfjv	
+jfjb	
+jfjn	
+jfjm	
+jfj,	
+jfj.	
+jfj/	
+jfk1	
+jfk2	
+jfk3	
+jfk4	
+jfk5	
+jfk6	
+jfk7	
+jfk8	
+jfk9	
+jfk0	
+jfkq	
+jfkw	
+jfke	
+jfkr	
+jfkt	
+jfky	
+jfku	
+jfki	
+jfko	
+jfkp	
+jfka	
+jfks	
+jfkd	
+jfkf	
+jfkg	
+jfkh	
+jfkj	
+jfkk	
+jfkl	
+jfk;	
+jfkz	
+jfkx	
+jfkc	
+jfkv	
+jfkb	
+jfkn	
+jfkm	
+jfk,	
+jfk.	
+jfk/	
+jfl1	
+jfl2	
+jfl3	
+jfl4	
+jfl5	
+jfl6	
+jfl7	
+jfl8	
+jfl9	
+jfl0	
+jflq	
+jflw	
+jfle	
+jflr	
+jflt	
+jfly	
+jflu	
+jfli	
+jflo	
+jflp	
+jfla	
+jfls	
+jfld	
+jflf	
+jflg	
+jflh	
+jflj	
+jflk	
+jfll	
+jfl;	
+jflz	
+jflx	
+jflc	
+jflv	
+jflb	
+jfln	
+jflm	
+jfl,	
+jfl.	
+jfl/	
+jf;1	
+jf;2	
+jf;3	
+jf;4	
+jf;5	
+jf;6	
+jf;7	
+jf;8	
+jf;9	
+jf;0	
+jf;q	
+jf;w	
+jf;e	
+jf;r	
+jf;t	
+jf;y	
+jf;u	
+jf;i	
+jf;o	
+jf;p	
+jf;a	
+jf;s	
+jf;d	
+jf;f	
+jf;g	
+jf;h	
+jf;j	
+jf;k	
+jf;l	
+jf;;	
+jf;z	
+jf;x	
+jf;c	
+jf;v	
+jf;b	
+jf;n	
+jf;m	
+jf;,	
+jf;.	
+jf;/	
+jfz1	
+jfz2	
+jfz3	
+jfz4	
+jfz5	
+jfz6	
+jfz7	
+jfz8	
+jfz9	
+jfz0	
+jfzq	
+jfzw	
+jfze	
+jfzr	
+jfzt	
+jfzy	
+jfzu	
+jfzi	
+jfzo	
+jfzp	
+jfza	
+jfzs	
+jfzd	
+jfzf	
+jfzg	
+jfzh	
+jfzj	
+jfzk	
+jfzl	
+jfz;	
+jfzz	
+jfzx	
+jfzc	
+jfzv	
+jfzb	
+jfzn	
+jfzm	
+jfz,	
+jfz.	
+jfz/	
+jfx1	
+jfx2	
+jfx3	
+jfx4	
+jfx5	
+jfx6	
+jfx7	
+jfx8	
+jfx9	
+jfx0	
+jfxq	
+jfxw	
+jfxe	
+jfxr	
+jfxt	
+jfxy	
+jfxu	
+jfxi	
+jfxo	
+jfxp	
+jfxa	
+jfxs	
+jfxd	
+jfxf	
+jfxg	
+jfxh	
+jfxj	
+jfxk	
+jfxl	
+jfx;	
+jfxz	
+jfxx	
+jfxc	
+jfxv	
+jfxb	
+jfxn	
+jfxm	
+jfx,	
+jfx.	
+jfx/	
+jfc1	
+jfc2	
+jfc3	
+jfc4	
+jfc5	
+jfc6	
+jfc7	
+jfc8	
+jfc9	
+jfc0	
+jfcq	
+jfcw	
+jfce	
+jfcr	
+jfct	
+jfcy	
+jfcu	
+jfci	
+jfco	
+jfcp	
+jfca	
+jfcs	
+jfcd	
+jfcf	
+jfcg	
+jfch	
+jfcj	
+jfck	
+jfcl	
+jfc;	
+jfcz	
+jfcx	
+jfcc	
+jfcv	
+jfcb	
+jfcn	
+jfcm	
+jfc,	
+jfc.	
+jfc/	
+jfv1	
+jfv2	
+jfv3	
+jfv4	
+jfv5	
+jfv6	
+jfv7	
+jfv8	
+jfv9	
+jfv0	
+jfvq	
+jfvw	
+jfve	
+jfvr	
+jfvt	
+jfvy	
+jfvu	
+jfvi	
+jfvo	
+jfvp	
+jfva	
+jfvs	
+jfvd	
+jfvf	
+jfvg	
+jfvh	
+jfvj	
+jfvk	
+jfvl	
+jfv;	
+jfvz	
+jfvx	
+jfvc	
+jfvv	
+jfvb	
+jfvn	
+jfvm	
+jfv,	
+jfv.	
+jfv/	
+jfb1	
+jfb2	
+jfb3	
+jfb4	
+jfb5	
+jfb6	
+jfb7	
+jfb8	
+jfb9	
+jfb0	
+jfbq	
+jfbw	
+jfbe	
+jfbr	
+jfbt	
+jfby	
+jfbu	
+jfbi	
+jfbo	
+jfbp	
+jfba	
+jfbs	
+jfbd	
+jfbf	
+jfbg	
+jfbh	
+jfbj	
+jfbk	
+jfbl	
+jfb;	
+jfbz	
+jfbx	
+jfbc	
+jfbv	
+jfbb	
+jfbn	
+jfbm	
+jfb,	
+jfb.	
+jfb/	
+jfn1	
+jfn2	
+jfn3	
+jfn4	
+jfn5	
+jfn6	
+jfn7	
+jfn8	
+jfn9	
+jfn0	
+jfnq	
+jfnw	
+jfne	
+jfnr	
+jfnt	
+jfny	
+jfnu	
+jfni	
+jfno	
+jfnp	
+jfna	
+jfns	
+jfnd	
+jfnf	
+jfng	
+jfnh	
+jfnj	
+jfnk	
+jfnl	
+jfn;	
+jfnz	
+jfnx	
+jfnc	
+jfnv	
+jfnb	
+jfnn	
+jfnm	
+jfn,	
+jfn.	
+jfn/	
+jfm1	
+jfm2	
+jfm3	
+jfm4	
+jfm5	
+jfm6	
+jfm7	
+jfm8	
+jfm9	
+jfm0	
+jfmq	
+jfmw	
+jfme	
+jfmr	
+jfmt	
+jfmy	
+jfmu	
+jfmi	
+jfmo	
+jfmp	
+jfma	
+jfms	
+jfmd	
+jfmf	
+jfmg	
+jfmh	
+jfmj	
+jfmk	
+jfml	
+jfm;	
+jfmz	
+jfmx	
+jfmc	
+jfmv	
+jfmb	
+jfmn	
+jfmm	
+jfm,	
+jfm.	
+jfm/	
+jf,1	
+jf,2	
+jf,3	
+jf,4	
+jf,5	
+jf,6	
+jf,7	
+jf,8	
+jf,9	
+jf,0	
+jf,q	
+jf,w	
+jf,e	
+jf,r	
+jf,t	
+jf,y	
+jf,u	
+jf,i	
+jf,o	
+jf,p	
+jf,a	
+jf,s	
+jf,d	
+jf,f	
+jf,g	
+jf,h	
+jf,j	
+jf,k	
+jf,l	
+jf,;	
+jf,z	
+jf,x	
+jf,c	
+jf,v	
+jf,b	
+jf,n	
+jf,m	
+jf,,	
+jf,.	
+jf,/	
+jf.1	
+jf.2	
+jf.3	
+jf.4	
+jf.5	
+jf.6	
+jf.7	
+jf.8	
+jf.9	
+jf.0	
+jf.q	
+jf.w	
+jf.e	
+jf.r	
+jf.t	
+jf.y	
+jf.u	
+jf.i	
+jf.o	
+jf.p	
+jf.a	
+jf.s	
+jf.d	
+jf.f	
+jf.g	
+jf.h	
+jf.j	
+jf.k	
+jf.l	
+jf.;	
+jf.z	
+jf.x	
+jf.c	
+jf.v	
+jf.b	
+jf.n	
+jf.m	
+jf.,	
+jf..	
+jf./	
+jf/1	
+jf/2	
+jf/3	
+jf/4	
+jf/5	
+jf/6	
+jf/7	
+jf/8	
+jf/9	
+jf/0	
+jf/q	
+jf/w	
+jf/e	
+jf/r	
+jf/t	
+jf/y	
+jf/u	
+jf/i	
+jf/o	
+jf/p	
+jf/a	
+jf/s	
+jf/d	
+jf/f	
+jf/g	
+jf/h	
+jf/j	
+jf/k	
+jf/l	
+jf/;	
+jf/z	
+jf/x	
+jf/c	
+jf/v	
+jf/b	
+jf/n	
+jf/m	
+jf/,	
+jf/.	
+jf//	
+fj11	
+fj12	
+fj13	
+fj14	
+fj15	
+fj16	
+fj17	
+fj18	
+fj19	
+fj10	
+fj1q	
+fj1w	
+fj1e	
+fj1r	
+fj1t	
+fj1y	
+fj1u	
+fj1i	
+fj1o	
+fj1p	
+fj1a	
+fj1s	
+fj1d	
+fj1f	
+fj1g	
+fj1h	
+fj1j	
+fj1k	
+fj1l	
+fj1;	
+fj1z	
+fj1x	
+fj1c	
+fj1v	
+fj1b	
+fj1n	
+fj1m	
+fj1,	
+fj1.	
+fj1/	
+fj21	
+fj22	
+fj23	
+fj24	
+fj25	
+fj26	
+fj27	
+fj28	
+fj29	
+fj20	
+fj2q	
+fj2w	
+fj2e	
+fj2r	
+fj2t	
+fj2y	
+fj2u	
+fj2i	
+fj2o	
+fj2p	
+fj2a	
+fj2s	
+fj2d	
+fj2f	
+fj2g	
+fj2h	
+fj2j	
+fj2k	
+fj2l	
+fj2;	
+fj2z	
+fj2x	
+fj2c	
+fj2v	
+fj2b	
+fj2n	
+fj2m	
+fj2,	
+fj2.	
+fj2/	
+fj31	
+fj32	
+fj33	
+fj34	
+fj35	
+fj36	
+fj37	
+fj38	
+fj39	
+fj30	
+fj3q	
+fj3w	
+fj3e	
+fj3r	
+fj3t	
+fj3y	
+fj3u	
+fj3i	
+fj3o	
+fj3p	
+fj3a	
+fj3s	
+fj3d	
+fj3f	
+fj3g	
+fj3h	
+fj3j	
+fj3k	
+fj3l	
+fj3;	
+fj3z	
+fj3x	
+fj3c	
+fj3v	
+fj3b	
+fj3n	
+fj3m	
+fj3,	
+fj3.	
+fj3/	
+fj41	
+fj42	
+fj43	
+fj44	
+fj45	
+fj46	
+fj47	
+fj48	
+fj49	
+fj40	
+fj4q	
+fj4w	
+fj4e	
+fj4r	
+fj4t	
+fj4y	
+fj4u	
+fj4i	
+fj4o	
+fj4p	
+fj4a	
+fj4s	
+fj4d	
+fj4f	
+fj4g	
+fj4h	
+fj4j	
+fj4k	
+fj4l	
+fj4;	
+fj4z	
+fj4x	
+fj4c	
+fj4v	
+fj4b	
+fj4n	
+fj4m	
+fj4,	
+fj4.	
+fj4/	
+fj51	
+fj52	
+fj53	
+fj54	
+fj55	
+fj56	
+fj57	
+fj58	
+fj59	
+fj50	
+fj5q	
+fj5w	
+fj5e	
+fj5r	
+fj5t	
+fj5y	
+fj5u	
+fj5i	
+fj5o	
+fj5p	
+fj5a	
+fj5s	
+fj5d	
+fj5f	
+fj5g	
+fj5h	
+fj5j	
+fj5k	
+fj5l	
+fj5;	
+fj5z	
+fj5x	
+fj5c	
+fj5v	
+fj5b	
+fj5n	
+fj5m	
+fj5,	
+fj5.	
+fj5/	
+fj61	
+fj62	
+fj63	
+fj64	
+fj65	
+fj66	
+fj67	
+fj68	
+fj69	
+fj60	
+fj6q	
+fj6w	
+fj6e	
+fj6r	
+fj6t	
+fj6y	
+fj6u	
+fj6i	
+fj6o	
+fj6p	
+fj6a	
+fj6s	
+fj6d	
+fj6f	
+fj6g	
+fj6h	
+fj6j	
+fj6k	
+fj6l	
+fj6;	
+fj6z	
+fj6x	
+fj6c	
+fj6v	
+fj6b	
+fj6n	
+fj6m	
+fj6,	
+fj6.	
+fj6/	
+fj71	
+fj72	
+fj73	
+fj74	
+fj75	
+fj76	
+fj77	
+fj78	
+fj79	
+fj70	
+fj7q	
+fj7w	
+fj7e	
+fj7r	
+fj7t	
+fj7y	
+fj7u	
+fj7i	
+fj7o	
+fj7p	
+fj7a	
+fj7s	
+fj7d	
+fj7f	
+fj7g	
+fj7h	
+fj7j	
+fj7k	
+fj7l	
+fj7;	
+fj7z	
+fj7x	
+fj7c	
+fj7v	
+fj7b	
+fj7n	
+fj7m	
+fj7,	
+fj7.	
+fj7/	
+fj81	
+fj82	
+fj83	
+fj84	
+fj85	
+fj86	
+fj87	
+fj88	
+fj89	
+fj80	
+fj8q	
+fj8w	
+fj8e	
+fj8r	
+fj8t	
+fj8y	
+fj8u	
+fj8i	
+fj8o	
+fj8p	
+fj8a	
+fj8s	
+fj8d	
+fj8f	
+fj8g	
+fj8h	
+fj8j	
+fj8k	
+fj8l	
+fj8;	
+fj8z	
+fj8x	
+fj8c	
+fj8v	
+fj8b	
+fj8n	
+fj8m	
+fj8,	
+fj8.	
+fj8/	
+fj91	
+fj92	
+fj93	
+fj94	
+fj95	
+fj96	
+fj97	
+fj98	
+fj99	
+fj90	
+fj9q	
+fj9w	
+fj9e	
+fj9r	
+fj9t	
+fj9y	
+fj9u	
+fj9i	
+fj9o	
+fj9p	
+fj9a	
+fj9s	
+fj9d	
+fj9f	
+fj9g	
+fj9h	
+fj9j	
+fj9k	
+fj9l	
+fj9;	
+fj9z	
+fj9x	
+fj9c	
+fj9v	
+fj9b	
+fj9n	
+fj9m	
+fj9,	
+fj9.	
+fj9/	
+fj01	
+fj02	
+fj03	
+fj04	
+fj05	
+fj06	
+fj07	
+fj08	
+fj09	
+fj00	
+fj0q	
+fj0w	
+fj0e	
+fj0r	
+fj0t	
+fj0y	
+fj0u	
+fj0i	
+fj0o	
+fj0p	
+fj0a	
+fj0s	
+fj0d	
+fj0f	
+fj0g	
+fj0h	
+fj0j	
+fj0k	
+fj0l	
+fj0;	
+fj0z	
+fj0x	
+fj0c	
+fj0v	
+fj0b	
+fj0n	
+fj0m	
+fj0,	
+fj0.	
+fj0/	
+fjq1	
+fjq2	
+fjq3	
+fjq4	
+fjq5	
+fjq6	
+fjq7	
+fjq8	
+fjq9	
+fjq0	
+fjqq	
+fjqw	
+fjqe	
+fjqr	
+fjqt	
+fjqy	
+fjqu	
+fjqi	
+fjqo	
+fjqp	
+fjqa	
+fjqs	
+fjqd	
+fjqf	
+fjqg	
+fjqh	
+fjqj	
+fjqk	
+fjql	
+fjq;	
+fjqz	
+fjqx	
+fjqc	
+fjqv	
+fjqb	
+fjqn	
+fjqm	
+fjq,	
+fjq.	
+fjq/	
+fjw1	
+fjw2	
+fjw3	
+fjw4	
+fjw5	
+fjw6	
+fjw7	
+fjw8	
+fjw9	
+fjw0	
+fjwq	
+fjww	
+fjwe	
+fjwr	
+fjwt	
+fjwy	
+fjwu	
+fjwi	
+fjwo	
+fjwp	
+fjwa	
+fjws	
+fjwd	
+fjwf	
+fjwg	
+fjwh	
+fjwj	
+fjwk	
+fjwl	
+fjw;	
+fjwz	
+fjwx	
+fjwc	
+fjwv	
+fjwb	
+fjwn	
+fjwm	
+fjw,	
+fjw.	
+fjw/	
+fje1	
+fje2	
+fje3	
+fje4	
+fje5	
+fje6	
+fje7	
+fje8	
+fje9	
+fje0	
+fjeq	
+fjew	
+fjee	
+fjer	
+fjet	
+fjey	
+fjeu	
+fjei	
+fjeo	
+fjep	
+fjea	
+fjes	
+fjed	
+fjef	
+fjeg	
+fjeh	
+fjej	
+fjek	
+fjel	
+fje;	
+fjez	
+fjex	
+fjec	
+fjev	
+fjeb	
+fjen	
+fjem	
+fje,	
+fje.	
+fje/	
+fjr1	
+fjr2	
+fjr3	
+fjr4	
+fjr5	
+fjr6	
+fjr7	
+fjr8	
+fjr9	
+fjr0	
+fjrq	
+fjrw	
+fjre	
+fjrr	
+fjrt	
+fjry	
+fjru	
+fjri	
+fjro	
+fjrp	
+fjra	
+fjrs	
+fjrd	
+fjrf	
+fjrg	
+fjrh	
+fjrj	
+fjrk	
+fjrl	
+fjr;	
+fjrz	
+fjrx	
+fjrc	
+fjrv	
+fjrb	
+fjrn	
+fjrm	
+fjr,	
+fjr.	
+fjr/	
+fjt1	
+fjt2	
+fjt3	
+fjt4	
+fjt5	
+fjt6	
+fjt7	
+fjt8	
+fjt9	
+fjt0	
+fjtq	
+fjtw	
+fjte	
+fjtr	
+fjtt	
+fjty	
+fjtu	
+fjti	
+fjto	
+fjtp	
+fjta	
+fjts	
+fjtd	
+fjtf	
+fjtg	
+fjth	
+fjtj	
+fjtk	
+fjtl	
+fjt;	
+fjtz	
+fjtx	
+fjtc	
+fjtv	
+fjtb	
+fjtn	
+fjtm	
+fjt,	
+fjt.	
+fjt/	
+fjy1	
+fjy2	
+fjy3	
+fjy4	
+fjy5	
+fjy6	
+fjy7	
+fjy8	
+fjy9	
+fjy0	
+fjyq	
+fjyw	
+fjye	
+fjyr	
+fjyt	
+fjyy	
+fjyu	
+fjyi	
+fjyo	
+fjyp	
+fjya	
+fjys	
+fjyd	
+fjyf	
+fjyg	
+fjyh	
+fjyj	
+fjyk	
+fjyl	
+fjy;	
+fjyz	
+fjyx	
+fjyc	
+fjyv	
+fjyb	
+fjyn	
+fjym	
+fjy,	
+fjy.	
+fjy/	
+fju1	
+fju2	
+fju3	
+fju4	
+fju5	
+fju6	
+fju7	
+fju8	
+fju9	
+fju0	
+fjuq	
+fjuw	
+fjue	
+fjur	
+fjut	
+fjuy	
+fjuu	
+fjui	
+fjuo	
+fjup	
+fjua	
+fjus	
+fjud	
+fjuf	
+fjug	
+fjuh	
+fjuj	
+fjuk	
+fjul	
+fju;	
+fjuz	
+fjux	
+fjuc	
+fjuv	
+fjub	
+fjun	
+fjum	
+fju,	
+fju.	
+fju/	
+fji1	
+fji2	
+fji3	
+fji4	
+fji5	
+fji6	
+fji7	
+fji8	
+fji9	
+fji0	
+fjiq	
+fjiw	
+fjie	
+fjir	
+fjit	
+fjiy	
+fjiu	
+fjii	
+fjio	
+fjip	
+fjia	
+fjis	
+fjid	
+fjif	
+fjig	
+fjih	
+fjij	
+fjik	
+fjil	
+fji;	
+fjiz	
+fjix	
+fjic	
+fjiv	
+fjib	
+fjin	
+fjim	
+fji,	
+fji.	
+fji/	
+fjo1	
+fjo2	
+fjo3	
+fjo4	
+fjo5	
+fjo6	
+fjo7	
+fjo8	
+fjo9	
+fjo0	
+fjoq	
+fjow	
+fjoe	
+fjor	
+fjot	
+fjoy	
+fjou	
+fjoi	
+fjoo	
+fjop	
+fjoa	
+fjos	
+fjod	
+fjof	
+fjog	
+fjoh	
+fjoj	
+fjok	
+fjol	
+fjo;	
+fjoz	
+fjox	
+fjoc	
+fjov	
+fjob	
+fjon	
+fjom	
+fjo,	
+fjo.	
+fjo/	
+fjp1	
+fjp2	
+fjp3	
+fjp4	
+fjp5	
+fjp6	
+fjp7	
+fjp8	
+fjp9	
+fjp0	
+fjpq	
+fjpw	
+fjpe	
+fjpr	
+fjpt	
+fjpy	
+fjpu	
+fjpi	
+fjpo	
+fjpp	
+fjpa	
+fjps	
+fjpd	
+fjpf	
+fjpg	
+fjph	
+fjpj	
+fjpk	
+fjpl	
+fjp;	
+fjpz	
+fjpx	
+fjpc	
+fjpv	
+fjpb	
+fjpn	
+fjpm	
+fjp,	
+fjp.	
+fjp/	
+fja1	
+fja2	
+fja3	
+fja4	
+fja5	
+fja6	
+fja7	
+fja8	
+fja9	
+fja0	
+fjaq	
+fjaw	
+fjae	
+fjar	
+fjat	
+fjay	
+fjau	
+fjai	
+fjao	
+fjap	
+fjaa	
+fjas	
+fjad	
+fjaf	
+fjag	
+fjah	
+fjaj	
+fjak	
+fjal	
+fja;	
+fjaz	
+fjax	
+fjac	
+fjav	
+fjab	
+fjan	
+fjam	
+fja,	
+fja.	
+fja/	
+fjs1	
+fjs2	
+fjs3	
+fjs4	
+fjs5	
+fjs6	
+fjs7	
+fjs8	
+fjs9	
+fjs0	
+fjsq	
+fjsw	
+fjse	
+fjsr	
+fjst	
+fjsy	
+fjsu	
+fjsi	
+fjso	
+fjsp	
+fjsa	
+fjss	
+fjsd	
+fjsf	
+fjsg	
+fjsh	
+fjsj	
+fjsk	
+fjsl	
+fjs;	
+fjsz	
+fjsx	
+fjsc	
+fjsv	
+fjsb	
+fjsn	
+fjsm	
+fjs,	
+fjs.	
+fjs/	
+fjd1	
+fjd2	
+fjd3	
+fjd4	
+fjd5	
+fjd6	
+fjd7	
+fjd8	
+fjd9	
+fjd0	
+fjdq	
+fjdw	
+fjde	
+fjdr	
+fjdt	
+fjdy	
+fjdu	
+fjdi	
+fjdo	
+fjdp	
+fjda	
+fjds	
+fjdd	
+fjdf	
+fjdg	
+fjdh	
+fjdj	
+fjdk	
+fjdl	
+fjd;	
+fjdz	
+fjdx	
+fjdc	
+fjdv	
+fjdb	
+fjdn	
+fjdm	
+fjd,	
+fjd.	
+fjd/	
+fjf1	
+fjf2	
+fjf3	
+fjf4	
+fjf5	
+fjf6	
+fjf7	
+fjf8	
+fjf9	
+fjf0	
+fjfq	
+fjfw	
+fjfe	
+fjfr	
+fjft	
+fjfy	
+fjfu	
+fjfi	
+fjfo	
+fjfp	
+fjfa	
+fjfs	
+fjfd	
+fjff	
+fjfg	
+fjfh	
+fjfj	
+fjfk	
+fjfl	
+fjf;	
+fjfz	
+fjfx	
+fjfc	
+fjfv	
+fjfb	
+fjfn	
+fjfm	
+fjf,	
+fjf.	
+fjf/	
+fjg1	
+fjg2	
+fjg3	
+fjg4	
+fjg5	
+fjg6	
+fjg7	
+fjg8	
+fjg9	
+fjg0	
+fjgq	
+fjgw	
+fjge	
+fjgr	
+fjgt	
+fjgy	
+fjgu	
+fjgi	
+fjgo	
+fjgp	
+fjga	
+fjgs	
+fjgd	
+fjgf	
+fjgg	
+fjgh	
+fjgj	
+fjgk	
+fjgl	
+fjg;	
+fjgz	
+fjgx	
+fjgc	
+fjgv	
+fjgb	
+fjgn	
+fjgm	
+fjg,	
+fjg.	
+fjg/	
+fjh1	
+fjh2	
+fjh3	
+fjh4	
+fjh5	
+fjh6	
+fjh7	
+fjh8	
+fjh9	
+fjh0	
+fjhq	
+fjhw	
+fjhe	
+fjhr	
+fjht	
+fjhy	
+fjhu	
+fjhi	
+fjho	
+fjhp	
+fjha	
+fjhs	
+fjhd	
+fjhf	
+fjhg	
+fjhh	
+fjhj	
+fjhk	
+fjhl	
+fjh;	
+fjhz	
+fjhx	
+fjhc	
+fjhv	
+fjhb	
+fjhn	
+fjhm	
+fjh,	
+fjh.	
+fjh/	
+fjj1	
+fjj2	
+fjj3	
+fjj4	
+fjj5	
+fjj6	
+fjj7	
+fjj8	
+fjj9	
+fjj0	
+fjjq	
+fjjw	
+fjje	
+fjjr	
+fjjt	
+fjjy	
+fjju	
+fjji	
+fjjo	
+fjjp	
+fjja	
+fjjs	
+fjjd	
+fjjf	
+fjjg	
+fjjh	
+fjjj	
+fjjk	
+fjjl	
+fjj;	
+fjjz	
+fjjx	
+fjjc	
+fjjv	
+fjjb	
+fjjn	
+fjjm	
+fjj,	
+fjj.	
+fjj/	
+fjk1	
+fjk2	
+fjk3	
+fjk4	
+fjk5	
+fjk6	
+fjk7	
+fjk8	
+fjk9	
+fjk0	
+fjkq	
+fjkw	
+fjke	
+fjkr	
+fjkt	
+fjky	
+fjku	
+fjki	
+fjko	
+fjkp	
+fjka	
+fjks	
+fjkd	
+fjkf	
+fjkg	
+fjkh	
+fjkj	
+fjkk	
+fjkl	
+fjk;	
+fjkz	
+fjkx	
+fjkc	
+fjkv	
+fjkb	
+fjkn	
+fjkm	
+fjk,	
+fjk.	
+fjk/	
+fjl1	
+fjl2	
+fjl3	
+fjl4	
+fjl5	
+fjl6	
+fjl7	
+fjl8	
+fjl9	
+fjl0	
+fjlq	
+fjlw	
+fjle	
+fjlr	
+fjlt	
+fjly	
+fjlu	
+fjli	
+fjlo	
+fjlp	
+fjla	
+fjls	
+fjld	
+fjlf	
+fjlg	
+fjlh	
+fjlj	
+fjlk	
+fjll	
+fjl;	
+fjlz	
+fjlx	
+fjlc	
+fjlv	
+fjlb	
+fjln	
+fjlm	
+fjl,	
+fjl.	
+fjl/	
+fj;1	
+fj;2	
+fj;3	
+fj;4	
+fj;5	
+fj;6	
+fj;7	
+fj;8	
+fj;9	
+fj;0	
+fj;q	
+fj;w	
+fj;e	
+fj;r	
+fj;t	
+fj;y	
+fj;u	
+fj;i	
+fj;o	
+fj;p	
+fj;a	
+fj;s	
+fj;d	
+fj;f	
+fj;g	
+fj;h	
+fj;j	
+fj;k	
+fj;l	
+fj;;	
+fj;z	
+fj;x	
+fj;c	
+fj;v	
+fj;b	
+fj;n	
+fj;m	
+fj;,	
+fj;.	
+fj;/	
+fjz1	
+fjz2	
+fjz3	
+fjz4	
+fjz5	
+fjz6	
+fjz7	
+fjz8	
+fjz9	
+fjz0	
+fjzq	
+fjzw	
+fjze	
+fjzr	
+fjzt	
+fjzy	
+fjzu	
+fjzi	
+fjzo	
+fjzp	
+fjza	
+fjzs	
+fjzd	
+fjzf	
+fjzg	
+fjzh	
+fjzj	
+fjzk	
+fjzl	
+fjz;	
+fjzz	
+fjzx	
+fjzc	
+fjzv	
+fjzb	
+fjzn	
+fjzm	
+fjz,	
+fjz.	
+fjz/	
+fjx1	
+fjx2	
+fjx3	
+fjx4	
+fjx5	
+fjx6	
+fjx7	
+fjx8	
+fjx9	
+fjx0	
+fjxq	
+fjxw	
+fjxe	
+fjxr	
+fjxt	
+fjxy	
+fjxu	
+fjxi	
+fjxo	
+fjxp	
+fjxa	
+fjxs	
+fjxd	
+fjxf	
+fjxg	
+fjxh	
+fjxj	
+fjxk	
+fjxl	
+fjx;	
+fjxz	
+fjxx	
+fjxc	
+fjxv	
+fjxb	
+fjxn	
+fjxm	
+fjx,	
+fjx.	
+fjx/	
+fjc1	
+fjc2	
+fjc3	
+fjc4	
+fjc5	
+fjc6	
+fjc7	
+fjc8	
+fjc9	
+fjc0	
+fjcq	
+fjcw	
+fjce	
+fjcr	
+fjct	
+fjcy	
+fjcu	
+fjci	
+fjco	
+fjcp	
+fjca	
+fjcs	
+fjcd	
+fjcf	
+fjcg	
+fjch	
+fjcj	
+fjck	
+fjcl	
+fjc;	
+fjcz	
+fjcx	
+fjcc	
+fjcv	
+fjcb	
+fjcn	
+fjcm	
+fjc,	
+fjc.	
+fjc/	
+fjv1	
+fjv2	
+fjv3	
+fjv4	
+fjv5	
+fjv6	
+fjv7	
+fjv8	
+fjv9	
+fjv0	
+fjvq	
+fjvw	
+fjve	
+fjvr	
+fjvt	
+fjvy	
+fjvu	
+fjvi	
+fjvo	
+fjvp	
+fjva	
+fjvs	
+fjvd	
+fjvf	
+fjvg	
+fjvh	
+fjvj	
+fjvk	
+fjvl	
+fjv;	
+fjvz	
+fjvx	
+fjvc	
+fjvv	
+fjvb	
+fjvn	
+fjvm	
+fjv,	
+fjv.	
+fjv/	
+fjb1	
+fjb2	
+fjb3	
+fjb4	
+fjb5	
+fjb6	
+fjb7	
+fjb8	
+fjb9	
+fjb0	
+fjbq	
+fjbw	
+fjbe	
+fjbr	
+fjbt	
+fjby	
+fjbu	
+fjbi	
+fjbo	
+fjbp	
+fjba	
+fjbs	
+fjbd	
+fjbf	
+fjbg	
+fjbh	
+fjbj	
+fjbk	
+fjbl	
+fjb;	
+fjbz	
+fjbx	
+fjbc	
+fjbv	
+fjbb	
+fjbn	
+fjbm	
+fjb,	
+fjb.	
+fjb/	
+fjn1	
+fjn2	
+fjn3	
+fjn4	
+fjn5	
+fjn6	
+fjn7	
+fjn8	
+fjn9	
+fjn0	
+fjnq	
+fjnw	
+fjne	
+fjnr	
+fjnt	
+fjny	
+fjnu	
+fjni	
+fjno	
+fjnp	
+fjna	
+fjns	
+fjnd	
+fjnf	
+fjng	
+fjnh	
+fjnj	
+fjnk	
+fjnl	
+fjn;	
+fjnz	
+fjnx	
+fjnc	
+fjnv	
+fjnb	
+fjnn	
+fjnm	
+fjn,	
+fjn.	
+fjn/	
+fjm1	
+fjm2	
+fjm3	
+fjm4	
+fjm5	
+fjm6	
+fjm7	
+fjm8	
+fjm9	
+fjm0	
+fjmq	
+fjmw	
+fjme	
+fjmr	
+fjmt	
+fjmy	
+fjmu	
+fjmi	
+fjmo	
+fjmp	
+fjma	
+fjms	
+fjmd	
+fjmf	
+fjmg	
+fjmh	
+fjmj	
+fjmk	
+fjml	
+fjm;	
+fjmz	
+fjmx	
+fjmc	
+fjmv	
+fjmb	
+fjmn	
+fjmm	
+fjm,	
+fjm.	
+fjm/	
+fj,1	
+fj,2	
+fj,3	
+fj,4	
+fj,5	
+fj,6	
+fj,7	
+fj,8	
+fj,9	
+fj,0	
+fj,q	
+fj,w	
+fj,e	
+fj,r	
+fj,t	
+fj,y	
+fj,u	
+fj,i	
+fj,o	
+fj,p	
+fj,a	
+fj,s	
+fj,d	
+fj,f	
+fj,g	
+fj,h	
+fj,j	
+fj,k	
+fj,l	
+fj,;	
+fj,z	
+fj,x	
+fj,c	
+fj,v	
+fj,b	
+fj,n	
+fj,m	
+fj,,	
+fj,.	
+fj,/	
+fj.1	
+fj.2	
+fj.3	
+fj.4	
+fj.5	
+fj.6	
+fj.7	
+fj.8	
+fj.9	
+fj.0	
+fj.q	
+fj.w	
+fj.e	
+fj.r	
+fj.t	
+fj.y	
+fj.u	
+fj.i	
+fj.o	
+fj.p	
+fj.a	
+fj.s	
+fj.d	
+fj.f	
+fj.g	
+fj.h	
+fj.j	
+fj.k	
+fj.l	
+fj.;	
+fj.z	
+fj.x	
+fj.c	
+fj.v	
+fj.b	
+fj.n	
+fj.m	
+fj.,	
+fj..	
+fj./	
+fj/1	
+fj/2	
+fj/3	
+fj/4	
+fj/5	
+fj/6	
+fj/7	
+fj/8	
+fj/9	
+fj/0	
+fj/q	
+fj/w	
+fj/e	
+fj/r	
+fj/t	
+fj/y	
+fj/u	
+fj/i	
+fj/o	
+fj/p	
+fj/a	
+fj/s	
+fj/d	
+fj/f	
+fj/g	
+fj/h	
+fj/j	
+fj/k	
+fj/l	
+fj/;	
+fj/z	
+fj/x	
+fj/c	
+fj/v	
+fj/b	
+fj/n	
+fj/m	
+fj/,	
+fj/.	
+fj//	
+te	!
+bz	%
+ke	(
+id	)
+kf	0
+;d	1
+;f	2
+ha	3
+ud	4
+ld	5
+if	6
+he	7
+kt	8
+kv	9
+3.	?
+jf.z	　
+jd	、
+hf	。
+jfjd	，
+jfhf	．
+lf	・
+jfmw	：
+jfmq	；
+jf6f	゛
+jf6r	゜	NAKAMIDASI:合成
+jf6d	´
+jf6e	｀
+jf6s	¨
+jf6w	＾
+jf6q	￣
+jf6a	＿
+jfmx	ヽ
+jfmz	ヾ
+jfmv	ゝ
+jfmc	ゞ
+jfmd	〃
+jfms	仝
+fw	々
+jfma	〆
+ka	〇
+hs	ー
+kc	—
+jfmb	‐
+jfmf	／
+jfmg	＼
+,m	〜
+jfmt	‖	NAKAMIDASI:記述
+jfmr	｜
+jflf	…
+jfme	‥
+jf,x	‘
+jf,c	’
+jf,z	“
+jf,v	”
+jf,q	〔
+jf,r	〕
+jf,1	［
+jf,4	］	NAKAMIDASI:括弧
+jf,2	｛
+jf,3	｝
+jf,s	〈
+jf,d	〉
+jf,a	《
+jf,f	》
+,g	「
+jv	」
+jf,g	『
+jfjv	』
+jf,w	【
+jf,e	】
+jf8f	＋
+jf8a	−
+jf8b	±
+jf8d	×
+jf8s	÷
+jf8g	＝
+jf8t	≠	NAKAMIDASI:学術
+jf8q	＜
+jf8r	＞
+jf8w	≦
+jf8e	≧
+jf9t	∞
+jf9r	∴
+jf9e	♂
+jf9w	♀
+jf7r	°
+jf7e	′
+jf7w	″
+jf7q	℃
+jf7f	￥
+jf7d	＄
+jf7s	¢
+jf7a	£
+jf.1	＃
+jf.2	＆
+jf.3	＊
+jf.4	＠	NAKAMIDASI:一般
+jf/g	§
+jf.a	☆
+jf/a	★
+jf.f	○
+jf/f	●
+jf.v	◎
+jf.c	◇
+jf/c	◆
+jf.d	□
+jf/d	■
+jf.s	△
+jf/s	▲
+jf.x	▽
+jf/x	▼
+jf/v	※
+jf/b	〒
+jf/r	→
+jf/q	←
+jf/e	↑
+jf/w	↓
+jf/z	〓
+jf0a	∈
+jf0s	∋
+jf0w	⊆
+jf0e	⊇
+jf0q	⊂
+jf0r	⊃
+jf0f	∪
+jf0d	∩
+jf0c	∧
+jf0v	∨
+jf0b	¬
+jf0t	⇒
+jf0g	⇔
+jf0x	∀
+jf0z	∃
+jf9d	∠
+jf9s	⊥
+jf9a	⌒
+jf9v	∂
+jf9c	∇
+jf8c	≡
+jf8x	≒
+jf8z	≪
+jf8v	≫
+jf9q	√
+jf9g	∽
+jf9b	∝
+jf9f	∵
+jf9x	∫
+jf9z	∬
+jf7t	Å	NAKAMIDASI:単位
+jf7g	‰
+jf.e	♯
+jf.w	♭
+jf.q	♪
+jf.r	†
+jf.t	‡
+jf/t	¶
+jf.g	◯
+fj4q	Ａ	OOMIDASI:L
+fj4w	Ｂ
+fj4e	Ｃ
+fj4r	Ｄ
+fj4t	Ｅ
+fj4y	Ｆ
+fj4u	Ｇ
+fj4i	Ｈ
+fj4o	Ｉ
+fj4p	Ｊ
+fj4a	Ｋ
+fj4s	Ｌ
+fj4d	Ｍ
+fj4f	Ｎ
+fj4g	Ｏ
+fj4h	Ｐ
+fj4j	Ｑ
+fj4k	Ｒ
+fj4l	Ｓ
+fj4;	Ｔ
+fj4z	Ｕ
+fj4x	Ｖ
+fj4c	Ｗ
+fj4v	Ｘ
+fj4b	Ｙ
+fj4n	Ｚ
+fj7q	ａ	OOMIDASI:l
+fj7w	ｂ
+fj7e	ｃ
+fj7r	ｄ
+fj7t	ｅ
+fj7y	ｆ
+fj7u	ｇ
+fj7i	ｈ
+fj7o	ｉ
+fj7p	ｊ
+fj7a	ｋ
+fj7s	ｌ
+fj7d	ｍ
+fj7f	ｎ
+fj7g	ｏ
+fj7h	ｐ
+fj7j	ｑ
+fj7k	ｒ
+fj7l	ｓ
+fj7;	ｔ
+fj7z	ｕ
+fj7x	ｖ
+fj7c	ｗ
+fj7v	ｘ
+fj7b	ｙ
+fj7n	ｚ
+1z	ぁ
+yf	あ
+1x	ぃ
+hd	い
+1c	ぅ
+yd	う
+1v	ぇ
+lt	え
+1b	ぉ
+oa	お
+je	か
+;s	が
+hr	き
+qf	ぎ
+jt	く
+dt	ぐ
+nf	け
+/z	げ
+uf	こ
+/k	ご
+ug	さ
+fo	ざ
+js	し
+ux	じ
+,f	す
+,z	ず
+uw	せ
+;3	ぜ
+;b	そ
+.u	ぞ
+ks	た
+hc	だ
+/a	ち
+8v	ぢ
+jr	っ
+.d	つ
+ek	づ
+la	て
+hg	で
+ja	と
+kq	ど
+lg	な
+kg	に
+a.	ぬ
+fd	ね
+kd	の
+jg	は
+,w	ば
+1a	ぱ
+m.	ひ
+jo	び
+1s	ぴ
+rs	ふ
+sb	ぶ
+1d	ぷ
+;;	へ
+yl	べ
+1f	ぺ
+pz	ほ
+cm	ぼ
+1g	ぽ
+md	ま
+/g	み
+yh	む
+lc	め
+ia	も
+tt	ゃ
+ye	や
+q.	ゅ
+cc	ゆ
+,.	ょ
+jw	よ
+ig	ら
+jc	り
+;a	る
+;e	れ
+ps	ろ
+a1	ゎ
+ys	わ
+s1	ゐ
+d1	ゑ
+;g	を
+nd	ん
+zi	ァ
+;w	ア
+po	ィ
+mf	イ
+1w	ゥ
+.x	ウ
+td	ェ
+kk	エ
+mu	ォ
+/c	オ
+jx	カ
+mk	ガ
+yw	キ
+bx	ギ
+ms	ク
+/x	グ
+yj	ケ
+tn	ゲ
+yr	コ
+mj	ゴ
+nt	サ
+g,	ザ
+pg	シ
+;z	ジ
+ua	ス
+//	ズ
+hi	セ
+vn	ゼ
+il	ソ
+u;	ゾ
+ie	タ
+ok	ダ
+/r	チ
+1r	ヂ
+na	ッ
+ki	ツ
+1t	ヅ
+.e	テ
+hk	デ
+le	ト
+jz	ド
+yt	ナ
+ov	ニ
+k/	ヌ
+mm	ネ
+nl	ノ
+lm	ハ
+yc	バ
+,t	パ
+za	ヒ
+,v	ビ
+m/	ピ
+/s	フ
+,h	ブ
+mw	プ
+m3	ヘ
+;j	ベ
+rt	ペ
+nh	ホ
+sg	ボ
+k,	ポ
+it	マ
+;,	ミ
+ub	ム
+,x	メ
+yo	モ
+;o	ャ
+nn	ヤ
+.w	ュ
+o.	ユ
+.;	ョ
+zz	ヨ
+us	ラ
+pd	リ
+kw	ル
+;q	レ
+ns	ロ
+q1	ヮ
+oi	ワ
+w1	ヰ
+e1	ヱ
+1q	ヲ
+,d	ン
+1e	ヴ
+r1	ヵ
+t1	ヶ
+fj3q	Α	OOMIDASI:G
+fj3w	Β
+fj3e	Γ
+fj3r	Δ
+fj3t	Ε
+fj3y	Ζ
+fj3u	Η
+fj3i	Θ
+fj3o	Ι
+fj3p	Κ
+fj3a	Λ
+fj3s	Μ
+fj3d	Ν
+fj3f	Ξ
+fj3g	Ο
+fj3h	Π
+fj3j	Ρ
+fj3k	Σ
+fj3l	Τ
+fj3;	Υ
+fj3z	Φ
+fj3x	Χ
+fj3c	Ψ
+fj3v	Ω
+fj8q	α	OOMIDASI:g
+fj8w	β
+fj8e	γ
+fj8r	δ
+fj8t	ε
+fj8y	ζ
+fj8u	η
+fj8i	θ
+fj8o	ι
+fj8p	κ
+fj8a	λ
+fj8s	μ
+fj8d	ν
+fj8f	ξ
+fj8g	ο
+fj8h	π
+fj8j	ρ
+fj8k	σ
+fj8l	τ
+fj8;	υ
+fj8z	φ
+fj8x	χ
+fj8c	ψ
+fj8v	ω
+fj5q	А	OOMIDASI:C
+fj5w	Б
+fj5e	В
+fj5r	Г
+fj5t	Д
+fj5y	Е
+fj5u	Ё
+fj5i	Ж
+fj5o	З
+fj5p	И
+fj5a	Й
+fj5s	К
+fj5d	Л
+fj5f	М
+fj5g	Н
+fj5h	О
+fj5j	П
+fj5k	Р
+fj5l	С
+fj5;	Т
+fj5z	У
+fj5x	Ф
+fj5c	Х
+fj5v	Ц
+fj5b	Ч
+fj5n	Ш
+fj5m	Щ
+fj5,	Ъ
+fj5.	Ы
+fj5/	Ь
+fj51	Э
+fj52	Ю
+fj53	Я
+fj6q	а	OOMIDASI:c
+fj6w	б
+fj6e	в
+fj6r	г
+fj6t	д
+fj6y	е
+fj6u	ё
+fj6i	ж
+fj6o	з
+fj6p	и
+fj6a	й
+fj6s	к
+fj6d	л
+fj6f	м
+fj6g	н
+fj6h	о
+fj6j	п
+fj6k	р
+fj6l	с
+fj6;	т
+fj6z	у
+fj6x	ф
+fj6c	х
+fj6v	ц
+fj6b	ч
+fj6n	ш
+fj6m	щ
+fj6,	ъ
+fj6.	ы
+fj6/	ь
+fj61	э
+fj62	ю
+fj63	я
+jf3k	─
+jf3j	│
+jf3y	┌
+jf3p	┐
+jf3/	┘
+jf3n	└
+jf3h	├
+jf3i	┬
+jf3;	┤
+jf3,	┴
+jf3l	┼
+jf2k	━
+jf2j	┃
+jf2y	┏
+jf2p	┓
+jf2/	┛
+jf2n	┗
+jf2h	┣
+jf2i	┳
+jf2;	┫
+jf2,	┻
+jf2l	╋
+jf1h	┠
+jf1i	┯
+jf1;	┨
+jf1,	┷
+jf1l	┿
+jf4h	┝
+jf4i	┰	NAKAMIDASI:罫線
+jf4;	┥
+jf4,	┸
+jf4l	╂
+g6	亜
+fjtt	唖	OOMIDASI:あ
+fjtr	娃
+5l	阿
+2q	哀
+fh	愛
+fjte	挨
+fjtw	姶
+2w	逢
+fjtq	葵
+fjtg	茜
+fjtf	穐
+xp	悪
+jftt	握	OOMIDASI:あ
+fjtd	渥
+fjts	旭
+fjta	葦
+fjtb	芦
+fjtv	鯵
+fjtc	梓
+i4	圧
+fjtx	斡
+w9	扱
+2e	宛
+fjtz	姐
+fjrt	虻
+fjrr	飴
+fjre	絢
+fjrw	綾
+fjrq	鮎
+fjrg	或
+fjrf	粟
+fjrd	袷
+lu	安
+2t	庵
+fjrs	按
+jfyt	暗	OOMIDASI:ア
+ae	案
+fjra	闇
+fjrb	鞍
+fjrv	杏
+j/	以
+sx	伊
+gq	位
+n1	依
+jftr	偉
+2r	囲
+fjrc	夷	NAKAMIDASI:い
+nv	委
+jfte	威
+jftw	尉
+fjrx	惟
+.n	意
+2a	慰
+8r	易
+fjrz	椅
+2s	為
+fjet	畏
+8w	異
+r6	移
+f7	維
+jftq	緯
+2g	胃
+fjer	萎
+0c	衣
+fjee	謂
+sp	違
+t0	遺
+on	医
+ky	井
+fjew	亥
+l2	域
+ff	育
+fjeq	郁
+fjeg	磯
+ls	一
+jftg	壱
+fjef	溢
+jftf	逸
+9q	稲
+fjed	茨
+jftd	芋
+fjes	鰯
+fjea	允
+go	印
+fjeb	咽
+jq	員
+ct	因
+jfts	姻
+fe	引
+jfyr	飲
+fjev	淫
+fjec	胤
+fjex	蔭
+gc	院
+2d	陰
+2f	隠
+jfta	韻
+fjez	吋
+tl	右
+vr	宇
+fjwt	烏	NAKAMIDASI:う
+un	羽
+fjwr	迂
+tx	雨
+fjwe	卯
+fjww	鵜
+fjwq	窺
+q2	丑
+fjwg	碓
+w2	臼
+jftb	渦	NAKAMIDASI:う
+fjwf	嘘
+fjwd	唄
+fjws	欝
+fjwa	蔚
+fjwb	鰻
+fjwv	姥
+fjwc	厩
+i.	浦
+fjwx	瓜
+fjwz	閏
+fjqt	噂
+fjqr	云
+ji	運
+4;	雲
+fjqe	荏	NAKAMIDASI:え
+fjqw	餌
+fjqq	叡
+l/	営
+fjqg	嬰
+9b	影
+j;	映
+t2	曳
+f,	栄
+xj	永
+jfye	泳
+fjqf	洩
+fjqd	瑛
+fjqs	盈
+fjqa	穎
+fjqb	頴
+ag	英
+d;	衛
+jftv	詠	NAKAMIDASI:え
+jftc	鋭
+jfyw	液
+jftx	疫
+h2	益
+oh	駅
+jftz	悦
+jfrt	謁
+th	越
+jfrr	閲
+fjqv	榎
+fjqc	厭
+kz	円
+ra	園
+fjqx	堰
+fjqz	奄
+e2	宴
+8t	延
+fjgt	怨
+fjgr	掩
+j2	援
+jfyq	沿
+;p	演
+jfre	炎
+fjge	焔
+jfrw	煙
+fjgw	燕
+jfrq	猿
+r2	縁
+fjgq	艶
+fjgg	苑
+fjgf	薗
+nu	遠
+jfrg	鉛
+fjgd	鴛
+r7	塩
+a2	於
+s2	汚
+fjgs	甥	NAKAMIDASI:お
+jfrf	凹	NAKAMIDASI:お
+cb	央
+xt	奥
+jfyg	往
+gw	応
+p5	押
+fjga	旺
+ar	横
+s6	欧
+jfrd	殴
+sw	王
+jfrs	翁
+fjgb	襖
+fjgv	鴬
+fjgc	鴎
+e4	黄
+sa	岡
+jfra	沖
+fjgx	荻
+an	億
+ip	屋
+jfrb	憶
+fjgz	臆
+fjft	桶
+fjfr	牡
+d2	乙
+fjfe	俺
+4l	卸
+jfyf	恩
+l1	温
+f2	穏
+aw	音
+,b	下
+mv	化
+jfyd	仮	OOMIDASI:カ
+co	何
+fjfw	伽	OOMIDASI:か
+..	価
+jfrv	佳	OOMIDASI:か
+dg	加
+l;	可
+fjfq	嘉
+xq	夏
+jfrc	嫁
+mq	家
+jfrx	寡
+gs	科
+3q	暇
+qq	果
+jfrz	架
+jfys	歌
+q;	河
+tf	火
+fjfg	珂
+jfet	禍
+fjff	禾
+jfer	稼
+jfee	箇
+d,	花
+fjfd	苛
+fjfs	茄
+jfya	荷
+i,	華
+jfew	菓
+fjfa	蝦
+c;	課
+fjfb	嘩
+4j	貨
+fjfv	迦
+c/	過
+fjfc	霞
+jfeq	蚊
+fjfx	俄
+fjfz	峨
+3a	我
+3w	牙
+;u	画
+fjdt	臥
+jfyb	芽
+fjdr	蛾
+u2	賀
+jfeg	雅
+jfef	餓
+fjde	駕
+e,	介
+kb	会
+op	解
+uq	回
+jfed	塊	KOMIDASI:かい
+3e	壊
+fjdw	廻	KOMIDASI:かい
+1i	快
+jfes	怪
+jfea	悔
+fjdq	恢
+jfeb	懐
+jfev	戒
+jfec	拐
+du	改
+fjdg	魁
+fjdf	晦
+qx	械
+nz	海
+jfyv	灰
+,n	界
+jfex	皆
+jfyc	絵
+fjdd	芥
+fjds	蟹
+pq	開
+wr	階
+jfyx	貝
+fjda	凱
+jfez	劾
+m;	外
+fjdb	咳
+qy	害
+fjdv	崖
+jfwt	慨
+qw	概
+jfwr	涯
+fjdc	碍
+fjdx	蓋
+vm	街
+jfwe	該
+fjdz	鎧
+fjst	骸
+fjsr	浬
+fjse	馨
+fjsw	蛙
+jfww	垣
+fjsq	柿
+fjsg	蛎
+fjsf	鈎
+fjsd	劃	KOMIDASI:かく
+jfwq	嚇	KOMIDASI:かく
+/l	各
+fjss	廓
+0r	拡
+fjsa	撹
+wf	格
+8b	核
+jfwg	殻
+jfwf	獲
+gp	確
+jfwd	穫
+gr	覚
+tu	角
+fjsb	赫
+3r	較
+jfws	郭
+jfyz	閣
+jfwa	隔
+j1	革
+of	学
+1;	岳
+/h	楽
+f;	額
+fjsv	顎
+3s	掛
+fjsc	笠
+fjsx	樫
+fjsz	橿
+fjat	梶
+fjar	鰍
+x0	潟
+ab	割
+jfwb	喝	KOMIDASI:かつ
+fjae	恰	KOMIDASI:かつ
+jfwv	括
+dd	活
+jfwc	渇
+jfwx	滑
+fjaw	葛
+jfwz	褐
+jfqt	轄
+jfqr	且
+fjaq	鰹
+fjag	叶
+fjaf	椛
+fjad	樺
+fjas	鞄
+/b	株
+fjaa	兜
+fjab	竃
+fjav	蒲
+fjac	釜
+fjax	鎌
+fjaz	噛
+fjbt	鴨
+fjbr	栢
+fjbe	茅
+fjbw	萱
+fjbq	粥
+jfqe	刈
+fjbg	苅
+3z	瓦
+jfqw	乾
+fjbf	侃	KOMIDASI:かん
+jfqq	冠	KOMIDASI:かん
+3t	寒
+wx	刊
+jfqg	勘
+jfqf	勧
+i/	巻
+jfqd	喚
+jfqs	堪
+fjbd	姦
+ml	完
+ft	官
+jfqa	寛
+m4	干
+i3	幹
+3g	患
+cx	感
+gz	慣
+jfqb	憾
+7t	換
+3d	敢
+fjbs	柑
+fjba	桓
+jfqv	棺
+jfqc	款
+8z	歓
+jfqx	汗
+l4	漢
+fjbb	澗
+fjbv	潅
+pm	環
+3f	甘
+qm	監
+5,	看
+fjbc	竿
+gh	管
+1y	簡
+jfqz	緩
+jfgt	缶
+fjbx	翰
+jfgr	肝
+jfge	艦
+fjbz	莞
+fl	観
+fjvt	諌
+jfgw	貫
+1/	還
+jfgq	鑑
+uv	間
+jfgg	閑
+oj	関
+jfgf	陥
+fjvr	韓
+dq	館
+fjve	舘
+ed	丸
+vz	含
+i2	岸
+fjvw	巌
+fjvq	玩
+fjvg	癌
+1k	眼
+,y	岩
+fjvf	翫
+fjvd	贋
+fjvs	雁
+jfgd	頑
+ve	顔
+v7	願
+so	企
+fjva	伎	NAKAMIDASI:き
+r8	危
+u3	喜
+vc	器
+ak	基
+a3	奇
+fjvb	嬉
+wm	寄
+jfgs	岐	NAKAMIDASI:き
+8d	希
+jfga	幾
+jfgb	忌
+c9	揮
+jfut	机	NAKAMIDASI:キ
+jfur	旗
+s3	既
+y;	期
+jfgv	棋
+jfgc	棄
+.r	機
+qn	帰
+fjvv	毅
+nb	気
+6t	汽
+fjvc	畿
+jfgx	祈
+5k	季
+fjvx	稀
+6x	紀
+fjvz	徽
+xx	規
+yi	記
+jfue	貴
+eh	起
+jfgz	軌
+jfft	輝
+jffr	飢
+jffe	騎
+q3	鬼
+fjct	亀
+jffw	偽	NAKAMIDASI:ぎ
+jffq	儀
+fjcr	妓
+jffg	宜
+jfff	戯
+fx	技
+jffd	擬
+jffs	欺
+jffa	犠
+7v	疑
+fjce	祇
+xd	義
+fjcw	蟻
+fjcq	誼
+ox	議
+fjcg	掬
+d3	菊
+fjcf	鞠
+xc	吉
+fjcd	吃
+d8	喫
+fjcs	桔
+fjca	橘
+jffb	詰
+fjcb	砧
+fjcv	杵
+fjcc	黍
+f3	却
+xl	客
+jffv	脚
+jffc	虐
+ao	逆
+o3	丘
+xs	久
+fjcx	仇	KOMIDASI:きゆ
+zb	休
+zs	及
+jfuw	吸
+ax	宮
+jfuq	弓
+ou	急
+jfug	救
+jffx	朽	KOMIDASI:きゆ
+dx	求
+fjcz	汲
+jfuf	泣
+fjxt	灸
+gt	球
+e.	究
+jffz	窮
+fjxr	笈
+bg	級
+jfdt	糾
+hq	給
+0w	旧
+f0	牛
+6v	去
+vw	居
+.y	巨
+jfdr	拒
+jfde	拠
+xn	挙
+fjxe	渠	KOMIDASI:きよ
+w3	虚
+o,	許
+jfdw	距
+fjxw	鋸
+p2	漁
+fjxq	禦
+g9	魚
+fjxg	亨
+g3	享
+.a	京
+e;	供
+fjxf	侠
+fjxd	僑
+fjxs	兇
+o/	競
+mh	共
+jfdq	凶
+jn	協
+fjxa	匡
+fjxb	卿
+jfdg	叫
+fjxv	喬
+u1	境
+jfdf	峡
+o;	強
+fjxc	彊
+fjxx	怯
+ev	恐
+jfdd	恭
+jfds	挟
+kj	教
+pk	橋
+tv	況
+jfda	狂
+e3	狭
+jfdb	矯
+jfud	胸
+r3	脅
+sr	興
+fjxz	蕎
+t6	郷
+jfus	鏡
+ym	響
+fjzt	饗
+t3	驚
+jfdv	仰
+jfdc	凝
+fjzr	尭
+jfdx	暁
+ng	業
+ac	局
+se	曲
+rc	極
+rl	玉
+fjze	桐
+fjzw	粁
+fjzq	僅	KOMIDASI:きん
+lo	勤
+.4	均
+fjzg	巾
+fjzf	錦
+jfdz	斤	KOMIDASI:きん
+fjzd	欣
+fjzs	欽
+jfst	琴
+z6	禁
+fjza	禽
+8s	筋
+;4	緊
+fjzb	芹
+jfsr	菌
+fjzv	衿
+jfse	襟
+jfsw	謹
+n;	近
+ut	金
+jfsq	吟
+h/	銀
+nr	九
+fjzc	倶	NAKAMIDASI:く
+v6	句
+iw	区
+fjzx	狗
+fjzz	玖
+fjt6	矩
+u4	苦
+fjt7	躯
+jfsg	駆	NAKAMIDASI:く
+fjt8	駈
+fjt9	駒
+r,	具
+jfsf	愚
+jfsd	虞
+fjt0	喰
+xg	空
+jfss	偶
+fjty	寓
+pl	遇
+jfsa	隅
+fjtu	串
+fjti	櫛
+fjto	釧
+fjtp	屑
+jfsb	屈
+jfsv	掘
+fjth	窟
+fjtj	沓
+jfsc	靴
+fjtk	轡
+fjtl	窪
+fjt;	熊
+fjtn	隈
+fjtm	粂
+fjt,	栗
+jfsx	繰
+jfsz	桑
+fjt.	鍬
+jfat	勲
+6f	君
+jfar	薫
+jfua	訓	NAKAMIDASI:ク
+t7	群
+cf	軍
+8x	郡
+fjt/	卦	NAKAMIDASI:け
+fjr6	袈
+fjr7	祁
+p;	係
+jfae	傾	NAKAMIDASI:け
+2;	刑
+jfub	兄	NAKAMIDASI:ケ
+4q	啓
+fjr8	圭
+fjr9	珪
+f.	型
+jfaw	契
+sj	形
+jfuv	径
+o4	恵
+x8	慶
+fjr0	慧
+jfaq	憩
+4w	掲
+4e	携
+jfuc	敬
+k3	景
+fjry	桂
+jfag	渓
+fjru	畦
+fjri	稽
+i1	系
+oc	経
+jfaf	継
+fjro	繋
+fjrp	罫
+jfad	茎
+fjrh	荊
+jfas	蛍
+m,	計
+fjrj	詣
+d.	警
+ry	軽
+fjrk	頚
+jfaa	鶏
+gu	芸
+u,	迎
+jfab	鯨
+4r	劇
+fjrl	戟
+qu	撃
+n4	激
+fjr;	隙
+fjrn	桁
+jfav	傑
+zq	欠
+l,	決
+jfux	潔
+jfuz	穴
+da	結
+m5	血
+fjrm	訣
+pf	月
+az	件
+jfac	倹	KOMIDASI:けん
+fjr,	倦	KOMIDASI:けん
+vi	健
+4a	兼
+zp	券
+jfax	剣
+fjr.	喧
+jfaz	圏
+jfbt	堅
+4s	嫌
+mt	建
+3p	憲
+jfbr	懸
+fjr/	拳
+fje6	捲
+fy	検
+ba	権
+4f	牽
+jfit	犬
+5.	献
+si	研
+fje7	硯
+z7	絹
+bd	県
+9g	肩
+/e	見
+jfbe	謙
+4t	賢
+jfbw	軒
+jfbq	遣
+fje8	鍵
+cn	険
+4d	顕
+pu	験
+fje9	鹸
+gb	元
+ih	原
+4g	厳
+jfbg	幻
+jfbf	弦
+to	減
+c7	源
+jfbd	玄
+jk	現
+fje0	絃
+fjey	舷
+gl	言
+fjeu	諺
+ai	限
+fjei	乎	NAKAMIDASI:こ
+in	個
+wt	古
+6z	呼
+p4	固
+fjeo	姑
+q4	孤
+0h	己
+v,	庫
+jfbs	弧	NAKAMIDASI:こ
+n.	戸
+qp	故
+jfba	枯
+q6	湖
+fjep	狐
+fjeh	糊
+fjej	袴
+fjek	股
+fjel	胡
+fje;	菰
+fjen	虎
+w4	誇
+fjem	跨
+fje,	鈷
+jfbb	雇
+jfbv	顧
+jfbc	鼓
+;v	五
+0t	互
+fje.	伍
+/j	午
+jfbx	呉
+fje/	吾
+jfbz	娯
+yv	後
+cr	御
+jfvt	悟
+fjw6	梧
+fjw7	檎
+fjw8	瑚
+jfvr	碁
+lp	語
+xz	誤
+p/	護
+fjw9	醐
+t9	乞
+fjw0	鯉
+;m	交
+fjwy	佼	KOMIDASI:こう
+jfve	侯	KOMIDASI:こう
+3u	候
+fjwu	倖
+/;	光
+jp	公
+9z	功
+.o	効
+fjwi	勾
+ce	厚
+.m	口
+av	向
+r4	后
+fjwo	喉
+jfvw	坑
+fjwp	垢
+sk	好
+jfvq	孔
+jfir	孝	NAKAMIDASI:コ
+fjwh	宏
+me	工
+a4	巧
+fjwj	巷
+ti	幸
+eg	広
+fjwk	庚
+h3	康
+q0	弘
+jfvg	恒
+jfvf	慌
+9x	抗
+jfvd	拘
+jfvs	控
+6e	攻
+fjwl	昂
+fjw;	晃
+2/	更
+fjwn	杭
+.k	校
+fjwm	梗
+xu	構
+xa	江
+jfva	洪
+fjw,	浩
+rk	港
+jfvb	溝
+3h	甲
+jfie	皇
+jfvv	硬
+jfvc	稿
+fjw.	糠
+a7	紅
+fjw/	紘
+jfvx	絞
+z0	綱
+t4	耕
+va	考
+jfvz	肯
+fjq6	肱
+fjq7	腔
+fjq8	膏
+e/	航
+;2	荒
+hz	行
+jfct	衡
+dh	講
+jfcr	貢
+jfce	購
+jfcw	郊
+jfcq	酵
+wp	鉱
+fjq9	砿
+jfiw	鋼
+fjq0	閤
+.3	降
+jfcg	項
+/2	香
+og	高
+fjqy	鴻
+jfcf	剛
+fjqu	劫
+cv	号
+mc	合
+fjqi	壕
+jfcd	拷
+fjqo	濠
+d7	豪
+fjqp	轟
+fjqh	麹
+s4	克
+3,	刻
+wq	告
+lr	国
+jfiq	穀
+jfcs	酷	KOMIDASI:こく
+fjqj	鵠
+fc	黒
+jfca	獄
+fjqk	漉
+jfcb	腰
+fjql	甑
+fjq;	忽	KOMIDASI:こつ
+fjqn	惚
+xe	骨
+fjqm	狛
+zf	込
+fjq,	此
+ck	頃
+/n	今
+f4	困
+fjq.	坤	KOMIDASI:こん
+jfcv	墾	KOMIDASI:こん
+jfcc	婚
+jfcx	恨
+d4	懇
+g4	昏
+jfcz	昆
+a/	根
+fjq/	梱
+j,	混
+fjg6	痕
+jfxt	紺
+fjg7	艮
+jfxr	魂
+fjg8	些	OOMIDASI:さ
+yy	佐
+fjg9	叉
+jfxe	唆	OOMIDASI:さ
+fjg0	嵯
+a,	左
+bw	差
+es	査
+fjgy	沙
+fjgu	瑳
+t8	砂
+jfxw	詐
+jfxq	鎖
+fjgi	裟
+fjgo	坐
+uk	座
+fjgp	挫
+jfxg	債
+9a	催
+nm	再
+iu	最
+fjgh	哉	KOMIDASI:さい
+fjgj	塞
+vq	妻
+jfxf	宰
+jfxd	彩
+rb	才
+6d	採
+jfxs	栽
+i;	歳
+zc	済
+2m	災
+fjgk	采
+fjgl	犀
+jfxa	砕
+fjg;	砦
+jfig	祭
+jfxb	斎
+qt	細
+jfif	菜	OOMIDASI:サ
+em	裁
+jfxv	載
+wa	際
+jfxc	剤
+re	在
+x/	材
+5p	罪
+zw	財
+fjgn	冴
+b;	坂
+fjgm	阪
+fjg,	堺
+fjg.	榊
+fjg/	肴
+jfxx	咲
+at	崎
+fjf6	埼
+fjf7	碕
+fjf8	鷺
+/w	作
+jfxz	削
+fjf9	咋	KOMIDASI:さく
+jfzt	搾
+en	昨
+fjf0	朔
+fjfy	柵
+fjfu	窄
+eq	策
+7y	索
+jfzr	錯
+6a	桜
+fjfi	鮭
+fjfo	笹
+fjfp	匙
+7u	冊
+q8	刷
+0d	察
+fjfh	拶	KOMIDASI:さつ
+jfze	撮
+jfzw	擦
+r9	札
+zo	殺
+fjfk	薩
+k4	雑
+fjfl	皐
+fjf;	鯖
+fjfn	捌
+fjfm	錆
+fjf,	鮫
+7i	皿
+fjf.	晒
+,a	三
+jfzq	傘	KOMIDASI:さん
+gd	参
+ur	山
+jfzg	惨
+fjf/	撒	KOMIDASI:さん
+,5	散
+jfzf	桟
+fjd6	燦
+fjd7	珊
+pv	産
+cd	算
+fjd8	纂
+jfid	蚕
+fjd9	讃
+7o	賛
+6q	酸
+fjd0	餐
+fjdy	斬
+jfzd	暫
+we	残
+gm	仕
+fjdu	仔	NAKAMIDASI:し
+jfzs	伺	NAKAMIDASI:し
+vg	使
+dr	刺
+y,	司
+om	史
+jfza	嗣
+/d	四
+io	士
+wc	始
+jfis	姉
+y5	姿
+lv	子
+fjdi	屍
+/v	市
+cl	師
+q/	志
+qg	思
+qd	指
+hn	支
+fjdo	孜
+fjdp	斯
+vu	施
+jfzb	旨
+jfia	枝
+f/	止
+tw	死
+wd	氏
+fjdh	獅
+jfzv	祉
+nj	私
+ei	糸
+sq	紙
+jfzc	紫
+jfzx	肢
+jfzz	脂
+jfib	至
+/o	視
+jfiv	詞
+jfic	詩
+r;	試
+3k	誌
+jfty	諮
+uo	資
+jftu	賜
+jfti	雌
+jfix	飼
+3i	歯
+hb	事
+jfiz	似
+jfto	侍
+rp	児
+z/	字
+qk	寺
+jftp	慈
+uz	持
+mg	時
+ef	次
+8h	滋
+;/	治
+fjdj	爾
+jfth	璽
+fjdk	痔
+jfot	磁
+np	示
+fjdl	而
+no	耳
+ix	自
+fjd;	蒔
+4.	辞
+fjdn	汐
+3j	鹿
+uj	式
+8c	識
+fjdm	鴫
+fjd,	竺
+jftj	軸
+fjd.	宍
+fjd/	雫
+ib	七
+fjs6	叱	KOMIDASI:しつ
+1l	執
+t,	失
+fjs7	嫉
+fg	室
+fjs8	悉
+8j	湿
+jftk	漆
+jftl	疾
+wk	質
+;y	実
+fjs9	蔀
+fjs0	篠
+fjsy	偲
+fjsu	柴
+tm	芝
+fjsi	屡
+fjso	蕊
+fjsp	縞
+y3	舎
+gx	写
+8y	射
+jfor	捨	KOMIDASI:シヤ
+jft;	赦	KOMIDASI:しや
+jftn	斜
+jftm	煮
+kx	社
+fjsh	紗	KOMIDASI:しや
+ir	者
+jfoe	謝
+hl	車
+jft,	遮
+jft.	蛇
+jft/	邪
+,1	借
+jfry	勺
+jfow	尺
+fjsj	杓
+fjsk	灼
+jfru	爵
+jfri	酌
+g0	釈
+fjsl	錫
+qs	若
+jfro	寂
+3;	弱
+fjs;	惹
+h;	主
+fs	取
+ez	守
+oe	手
+1h	朱
+jfrp	殊	KOMIDASI:しゆ
+jfrh	狩
+jfrj	珠
+aa	種
+fjsn	腫	KOMIDASI:しゆ
+jfrk	趣
+vt	酒
+rq	首
+jfrl	儒
+af	受
+fjsm	呪
+w8	寿
+mo	授
+c6	樹
+fjs,	綬
+8u	需
+jfr;	囚
+qa	収
+k2	周
+4y	宗
+z9	就
+z,	州
+w.	修
+jfrn	愁
+jfoq	拾
+fjs.	洲
+wi	秀
+cp	秋
+wh	終
+fjs/	繍
+rf	習
+jfrm	臭
+jfr,	舟
+fja6	蒐
+h5	衆
+jfr.	襲
+fja7	讐
+fja8	蹴
+8i	輯
+xv	週
+fja9	酋
+jfr/	酬
+ku	集
+jfey	醜
+fja0	什
+ob	住
+s8	充
+od	十
+ze	従
+fjay	戎
+jfeu	柔
+jfei	汁
+g;	渋
+jfeo	獣
+jfog	縦
+,l	重
+jfep	銃
+jfeh	叔
+fjau	夙
+hu	宿
+jfej	淑
+jfof	祝
+jfod	縮
+jfek	粛
+jfel	塾
+ss	熟
+ue	出
+wg	術
+4n	述
+jfe;	俊
+fjai	峻
+ri	春
+8o	瞬
+fjao	竣
+fjap	舜
+fjah	駿
+jfen	准
+jfem	循
+jfe,	旬
+fjaj	楯
+jfe.	殉
+fjak	淳
+v.	準
+jfe/	潤
+8p	盾
+7f	純
+jfwy	巡
+jfwu	遵
+fjal	醇
+e8	順
+l3	処
+fz	初
+oz	所
+jfos	暑
+fja;	曙	KOMIDASI:しよ
+fjan	渚
+y8	庶
+jfwi	緒	KOMIDASI:しよ
+jfoa	署
+k;	書
+fjam	薯
+fja,	藷
+v/	諸
+dj	助
+jfwo	叙
+pt	女
+ni	序
+jfwp	徐
+fja.	恕
+fja/	鋤
+;5	除
+s7	傷
+a6	償
+,/	勝
+jfwh	匠
+jfwj	升
+jfwk	召
+fjb6	哨
+km	商
+1p	唱
+fjb7	嘗
+jfwl	奨
+fjb8	妾
+fjb9	娼
+jfw;	宵
+,u	将
+lz	小
+gg	少
+y2	尚
+fjb0	庄
+jfwn	床
+fjby	廠
+jfwm	彰
+1u	承
+jfw,	抄
+4k	招
+jfw.	掌
+fjbu	捷
+fu	昇
+fjbi	昌
+jfob	昭
+jfw/	晶
+jfov	松
+fjbo	梢
+fjbp	樟
+fjbh	樵
+2.	沼
+gn	消
+c8	渉
+fjbj	湘
+7e	焼
+jfqy	焦
+bc	照
+jfqu	症
+xb	省
+x6	硝
+jfqi	礁
+jfqo	祥
+o8	称
+2u	章
+.5	笑
+u8	粧
+2l	紹
+jfqp	肖
+fjbk	菖
+fjbl	蒋
+fjb;	蕉
+jfqh	衝
+fjbn	裳
+jfqj	訟
+cz	証
+jfqk	詔
+ew	詳
+p1	象
+ts	賞
+fjbm	醤
+fjb,	鉦
+fjb.	鍾
+jfql	鐘
+0a	障
+fjb/	鞘
+ht	上
+i8	丈
+fjv6	丞
+c,	乗
+jfq;	冗	KOMIDASI:じょ
+jfqn	剰
+jfoc	城
+iv	場
+jfqm	壌
+jfq,	嬢
+qj	常
+de	情
+fjv7	擾
+tk	条
+fjv8	杖
+jfq.	浄
+b,	状
+jfq/	畳
+fjv9	穣
+p8	蒸
+n3	譲
+jfgy	醸
+jfgu	錠
+jfgi	嘱
+fjv0	埴
+w7	飾
+fjvy	拭
+5y	植
+jfgo	殖
+fjvu	燭
+n2	織
+ge	職
+am	色
+3y	触
+.,	食
+fjvi	蝕
+jfgp	辱
+fjvo	尻
+bt	伸
+.j	信
+jfgh	侵	KOMIDASI:しん
+jfgj	唇
+jfgk	娠
+5o	寝
+su	審
+mn	心
+jfgl	慎
+mi	振
+hv	新
+fjvp	晋	KOMIDASI:しん
+jfox	森	KOMIDASI:シン
+fjvh	榛
+jfg;	浸
+t/	深
+cj	申
+fjvj	疹
+ga	真
+ho	神
+fjvk	秦
+jfgn	紳
+jfoz	臣
+fjvl	芯
+jfgm	薪
+vh	親
+jfg,	診
+n/	身
+jfg.	辛
+fa	進
+xw	針
+q9	震
+ma	人
+jfpt	仁
+jfg/	刃
+fjv;	塵
+fjvn	壬
+jffy	尋
+8k	甚
+jffu	尽
+fjvm	腎
+fjv,	訊
+jffi	迅
+1j	陣
+fjv.	靭
+fjv/	笥	NAKAMIDASI:す
+fjc6	諏
+.1	須
+jffo	酢	NAKAMIDASI:す
+zn	図
+fjc7	厨
+fjc8	逗
+jffp	吹
+7k	垂
+jffh	帥
+br	推
+kh	水
+jffk	炊
+jffl	睡
+7l	粋
+fjc9	翠
+7h	衰
+jff;	遂
+jffn	酔
+fjc0	錐
+jffm	錘
+jff,	随
+fjcy	瑞
+jff.	髄
+jff/	崇
+fjcu	嵩
+iy	数
+jfdy	枢
+7j	趨
+fjci	雛
+jfdu	据
+k5	杉
+fjco	椙
+fjcp	菅
+fjch	頗
+fjcj	雀
+fjck	裾
+jfdi	澄
+fjcl	摺
+7;	寸
+ll	世
+7a	瀬
+jfdo	畝	NAKAMIDASI:せ
+jfdp	是
+fjc;	凄	NAKAMIDASI:せ
+ju	制
+ah	勢
+jfdh	姓
+jfdj	征
+cg	性
+jl	成
+.c	政
+ey	整
+u7	星
+jfpr	晴	NAKAMIDASI:セ
+fjcn	棲
+fjcm	栖
+;n	正
+bf	清
+jfdk	牲
+os	生
+h1	盛
+do	精
+jfpe	聖
+sy	声
+,k	製
+.z	西
+jfpw	誠
+jfdl	誓
+y1	請
+jfd;	逝
+fjc,	醒
+vf	青
+pn	静
+jfdn	斉
+vl	税
+fjc.	脆
+jfdm	隻
+t;	席
+jfd,	惜
+fjc/	戚
+jfd.	斥
+ny	昔
+i7	析
+up	石
+qo	積
+jfd/	籍
+7c	績
+fjx6	脊
+o2	責
+dn	赤
+rn	跡
+fjx7	蹟
+fjx8	碩
+df	切
+jfsy	拙
+yu	接
+jfsu	摂
+wu	折
+jh	設
+jfsi	窃
+j5	節
+zv	説
+9t	雪
+u5	絶
+jfpq	舌
+fjx9	蝉
+jfso	仙
+hm	先
+lw	千
+3/	占
+p7	宣
+ch	専
+fjx0	尖	KOMIDASI:せん
+,r	川
+ij	戦
+jfsp	扇
+fjxy	撰
+jfsh	栓
+fjxu	栴
+jfpg	泉
+xk	浅
+yn	洗
+jfpf	染
+jfsj	潜
+fjxi	煎
+fjxo	煽
+jfsk	旋
+fjxp	穿
+fjxh	箭
+ik	線
+m1	繊
+fjxj	羨
+fjxk	腺
+fjxl	舛
+ta	船
+jfsl	薦
+fjx;	詮
+fjxn	賎
+jfs;	践
+j.	選
+o7	遷
+jfpd	銭
+jfsn	銑
+fjxm	閃
+b9	鮮
+lb	前
+bq	善
+jfsm	漸
+fp	然
+yx	全
+jfs,	禅
+jfs.	繕
+fjx,	膳
+fjx.	糎
+fjx/	噌	NAKAMIDASI:そ
+jfs/	塑	NAKAMIDASI:そ
+fjz6	岨
+jfay	措
+fjz7	曾
+fjz8	曽
+fjz9	楚
+fjz0	狙
+fjzy	疏
+jfau	疎
+b6	礎
+jfps	祖	NAKAMIDASI:ソ
+jfai	租
+jfao	粗
+zh	素
+h.	組
+fjzu	蘇
+r0	訴
+jfap	阻
+fjzi	遡
+h7	鼠
+jfah	僧
+c0	創
+jfaj	双	KOMIDASI:そう
+fjzo	叢	KOMIDASI:そう
+gv	倉
+jfak	喪
+jfal	壮
+k7	奏
+fjzp	爽
+fjzh	宋
+r/	層
+fjzj	匝
+fjzk	惣
+fn	想
+7w	捜
+jfa;	掃
+jfan	挿
+fjzl	掻
+d9	操
+vs	早
+j7	曹
+2n	巣
+fjz;	槍
+jfam	槽
+fjzn	漕
+jfa,	燥
+gk	争
+fjzm	痩
+nq	相
+5;	窓
+fjz,	糟
+/,	総
+fjz.	綜
+fjz/	聡
+sl	草
+jfa.	荘
+jfa/	葬
+fjyy	蒼
+jfby	藻
+dp	装
+/3	走
+pi	送
+jfbu	遭
+fjyu	鎗
+jfbi	霜
+jfbo	騒
+jfpa	像
+tr	増
+jfbp	憎
+jfpb	臓
+cs	蔵
+jfbh	贈
+bs	造
+jfbj	促
+fr	側
+a0	則
+mp	即
+jfpv	息
+fjyi	捉
+jfpc	束
+n5	測
+al	足
+9r	速
+jfbk	俗
+9c	属
+jfbl	賊
+qb	族
+rd	続
+dz	卒
+fjyo	袖
+fjyp	其
+fjyh	揃
+s0	存
+jfpx	孫
+l7	尊
+jfpz	損
+nk	村
+fjyj	遜
+lk	他
+jm	多
+ea	太
+fjyk	汰	OOMIDASI:た
+9u	詑
+fjyl	唾
+jfb;	堕	OOMIDASI:た
+jfbn	妥
+jfbm	惰
+ko	打
+fjy;	柁
+fjyn	舵
+fjym	楕
+fjy,	陀
+jfb,	駄
+fjy.	騨
+;.	体
+fjy/	堆	KOMIDASI:たい
+.q	対
+jfb.	耐
+fjuy	岱
+7r	帯
+ds	待
+jfb/	怠
+s,	態
+fjuu	戴
+1.	替
+jfvy	泰
+jfvu	滞
+jfvi	胎
+fjui	腿
+fjuo	苔
+vj	袋
+sm	貸
+tz	退
+jfvo	逮
+ru	隊
+fjup	黛
+fjuh	鯛
+lq	代
+/m	台
+;c	大
+.t	第
+fjuj	醍
+jy	題
+fjuk	鷹
+jfvp	滝
+fjul	瀧
+jfvh	卓
+fju;	啄	KOMIDASI:たく
+as	宅
+fjun	托
+l.	択
+jfvj	拓
+xf	沢
+jfvk	濯
+fjum	琢
+jfvl	託
+fju,	鐸
+9y	濁
+jfv;	諾
+fju.	茸
+fju/	凧
+fjiy	蛸
+fjiu	只
+fjii	叩
+jfvn	但
+rm	達
+fjio	辰
+jfvm	奪
+g7	脱
+fjip	巽
+fjih	竪
+fjij	辿
+jfv,	棚
+;i	谷
+fjik	狸
+fjil	鱈
+fji;	樽
+g.	誰
+v9	丹
+b/	単
+jfv.	嘆	KOMIDASI:たん
+fjin	坦	KOMIDASI:たん
+y/	担
+o1	探
+fjim	旦
+fji,	歎
+jfv/	淡
+fji.	湛
+8q	炭
+my	短
+q7	端
+fji/	箪
+fjoy	綻
+fjou	耽
+jfcy	胆
+fjoi	蛋
+jfht	誕	OOMIDASI:タ
+jfcu	鍛
+n,	団
+jfci	壇
+jfco	弾
+eo	断
+jfhr	暖
+fjoo	檀
+s;	段
+pj	男
+py	談
+vx	値
+ii	知
+/f	地
+fjop	弛	NAKAMIDASI:ち
+jfcp	恥	NAKAMIDASI:ち
+fjoh	智
+gf	池
+jfch	痴
+jfcj	稚
+w;	置
+4h	致
+fjoj	蜘
+2h	遅
+fjok	馳
+dl	築
+jfck	畜
+q,	竹
+fjol	筑
+9i	蓄
+jfcl	逐
+jfc;	秩
+jfcn	窒
+cy	茶
+jfcm	嫡
+v;	着
+ya	中
+xy	仲
+jfhe	宙
+9s	忠
+jfc,	抽	KOMIDASI:ちゆ
+7q	昼
+jfhw	柱
+w,	注
+9p	虫
+jfc.	衷
+fjo;	註	KOMIDASI:ちゆ
+fjon	酎
+jfc/	鋳
+x9	駐
+fjom	樗	KOMIDASI:ちよ
+fjo,	瀦
+fjo.	猪
+fjo/	苧
+e6	著
+9o	貯
+wb	丁
+jfhq	兆
+fjpy	凋
+fjpu	喋
+fjpi	寵
+fjpo	帖
+p9	帳
+wn	庁
+jfxy	弔	KOMIDASI:ちよ
+wj	張
+jfxu	彫
+2y	徴
+jfxi	懲
+jfxo	挑
+fjpp	暢
+ui	朝
+jfhg	潮
+fjph	牒
+iz	町
+jfxp	眺
+jfxh	聴
+jfxj	脹
+jfhd	腸
+fjpj	蝶
+h,	調
+fjpk	諜
+jfxk	超
+jfxl	跳
+fjpl	銚
+.g	長
+jfhs	頂
+8a	鳥
+jfx;	勅
+fjp;	捗
+fv	直
+jfxn	朕
+9h	沈
+jfxm	珍
+wy	賃
+jfx,	鎮
+jfx.	陳
+c.	津
+jfx/	墜	NAKAMIDASI:つ
+fjpn	椎	NAKAMIDASI:つ
+fjpm	槌
+eu	追
+fjp,	鎚
+w0	痛
+hx	通
+/u	塚
+fjp.	栂
+fjp/	掴
+fjhy	槻
+fjhu	佃
+jfzy	漬
+fjhi	柘
+fjho	辻
+fjhp	蔦
+fjhh	綴
+fjhj	鍔
+fjhk	椿
+fjhl	潰
+jfzu	坪
+fjh;	壷
+fjhn	嬬
+fjhm	紬
+9l	爪
+fjh,	吊
+jfzi	釣
+2j	鶴
+jfzo	亭	NAKAMIDASI:て
+ro	低
+ql	停
+jfzp	偵
+fjh.	剃	OOMIDASI:て
+jfzh	貞
+jfzj	呈
+jfzk	堤
+pa	定
+qc	帝
+f6	底
+x;	庭
+jfzl	廷
+jfha	弟	NAKAMIDASI:テ
+fjh/	悌
+jfz;	抵
+fjjy	挺
+ep	提
+fjju	梯
+fjji	汀
+fjjo	碇
+fjjp	禎
+wo	程
+jfzn	締
+jfzm	艇
+jfz,	訂
+fjjh	諦
+fjjj	蹄
+jfz.	逓
+jfz/	邸
+fjjk	鄭
+fjjl	釘
+fjj;	鼎
+jfyy	泥
+jfyu	摘
+fjjn	擢	KOMIDASI:てき
+jfhb	敵
+jfyi	滴
+,q	的
+jfhv	笛
+zr	適
+fjjm	鏑
+fjj,	溺
+jfyo	哲
+9k	徹
+jfyp	撤
+fjj.	轍
+jfyh	迭
+jj	鉄
+6s	典
+fjj/	填
+kl	天
+s.	展
+yz	店
+9j	添
+fjky	纏
+fjku	甜
+fjki	貼
+zg	転
+fjko	顛
+ol	点
+z;	伝
+jfyj	殿
+fjkp	澱
+jb	田
+.f	電
+fjkh	兎	NAKAMIDASI:と
+jfyk	吐	NAKAMIDASI:と
+fjkj	堵
+jfyl	塗
+fjkk	妬
+fjkl	屠
+j3	徒
+jfy;	斗
+fjk;	杜
+wz	渡
+rz	登
+fjkn	菟
+fjkm	賭
+4u	途
+.b	都
+fjk,	鍍
+fjk.	砥
+fjk/	砺
+d6	努
+;k	度
+sd	土
+jfyn	奴
+jfym	怒
+s9	倒
+k.	党
+jfhc	冬	NAKAMIDASI:ト
+jfy,	凍	KOMIDASI:とう
+jfhx	刀
+jfy.	唐
+jfy/	塔
+fjly	塘	KOMIDASI:とう
+fjlu	套
+fjli	宕
+oq	島
+fjlo	嶋
+jfuy	悼
+zd	投
+jfuu	搭
+is	東
+jfui	桃
+fjlp	梼
+jfuo	棟
+0z	盗
+fjlh	淘
+0q	湯
+fjlj	涛
+jfhz	灯
+fjlk	燈
+nx	当
+jfup	痘
+fjll	祷
+zk	等
+r.	答
+jfuh	筒
+p3	糖
+fi	統
+jfuj	到
+fjl;	董
+fjln	蕩
+lh	藤
+im	討
+jfuk	謄
+4,	豆
+jful	踏
+4o	逃
+jfu;	透
+fjlm	鐙
+9;	陶
+sc	頭
+jfun	騰
+8e	闘
+/i	働
+pc	動
+;x	同
+g/	堂
+xi	導
+fjl,	憧
+fjl.	撞
+jfum	洞
+8;	瞳
+jfjt	童
+jfu,	胴
+fjl/	萄
+mz	道
+jfjr	銅
+jfu.	峠
+fj;y	鴇
+jfu/	匿	KOMIDASI:とく
+tj	得
+qz	徳
+fj;u	涜	KOMIDASI:とく
+li	特
+rv	督
+fj;i	禿
+jfiy	篤
+jfje	毒
+d/	独
+qv	読
+fj;o	栃
+fj;p	橡
+jfiu	凸
+k1	突
+fj;h	椴
+jfjw	届
+fj;j	鳶
+fj;k	苫
+fj;l	寅
+fj;;	酉
+fj;n	瀞
+fj;m	噸	KOMIDASI:とん
+jfii	屯
+fj;,	惇
+fj;.	敦
+fj;/	沌
+jfio	豚
+fjny	遁
+fjnu	頓
+fjni	呑
+jfip	曇
+jfih	鈍
+9e	奈
+fjno	那	OOMIDASI:な
+ne	内
+fjnp	乍
+fjnh	凪
+fjnj	薙
+fjnk	謎
+fjnl	灘
+fjn;	捺
+fjnn	鍋
+fjnm	楢
+fjn,	馴
+jfij	縄	OOMIDASI:な
+fjn.	畷
+uh	南
+fjn/	楠
+jfik	軟
+,p	難
+fjmy	汝
+;r	二
+o9	尼
+jfil	弐
+fjmu	迩	NAKAMIDASI:に
+fjmi	匂
+fjmo	賑
+l5	肉
+fjmp	虹
+fjmh	廿
+kr	日
+0s	乳
+/t	入
+i9	如
+jfi;	尿
+fjmj	韮
+dy	任
+jfin	妊
+jfim	忍
+ci	認
+fjmk	濡	NAKAMIDASI:ぬ
+fjml	禰	NAKAMIDASI:ね
+fjm;	祢
+jfi,	寧	NAKAMIDASI:ね
+fjmn	葱
+jfi.	猫
+tc	熱
+;t	年
+.i	念
+fjmm	捻
+fjm,	撚
+jfjq	燃	OOMIDASI:ナ
+jfi/	粘
+u9	乃
+fjm.	廼	NAKAMIDASI:の
+zm	之
+fjm/	埜
+fj,y	嚢
+jfoy	悩
+jfou	濃
+2o	納
+er	能
+4m	脳
+fj,u	膿
+tq	農
+fj,i	覗
+fj,o	蚤
+0l	巴
+5q	把
+fj,p	播	OOMIDASI:は
+jfoi	覇	OOMIDASI:は
+fj,h	杷
+bn	波
+bv	派
+fj,j	琶
+7x	破
+jfoo	婆
+fj,k	罵
+fj,l	芭
+jfjg	馬	OOMIDASI:ハ
+jfjs	俳
+jfop	廃
+jfja	拝
+jfoh	排
+/y	敗
+jfoj	杯
+fj,;	盃	KOMIDASI:はい
+fj,n	牌
+v0	背
+jfjb	肺
+jfok	輩
+dc	配
+d0	倍
+jfol	培
+jfo;	媒
+jfjc	梅
+fj,m	楳
+fj,,	煤
+fj,.	狽
+ww	買
+mb	売
+jfon	賠
+jfom	陪
+fj,/	這
+fj.y	蝿
+fj.u	秤
+fj.i	矧
+fj.o	萩
+jfo,	伯
+fj.p	剥	KOMIDASI:はく
+7s	博
+jfo.	拍
+fj.h	柏
+jfo/	泊
+st	白
+fj.j	箔
+fj.k	粕
+jfpy	舶
+jfpu	薄
+1m	迫
+fj.l	曝
+jfpi	漠
+zy	爆
+jfpo	縛
+fj.;	莫
+fj.n	駁
+jfjx	麦
+fj.m	函
+4/	箱
+fj.,	硲
+fj..	箸
+fj./	肇
+fj/y	筈
+fj/u	櫨
+0x	幡
+jfpp	肌
+jfjz	畑
+fj/i	畠
+,e	八
+jfph	鉢
+fj/o	溌	KOMIDASI:はつ
+or	発
+fj/p	醗
+jfpj	髪
+5w	伐
+jfpk	罰
+w/	抜
+fj/h	筏
+jfpl	閥
+fj/j	鳩
+fj/k	噺
+fj/l	塙
+fj/;	蛤
+fj/n	隼
+jfp;	伴	KOMIDASI:はん
+zx	判
+vd	半
+./	反
+fj/m	叛	KOMIDASI:はん
+jfpn	帆
+jfpm	搬
+fj/,	斑
+zl	板
+fj/.	氾
+5h	汎
+,o	版
+6g	犯
+jfkt	班
+jfp,	畔
+2k	繁
+bo	般
+5t	藩
+dm	販
+7b	範
+fj//	釆
+jfp.	煩
+jfp/	頒
+jfkr	飯
+fjy5	挽
+jfke	晩
+db	番
+6r	盤
+fjy4	磐
+fjy3	蕃
+jfhy	蛮
+fjy2	匪	NAKAMIDASI:ひ
+5r	卑
+2i	否
+jfhu	妃	NAKAMIDASI:ひ
+fjy1	庇
+cq	彼
+jfkw	悲	NAKAMIDASI:ヒ
+jfhi	扉
+z8	批
+jfho	披
+fjyt	斐
+by	比
+jfhp	泌
+jfhh	疲
+b0	皮
+jfhj	碑
+o5	秘
+fjyr	緋
+jfhk	罷
+jfkq	肥
+x7	被
+fjye	誹
+oo	費
+5e	避
+vp	非
+bl	飛
+fjyw	樋
+fjyq	簸
+uu	備
+bi	尾
+jfhl	微
+fjyg	枇
+fjyf	毘
+fjyd	琵
+fjys	眉
+hy	美
+jfkg	鼻
+fjya	柊
+fjyb	稗
+jfh;	匹
+fjyv	疋
+fjyc	髭
+,4	彦
+fjyx	膝
+5a	菱
+fjyz	肘
+fju5	弼	KOMIDASI:ひつ
+sh	必
+fju4	畢
+4i	筆
+fju3	逼
+fju2	桧
+jfhn	姫
+fju1	媛
+5s	紐
+ow	百
+fjut	謬	KOMIDASI:ひゆ
+jfkf	俵
+fjur	彪
+0f	標
+jfkd	氷
+jfhm	漂
+fjue	瓢
+e0	票
+ln	表
+ty	評
+fjuw	豹
+fjuq	廟
+5d	描
+qh	病
+6b	秒
+jfh,	苗
+fjug	錨
+fjuf	鋲
+fjud	蒜
+fjus	蛭
+fjua	鰭
+kp	品
+fjub	彬
+fjuv	斌
+jfh.	浜
+fjuc	瀕
+jfks	貧
+jfh/	賓
+jfjy	頻
+jfju	敏
+jfji	瓶
+nc	不
+nw	付
+fjux	埠	NAKAMIDASI:ふ
+,,	夫
+a;	婦
+dv	富
+fjuz	冨
+y4	布
+sv	府
+jfjo	怖	NAKAMIDASI:ふ
+jfjp	扶
+tp	敷
+fji5	斧
+.p	普
+jfjh	浮
+m2	父
+jfjj	符
+jfjk	腐
+jfjl	膚
+fji4	芙
+jfj;	譜
+xo	負
+jfjn	賦
+jfjm	赴
+fji3	阜
+jfj,	附
+jfj.	侮
+fji2	撫
+qe	武
+j4	舞
+fji1	葡
+fjit	蕪
+uc	部
+jfj/	封
+fjir	楓
+qr	風
+fjie	葺
+fjiw	蕗
+jfky	伏
+8f	副
+y.	復
+7z	幅
+ay	服
+vb	福
+jfka	腹	NAKAMIDASI:フ
+5u	複
+jfku	覆
+fjiq	淵
+fjig	弗
+x,	払
+jfki	沸
+9d	仏
+ph	物
+fjif	鮒
+hw	分
+fjid	吻
+jfko	噴
+jfkp	墳
+5f	憤
+fjis	扮
+fjia	焚
+jfkb	奮
+jfkv	粉
+fjib	糞
+jfkh	紛
+jfkj	雰
+;l	文
+tg	聞
+jfkk	丙	NAKAMIDASI:へ
+b8	併
+xh	兵
+jfkl	塀
+jfk;	幣
+.h	平
+5g	弊
+f9	柄
+u.	並
+fjiv	蔽	NAKAMIDASI:へ
+jfkc	閉	NAKAMIDASI:ヘ
+jfkx	陛
+,;	米
+fjic	頁
+fjix	僻
+jfkn	壁
+jfkm	癖
+fjiz	碧
+ca	別
+fjo5	瞥
+fjo4	蔑
+fjo3	箆
+jfk,	偏
+au	変
+e9	片
+fjo2	篇
+fm	編
+/p	辺
+tb	返
+jfk.	遍
+bp	便
+4p	勉
+fjo1	娩
+/5	弁
+fjot	鞭
+pe	保
+a8	舗
+fjor	鋪	NAKAMIDASI:ほ
+fjoe	圃
+;1	捕
+yq	歩
+fjow	甫
+p,	補
+fjoq	輔
+jfk/	穂	NAKAMIDASI:ほ
+pp	募
+jfkz	墓	NAKAMIDASI:ホ
+jfly	慕
+fjog	戊
+2p	暮
+zt	母
+jflu	簿
+fjof	菩
+jfli	倣	KOMIDASI:ほう
+jflo	俸
+1o	包
+fjod	呆
+aq	報
+q5	奉
+fk	宝
+jflp	峰
+fjos	峯
+jflh	崩
+fjoa	庖
+jflj	抱
+fjob	捧
+dw	放
+.s	方
+fjov	朋
+uy	法
+jflk	泡
+fjoc	烹
+jfll	砲
+jfl;	縫
+jfln	胞
+jflm	芳
+fjox	萌
+fjoz	蓬
+fjp5	蜂
+jfl,	褒
+ex	訪
+gy	豊
+h4	邦
+fjp4	鋒
+jfl.	飽
+fjp3	鳳
+fjp2	鵬
+jfl/	乏	KOMIDASI:ぼう
+jflt	亡
+jf;y	傍
+jf;u	剖
+jf;i	坊
+jf;o	妨
+jf;p	帽
+um	忘
+jf;h	忙
+6c	房
+g8	暴
+fb	望
+w5	某
+jflr	棒
+jf;j	冒
+jf;k	紡
+jf;l	肪
+jf;;	膨
+jf;n	謀
+e5	貌
+6w	貿
+fjp1	鉾
+rj	防
+fjpt	吠
+fjpr	頬
+pb	北
+jf;m	僕	KOMIDASI:ぼく
+r5	卜
+jf;,	墨
+jf;.	撲
+jf;/	朴
+jfle	牧
+fjpe	睦
+fjpw	穆
+fjpq	釦
+fjpg	勃
+jfny	没
+fjpf	殆
+8g	堀
+fjpd	幌
+jfnu	奔
+yg	本
+jfni	翻
+jfno	凡
+jfnp	盆
+jfnh	摩	OOMIDASI:ま
+jfnj	磨
+jfnk	魔
+0b	麻
+jfnl	埋
+jflw	妹	OOMIDASI:マ
+fjps	昧	OOMIDASI:ま
+,2	枚
+bb	毎
+fjpa	哩
+fjpb	槙
+jflq	幕
+jfn;	膜
+fjpv	枕
+fjpc	鮪
+fjpx	柾
+fjpz	鱒
+fjh5	桝
+fjh4	亦
+fjh3	俣
+/4	又
+jfnn	抹
+xm	末
+fjh2	沫
+fjh1	迄
+fjht	侭
+jfnm	繭
+fjhr	麿
+,s	万
+0y	慢
+x.	満
+jfn,	漫
+fjhe	蔓
+dk	味
+eb	未
+jfn.	魅	NAKAMIDASI:み
+0k	巳
+fjhw	箕	NAKAMIDASI:み
+jfn/	岬
+i5	密
+fjhq	蜜
+fjhg	湊
+fjhf	蓑
+fjhd	稔
+jflg	脈
+jfmy	妙
+fjhs	粍
+ul	民
+jfmu	眠
+iq	務
+3l	夢
+yp	無
+fjha	牟	NAKAMIDASI:む
+jfmi	矛	NAKAMIDASI:む
+jfmo	霧
+fjhb	鵡
+fjhv	椋
+jfmp	婿
+jfmh	娘
+fjhc	冥	NAKAMIDASI:め
+mr	名
+bk	命
+px	明
+9f	盟
+0u	迷
+jfmj	銘	NAKAMIDASI:め
+jfld	鳴
+fjhx	姪
+fjhz	牝
+jfmk	滅
+bm	免
+fjj5	棉
+9v	綿
+fjj4	緬
+,c	面
+fjj3	麺
+fjj2	摸	NAKAMIDASI:も
+,3	模
+3n	茂
+jfml	妄	NAKAMIDASI:も
+fjj1	孟
+zj	毛
+jfm;	猛
+jfmn	盲
+jfmm	網
+jfm,	耗
+fjjt	蒙
+fjjr	儲
+pw	木
+jfm.	黙
+.v	目
+fjje	杢
+fjjw	勿
+fjjq	餅
+fjjg	尤
+0i	戻
+fjjd	籾
+fjjs	貰
+yb	問
+fjja	悶
+jfm/	紋
+rg	門
+jf,y	匁
+fjjb	也	OOMIDASI:や
+fjjv	冶
+fq	夜
+fjjc	爺
+fjjx	耶
+lx	野
+fjjz	弥
+5/	矢
+jf,u	厄	OOMIDASI:や
+gi	役
+.l	約
+ej	薬
+/1	訳
+jf,i	躍
+fjk5	靖
+jf,o	柳
+fjk4	薮
+fjk3	鑓
+jf,p	愉
+fjk2	愈	NAKAMIDASI:ゆ
+jfls	油	OOMIDASI:ヤ
+jf,h	癒
+jf,j	諭
+aj	輸
+jf,k	唯
+fjk1	佑
+hp	優
+jfla	勇
+sz	友
+fjkt	宥
+jf,l	幽
+jf,;	悠
+jf,n	憂
+fjkr	揖
+;h	有
+fjke	柚
+fjkw	湧
+fjkq	涌
+jf,m	猶
+fjkg	猷
+rw	由
+fjkf	祐
+jf,,	裕
+jf,.	誘
+b.	遊
+fjkd	邑
+e7	郵
+ws	雄
+rx	融
+0e	夕
+sf	予
+7g	余
+/.	与
+jf,/	誉	NAKAMIDASI:よ
+fjks	輿	NAKAMIDASI:よ
+jflb	預
+fjka	傭
+jflv	幼
+fjkb	妖
+el	容
+jf.y	庸
+jf.u	揚
+jf.i	揺
+jf.o	擁
+bu	曜
+fjkv	楊
+s/	様
+ly	洋
+jf.p	溶
+fjkc	熔
+kn	用
+jf.h	窯
+0o	羊
+fjkx	耀
+vv	葉
+fjkz	蓉
+hh	要
+7d	謡
+jf.j	踊
+fjl5	遥
+zu	陽
+t.	養
+fjl4	慾
+jf.k	抑
+1n	欲
+fjl3	沃
+qi	浴
+jflc	翌
+jf.l	翼
+fjl2	淀
+jf.;	羅	OOMIDASI:ら
+fjl1	螺	OOMIDASI:ら
+jf.n	裸
+,j	来
+fjlt	莱
+3o	頼
+jf.m	雷
+fjlr	洛
+5j	絡
+vk	落
+jf.,	酪
+.2	乱
+jflx	卵	OOMIDASI:ラ
+fjle	嵐
+y0	欄
+jf..	濫
+fjlw	藍
+fjlq	蘭
+jflz	覧
+et	利
+jf./	吏	NAKAMIDASI:り
+vo	履
+fjlg	李	NAKAMIDASI:り
+fjlf	梨
+mx	理
+fjld	璃
+jf/y	痢
+cw	裏
+fjls	裡
+5i	里
+0v	離
+u/	陸
+jf;t	律
+vy	率
+pr	立
+fjla	葎
+fjlb	掠
+i0	略
+fjlv	劉
+gj	流
+fjlc	溜
+fjlx	琉
+1,	留
+jf/u	硫
+jf/i	粒
+jf/o	隆
+v8	竜
+u0	龍
+fjlz	侶
+o0	慮
+cu	旅
+jf/p	虜
+ec	了
+fj;5	亮
+jf/h	僚
+ee	両
+fj;4	凌
+bh	寮
+ad	料
+fj;3	梁
+jf/j	涼
+jf/k	猟
+0g	療
+fj;2	瞭
+fj;1	稜
+jf/l	糧
+bj	良
+fj;t	諒
+fj;r	遼
+be	量
+jf/;	陵
+wl	領
+lj	力
+jf;r	緑
+jf/n	倫
+jf/m	厘
+jf;e	林
+fj;e	淋
+fj;w	燐
+fj;q	琳
+b7	臨
+a9	輪
+9w	隣
+fj;g	鱗
+fj;f	麟
+fj;d	瑠	NAKAMIDASI:る
+jf/,	塁	NAKAMIDASI:る
+jf/.	涙
+p0	累
+xr	類
+ap	令
+fj;s	伶	NAKAMIDASI:れ
+z.	例
+p.	冷
+jf//	励	NAKAMIDASI:れ
+fj;a	嶺
+fj;b	怜
+fj;v	玲
+w6	礼
+fj;c	苓
+wv	鈴
+jf;w	隷	NAKAMIDASI:れ
+jf;q	零
+jf;g	霊
+jf;f	麗
+jf;d	齢
+jf;s	暦
+/q	歴
+2,	列
+jf;a	劣
+jf;b	烈
+jf;v	裂
+jf;c	廉
+3m	恋
+fj;x	憐
+fj;z	漣
+fjn5	煉
+fjn4	簾
+,i	練
+fjn3	聯
+fjn2	蓮
+hj	連
+jf;x	錬
+fjn1	呂	NAKAMIDASI:ろ
+fjnt	魯
+fjnr	櫓
+jf;z	炉	NAKAMIDASI:ろ
+fjne	賂
+rh	路
+jfnt	露
+di	労
+fjnw	婁
+jfnr	廊
+fjnq	弄
+5n	朗
+jfne	楼
+fjng	榔
+jfnw	浪
+jfnq	漏
+fjnf	牢
+fjnd	狼
+fjns	篭
+5m	老
+fjna	聾
+fjnb	蝋
+oy	郎
+ic	六
+fjnv	麓
+fjnc	禄
+fjnx	肋
+sn	録
+rr	論
+fjnz	倭	OOMIDASI:わ
+ot	和
+yk	話
+fjm5	歪
+jfng	賄	OOMIDASI:わ
+fjm4	脇
+jfnf	惑
+jfnd	枠
+fjm3	鷲
+fjm2	亙
+fjm1	亘
+fjmt	鰐
+fjmr	詫
+fjme	藁
+fjmw	蕨
+fjmq	椀
+jfns	湾
+fjmg	碗
+f8	腕
+fjmf	丼	OOMIDASI:2
+fjmd	傲
+fjms	刹
+fjma	哺
+fjmb	喩
+fjmv	嗅
+fjmc	嘲
+fjmx	毀
+0j	已
+fjmz	彙
+fj,5	恣
+fj,4	惧
+fj,3	慄
+fj,2	憬
+fj,1	拉
+fj,t	摯
+fj,r	曖
+fj,e	楷
+fj,w	鬱
+fj,q	璧
+fj,g	瘍
+fj,f	箋
+fj,d	籠
+fj,s	緻
+fj,a	羞
+fj,b	訃
+fj,v	諧
+fj,c	貪
+fj,x	踪
+fj,z	辣
+fj.5	錮
+fj.1	弌
+fj.2	丐
+fj.3	丕
+fj.4	个
+fj.q	丱
+fj.w	丶
+fj.e	丿
+fj.r	乂
+fj.t	乖
+fj.a	乘
+fj.s	亂
+fj.d	亅
+fj.f	豫
+fj.g	亊
+fj.z	舒
+fj.x	弍
+fj.c	于
+fj.v	亞
+fj.b	亟
+fj/1	亠
+fj/2	亢
+fj/3	亰
+fj/4	亳
+fj/5	亶
+fj/q	从
+fj/w	仍
+fj/e	仄
+fj/r	仆
+fj/t	仂
+fj/a	仗
+fj/s	仞
+fj/d	仭
+fj/f	仟
+fj/g	价
+fj/z	伉
+fj/x	佚
+fj/c	估
+fj/v	佛
+fj/b	佝
+fj1q	佗
+fj1w	佇
+fj1e	佶
+fj1r	侈
+fj1t	侏
+fj1y	侘
+fj1u	佻
+fj1i	佩
+fj1o	佰
+fj1p	侑
+fj1a	佯
+fj1s	來
+fj1d	侖
+fj1f	儘
+fj1g	俔
+fj1h	俟
+fj1j	俎
+fj1k	俘
+fj1l	俛
+fj1;	俑
+fj1z	俚
+fj1x	俐
+fj1c	俤
+fj1v	俥
+fj1b	倚
+fj1n	倨
+fj1m	倔
+fj1,	倪
+fj1.	倥
+fj1/	倅
+fj2q	伜
+fj2w	俶
+fj2e	倡
+fj2r	倩
+fj2t	倬
+fj2y	俾
+fj2u	俯
+fj2i	們
+fj2o	倆
+fj2p	偃
+fj2a	假
+fj2s	會
+fj2d	偕
+fj2f	偐
+fj2g	偈
+fj2h	做
+fj2j	偖
+fj2k	偬
+fj2l	偸
+fj2;	傀
+fj2z	傚
+fj2x	傅
+fj2c	傴
+fj2v	僉
+fj2b	僊
+fj2n	傳
+fj2m	僂
+fj2,	僖
+fj2.	僞
+fj2/	僥
+fj9q	僭
+fj9w	僣
+fj9e	僮
+fj9r	價
+fj9t	僵
+fj9y	儉
+fj9u	儁
+fj9i	儂
+fj9o	儖
+fj9p	儕
+fj9a	儔
+fj9s	儚
+fj9d	儡
+fj9f	儺
+fj9g	儷
+fj9h	儼
+fj9j	儻
+fj9k	儿
+fj9l	兀
+fj9;	兒
+fj9z	兌
+fj9x	兔
+fj9c	兢
+fj9v	竸
+fj9b	兩
+fj9n	兪
+fj9m	兮
+fj9,	冀
+fj9.	冂
+fj9/	囘
+fj0q	册
+fj0w	冉
+fj0e	冏
+fj0r	冑
+fj0t	冓
+fj0y	冕
+fj0u	冖
+fj0i	冤
+fj0o	冦
+fj0p	冢
+fj0a	冩
+fj0s	冪
+fj0d	冫
+fj0f	决
+fj0g	冱
+fj0h	冲
+fj0j	冰
+fj0k	况
+fj0l	冽
+fj0;	凅
+fj0z	凉
+fj0x	凛
+fj0c	几
+fj0v	處
+fj0b	凩
+fj0n	凭
+fj0m	凰
+fj0,	凵
+fj0.	凾
+fj0/	刄
+4311	刋
+4312	刔
+4313	刎
+4314	刧
+4315	刪
+4316	刮
+4317	刳
+4318	剏
+4319	剄
+4310	剋
+431q	剌
+431w	剞
+431e	剔
+431r	剪
+431t	剴
+431y	剩
+431u	剳
+431i	剿
+431o	剽
+431p	劍
+431a	劔
+431s	劒
+431d	剱
+431f	劈
+431g	劑
+431h	辨
+431j	辧
+431k	劬
+431l	劭
+431;	劼
+431z	劵
+431x	勁
+431c	勍
+431v	勗
+431b	勞
+431n	勣
+431m	勦
+431,	飭
+431.	勠
+431/	勳
+4321	勵
+4322	勸
+4323	勹
+4324	匆
+4325	匈
+4326	甸
+4327	匍
+4328	匐
+4329	匏
+4320	匕
+432q	匚
+432w	匣
+432e	匯
+432r	匱
+432t	匳
+432y	匸
+432u	區
+432i	卆
+432o	卅
+432p	丗
+432a	卉
+432s	卍
+432d	凖
+432f	卞
+432g	卩
+432h	卮
+432j	夘
+432k	卻
+432l	卷
+432;	厂
+432z	厖
+432x	厠
+432c	厦
+432v	厥
+432b	厮
+432n	厰
+432m	厶
+432,	參
+432.	簒
+432/	雙
+4331	叟
+4332	曼
+4333	燮
+4334	叮
+4335	叨
+4336	叭
+4337	叺
+4338	吁
+4339	吽
+4330	呀
+433q	听
+433w	吭
+433e	吼
+433r	吮
+433t	吶
+433y	吩
+433u	吝
+433i	呎
+433o	咏
+433p	呵
+433a	咎
+433s	呟
+433d	呱
+433f	呷
+433g	呰
+433h	咒
+433j	呻
+433k	咀
+433l	呶
+433;	咄
+433z	咐
+433x	咆
+433c	哇
+433v	咢
+433b	咸
+433n	咥
+433m	咬
+433,	哄
+433.	哈
+433/	咨
+4341	咫
+4342	哂
+4343	咤
+4344	咾
+4345	咼
+4346	哘
+4347	哥
+4348	哦
+4349	唏
+4340	唔
+434q	哽
+434w	哮
+434e	哭
+434r	哢
+434t	唹
+434y	啀
+434u	啣
+434i	啌
+434o	售
+434p	啜
+434a	啅
+434s	啖
+434d	啗
+434f	唸
+434g	唳
+434h	啝
+434j	喙
+434k	喀
+434l	咯
+434;	喊
+434z	喟
+434x	啻
+434c	啾
+434v	喘
+434b	喞
+434n	單
+434m	啼
+434,	喃
+434.	喇
+434/	喨
+4351	嗚
+4352	嗟
+4353	嗄
+4354	嗜
+4355	嗤
+4356	嗔
+4357	嘔
+4358	嗷
+4359	嘖
+4350	嗾
+435q	嗽
+435w	嘛
+435e	嗹
+435r	噎
+435t	噐
+435y	營
+435u	嘴
+435i	嘶
+435o	嘸
+435p	噫
+435a	噤
+435s	嘯
+435d	噬
+435f	噪
+435g	嚆
+435h	嚀
+435j	嚊
+435k	嚠
+435l	嚔
+435;	嚏
+435z	嚥
+435x	嚮
+435c	嚶
+435v	嚴
+435b	囂
+435n	嚼
+435m	囁
+435,	囃
+435.	囀
+435/	囈
+4361	囎
+4362	囑
+4363	囓
+4364	囗
+4365	囮
+4366	囹
+4367	圀
+4368	囿
+4369	圄
+4360	圉
+436q	圈
+436w	國
+436e	圍
+436r	圓
+436t	團
+436y	圖
+436u	嗇
+436i	圜
+436o	圦
+436p	圷
+436a	圸
+436s	坎
+436d	圻
+436f	址
+436g	坏
+436h	坩
+436j	埀
+436k	垈
+436l	坡
+436;	坿
+436z	垉
+436x	垓
+436c	垠
+436v	垳
+436b	垤
+436n	垪
+436m	垰
+436,	埃
+436.	埆
+436/	埔
+4371	埒
+4372	埓
+4373	堊
+4374	埖
+4375	埣
+4376	堋
+4377	堙
+4378	堝
+4379	塲
+4370	堡
+437q	塢
+437w	塋
+437e	塰
+437r	塒
+437t	堽
+437y	塹
+437u	墅
+437i	墹
+437o	墟
+437p	墫
+437a	墺
+437s	壞
+437d	墻
+437f	墸
+437g	墮
+437h	壅
+437j	壓
+437k	壑
+437l	壗
+437;	壙
+437z	壘
+437x	壥
+437c	壜
+437v	壤
+437b	壟
+437n	壯
+437m	壺
+437,	壹
+437.	壻
+437/	壼
+4381	壽
+4382	夂
+4383	夊
+4384	夐
+4385	夛
+4386	梦
+4387	夥
+4388	夬
+4389	夭
+4380	夲
+438q	夸
+438w	夾
+438e	竒
+438r	奕
+438t	奐
+438y	奎
+438u	奚
+438i	奘
+438o	奢
+438p	奠
+438a	奧
+438s	奬
+438d	奩
+438f	奸
+438g	妁
+438h	妝
+438j	佞
+438k	侫
+438l	妣
+438;	妲
+438z	姆
+438x	姨
+438c	姜
+438v	妍
+438b	姙
+438n	姚
+438m	娥
+438,	娟
+438.	娑
+438/	娜
+4391	娉
+4392	娚
+4393	婀
+4394	婬
+4395	婉
+4396	娵
+4397	娶
+4398	婢
+4399	婪
+4390	媚
+439q	媼
+439w	媾
+439e	嫋
+439r	嫂
+439t	媽
+439y	嫣
+439u	嫗
+439i	嫦
+439o	嫩
+439p	嫖
+439a	嫺
+439s	嫻
+439d	嬌
+439f	嬋
+439g	嬖
+439h	嬲
+439j	嫐
+439k	嬪
+439l	嬶
+439;	嬾
+439z	孃
+439x	孅
+439c	孀
+439v	孑
+439b	孕
+439n	孚
+439m	孛
+439,	孥
+439.	孩
+439/	孰
+4301	孳
+4302	孵
+4303	學
+4304	斈
+4305	孺
+4306	宀
+4307	它
+4308	宦
+4309	宸
+4300	寃
+430q	寇
+430w	寉
+430e	寔
+430r	寐
+430t	寤
+430y	實
+430u	寢
+430i	寞
+430o	寥
+430p	寫
+430a	寰
+430s	寶
+430d	寳
+430f	尅
+430g	將
+430h	專
+430j	對
+430k	尓
+430l	尠
+430;	尢
+430z	尨
+430x	尸
+430c	尹
+430v	屁
+430b	屆
+430n	屎
+430m	屓
+430,	屐
+430.	屏
+430/	孱
+43q1	屬
+43q2	屮
+43q3	乢
+43q4	屶
+43q5	屹
+43q6	岌
+43q7	岑
+43q8	岔
+43q9	妛
+43q0	岫
+43qq	岻
+43qw	岶
+43qe	岼
+43qr	岷
+43qt	峅
+43qy	岾
+43qu	峇
+43qi	峙
+43qo	峩
+43qp	峽
+43qa	峺
+43qs	峭
+43qd	嶌
+43qf	峪
+43qg	崋
+43qh	崕
+43qj	崗
+43qk	嵜
+43ql	崟
+43q;	崛
+43qz	崑
+43qx	崔
+43qc	崢
+43qv	崚
+43qb	崙
+43qn	崘
+43qm	嵌
+43q,	嵒
+43q.	嵎
+43q/	嵋
+43w1	嵬
+43w2	嵳
+43w3	嵶
+43w4	嶇
+43w5	嶄
+43w6	嶂
+43w7	嶢
+43w8	嶝
+43w9	嶬
+43w0	嶮
+43wq	嶽
+43ww	嶐
+43we	嶷
+43wr	嶼
+43wt	巉
+43wy	巍
+43wu	巓
+43wi	巒
+43wo	巖
+43wp	巛
+43wa	巫
+43ws	巵
+43wd	帋
+43wf	帚
+43wg	帙
+43wh	帑
+43wj	帛
+43wk	帶
+43wl	帷
+43w;	幄
+43wz	幃
+43wx	幀
+43wc	幎
+43wv	幗
+43wb	幔
+43wn	幟
+43wm	幢
+43w,	幤
+43w.	幇
+43w/	幵
+43e1	并
+43e2	幺
+43e3	麼
+43e4	广
+43e5	庠
+43e6	廁
+43e7	廂
+43e8	廈
+43e9	廐
+43e0	廏
+43eq	廖
+43ew	廣
+43ee	廝
+43er	廚
+43et	廛
+43ey	廢
+43eu	廡
+43ei	廨
+43eo	廩
+43ep	廬
+43ea	廱
+43es	廳
+43ed	廰
+43ef	廴
+43eg	廸
+43eh	廾
+43ej	弃
+43ek	弉
+43el	彝
+43e;	彜
+43ez	弋
+43ex	弑
+43ec	弖
+43ev	弩
+43eb	弭
+43en	弸
+43em	彁
+43e,	彈
+43e.	彌
+43e/	彎
+43r1	弯
+43r2	彑
+43r3	彖
+43r4	彗
+43r5	彡
+43r6	彭
+43r7	彳
+43r8	彷
+43r9	徃
+43r0	徂
+43rq	彿
+43rw	徊
+43re	很
+43rr	徑
+43rt	徇
+43ry	從
+43ru	徙
+43ri	徘
+43ro	徠
+43rp	徨
+43ra	徭
+43rs	徼
+43rd	忖
+43rf	忻
+43rg	忤
+43rh	忸
+43rj	忱
+43rk	忝
+43rl	悳
+43r;	忿
+43rz	怡
+43rx	恠
+43rc	怙
+43rv	怐
+43rb	怩
+43rn	怎
+43rm	怱
+43r,	怛
+43r.	怕
+43r/	怫
+43t1	怦
+43t2	怏
+43t3	怺
+43t4	恚
+43t5	恁
+43t6	恪
+43t7	恷
+43t8	恟
+43t9	恊
+43t0	恆
+43tq	恍
+43tw	恃
+43te	恤
+43tr	恂
+43tt	恬
+43ty	恫
+43tu	恙
+43ti	悁
+43to	悍
+43tp	悃
+43ta	悚
+43ts	悄
+43td	悛
+43tf	悖
+43tg	悗
+43th	悒
+43tj	悧
+43tk	悋
+43tl	惡
+43t;	悸
+43tz	惠
+43tx	惓
+43tc	悴
+43tv	忰
+43tb	悽
+43tn	惆
+43tm	悵
+43t,	惘
+43t.	慍
+43t/	愕
+43y1	愆
+43y2	惶
+43y3	惷
+43y4	愀
+43y5	惴
+43y6	惺
+43y7	愃
+43y8	愡
+43y9	惻
+43y0	惱
+43yq	愍
+43yw	愎
+43ye	慇
+43yr	愾
+43yt	愨
+43yy	愧
+43yu	慊
+43yi	愿
+43yo	愼
+43yp	愬
+43ya	愴
+43ys	愽
+43yd	慂
+43yf	慳
+43yg	慷
+43yh	慘
+43yj	慙
+43yk	慚
+43yl	慫
+43y;	慴
+43yz	慯
+43yx	慥
+43yc	慱
+43yv	慟
+43yb	慝
+43yn	慓
+43ym	慵
+43y,	憙
+43y.	憖
+43y/	憇
+43u1	憔
+43u2	憚
+43u3	憊
+43u4	憑
+43u5	憫
+43u6	憮
+43u7	懌
+43u8	懊
+43u9	應
+43u0	懷
+43uq	懈
+43uw	懃
+43ue	懆
+43ur	憺
+43ut	懋
+43uy	罹
+43uu	懍
+43ui	懦
+43uo	懣
+43up	懶
+43ua	懺
+43us	懴
+43ud	懿
+43uf	懽
+43ug	懼
+43uh	懾
+43uj	戀
+43uk	戈
+43ul	戉
+43u;	戍
+43uz	戌
+43ux	戔
+43uc	戛
+43uv	戞
+43ub	戡
+43un	截
+43um	戮
+43u,	戰
+43u.	戲
+43u/	戳
+43i1	扁
+43i2	扎
+43i3	扞
+43i4	扣
+43i5	扛
+43i6	扠
+43i7	扨
+43i8	扼
+43i9	抂
+43i0	抉
+43iq	找
+43iw	抒
+43ie	抓
+43ir	抖
+43it	拔
+43iy	抃
+43iu	抔
+43ii	拗
+43io	拑
+43ip	抻
+43ia	拏
+43is	拿
+43id	拆
+43if	擔
+43ig	拈
+43ih	拜
+43ij	拌
+43ik	拊
+43il	拂
+43i;	拇
+43iz	抛
+43ix	挌
+43ic	拮
+43iv	拱
+43ib	挧
+43in	挂
+43im	挈
+43i,	拯
+43i.	拵
+43i/	捐
+43o1	挾
+43o2	捍
+43o3	搜
+43o4	捏
+43o5	掖
+43o6	掎
+43o7	掀
+43o8	掫
+43o9	捶
+43o0	掣
+43oq	掏
+43ow	掉
+43oe	掟
+43or	掵
+43ot	捫
+43oy	捩
+43ou	掾
+43oi	揩
+43oo	揀
+43op	揆
+43oa	揣
+43os	揉
+43od	插
+43of	揶
+43og	揄
+43oh	搖
+43oj	搴
+43ok	搆
+43ol	搓
+43o;	搦
+43oz	搶
+43ox	攝
+43oc	搗
+43ov	搨
+43ob	搏
+43on	摧
+43om	摶
+43o,	摎
+43o.	攪
+43o/	撕
+43p1	撓
+43p2	撥
+43p3	撩
+43p4	撈
+43p5	撼
+43p6	據
+43p7	擒
+43p8	擅
+43p9	擇
+43p0	撻
+43pq	擘
+43pw	擂
+43pe	擱
+43pr	擧
+43pt	舉
+43py	擠
+43pu	擡
+43pi	抬
+43po	擣
+43pp	擯
+43pa	攬
+43ps	擶
+43pd	擴
+43pf	擲
+43pg	擺
+43ph	攀
+43pj	擽
+43pk	攘
+43pl	攜
+43p;	攅
+43pz	攤
+43px	攣
+43pc	攫
+43pv	攴
+43pb	攵
+43pn	攷
+43pm	收
+43p,	攸
+43p.	畋
+43p/	效
+43a1	敖
+43a2	敕
+43a3	敍
+43a4	敘
+43a5	敞
+43a6	敝
+43a7	敲
+43a8	數
+43a9	斂
+43a0	斃
+43aq	變
+43aw	斛
+43ae	斟
+43ar	斫
+43at	斷
+43ay	旃
+43au	旆
+43ai	旁
+43ao	旄
+43ap	旌
+43aa	旒
+43as	旛
+43ad	旙
+43af	无
+43ag	旡
+43ah	旱
+43aj	杲
+43ak	昊
+43al	昃
+43a;	旻
+43az	杳
+43ax	昵
+43ac	昶
+43av	昴
+43ab	昜
+43an	晏
+43am	晄
+43a,	晉
+43a.	晁
+43a/	晞
+43s1	晝
+43s2	晤
+43s3	晧
+43s4	晨
+43s5	晟
+43s6	晢
+43s7	晰
+43s8	暃
+43s9	暈
+43s0	暎
+43sq	暉
+43sw	暄
+43se	暘
+43sr	暝
+43st	曁
+43sy	暹
+43su	曉
+43si	暾
+43so	暼
+43sp	曄
+43sa	暸
+43ss	曚
+43sd	曠
+43sf	昿
+43sg	曦
+43sh	曩
+43sj	曰
+43sk	曵
+43sl	曷
+43s;	朏
+43sz	朖
+43sx	朞
+43sc	朦
+43sv	朧
+43sb	霸
+43sn	朮
+43sm	朿
+43s,	朶
+43s.	杁
+43s/	朸
+43d1	朷
+43d2	杆
+43d3	杞
+43d4	杠
+43d5	杙
+43d6	杣
+43d7	杤
+43d8	枉
+43d9	杰
+43d0	枩
+43dq	杼
+43dw	杪
+43de	枌
+43dr	枋
+43dt	枦
+43dy	枡
+43du	枅
+43di	枷
+43do	柯
+43dp	枴
+43da	柬
+43ds	枳
+43dd	柩
+43df	枸
+43dg	柤
+43dh	柞
+43dj	柝
+43dk	柢
+43dl	柮
+43d;	枹
+43dz	柎
+43dx	柆
+43dc	柧
+43dv	檜
+43db	栞
+43dn	框
+43dm	栩
+43d,	桀
+43d.	桍
+43d/	栲
+43f1	桎
+43f2	梳
+43f3	栫
+43f4	桙
+43f5	档
+43f6	桷
+43f7	桿
+43f8	梟
+43f9	梏
+43f0	梭
+43fq	梔
+43fw	條
+43fe	梛
+43fr	梃
+43ft	檮
+43fy	梹
+43fu	桴
+43fi	梵
+43fo	梠
+43fp	梺
+43fa	椏
+43fs	梍
+43fd	桾
+43ff	椁
+43fg	棊
+43fh	椈
+43fj	棘
+43fk	椢
+43fl	椦
+43f;	棡
+43fz	椌
+43fx	棍
+43fc	棔
+43fv	棧
+43fb	棕
+43fn	椶
+43fm	椒
+43f,	椄
+43f.	棗
+43f/	棣
+43g1	椥
+43g2	棹
+43g3	棠
+43g4	棯
+43g5	椨
+43g6	椪
+43g7	椚
+43g8	椣
+43g9	椡
+43g0	棆
+43gq	楹
+43gw	楜
+43ge	楸
+43gr	楫
+43gt	楔
+43gy	楾
+43gu	楮
+43gi	椹
+43go	楴
+43gp	椽
+43ga	楙
+43gs	椰
+43gd	楡
+43gf	楞
+43gg	楝
+43gh	榁
+43gj	楪
+43gk	榲
+43gl	榮
+43g;	槐
+43gz	榿
+43gx	槁
+43gc	槓
+43gv	榾
+43gb	槎
+43gn	寨
+43gm	槊
+43g,	槝
+43g.	榻
+43g/	槃
+43h1	榧
+43h2	樮
+43h3	榑
+43h4	榠
+43h5	榜
+43h6	榕
+43h7	榴
+43h8	槞
+43h9	槨
+43h0	樂
+43hq	樛
+43hw	槿
+43he	權
+43hr	槹
+43ht	槲
+43hy	槧
+43hu	樅
+43hi	榱
+43ho	樞
+43hp	槭
+43ha	樔
+43hs	槫
+43hd	樊
+43hf	樒
+43hg	櫁
+43hh	樣
+43hj	樓
+43hk	橄
+43hl	樌
+43h;	橲
+43hz	樶
+43hx	橸
+43hc	橇
+43hv	橢
+43hb	橙
+43hn	橦
+43hm	橈
+43h,	樸
+43h.	樢
+43h/	檐
+43j1	檍
+43j2	檠
+43j3	檄
+43j4	檢
+43j5	檣
+43j6	檗
+43j7	蘗
+43j8	檻
+43j9	櫃
+43j0	櫂
+43jq	檸
+43jw	檳
+43je	檬
+43jr	櫞
+43jt	櫑
+43jy	櫟
+43ju	檪
+43ji	櫚
+43jo	櫪
+43jp	櫻
+43ja	欅
+43js	蘖
+43jd	櫺
+43jf	欒
+43jg	欖
+43jh	欟
+43jj	欸
+43jk	欷
+43jl	盜
+43j;	欹
+43jz	飮
+43jx	歇
+43jc	歃
+43jv	歉
+43jb	歐
+43jn	歙
+43jm	歔
+43j,	歛
+43j.	歟
+43j/	歡
+43k1	歸
+43k2	歹
+43k3	歿
+43k4	殀
+43k5	殄
+43k6	殃
+43k7	殍
+43k8	殘
+43k9	殕
+43k0	殞
+43kq	殤
+43kw	殪
+43ke	殫
+43kr	殯
+43kt	殲
+43ky	殱
+43ku	殳
+43ki	殷
+43ko	殼
+43kp	毆
+43ka	毋
+43ks	毓
+43kd	毟
+43kf	毬
+43kg	毫
+43kh	毳
+43kj	毯
+43kk	麾
+43kl	氈
+43k;	氓
+43kz	气
+43kx	氛
+43kc	氤
+43kv	氣
+43kb	汞
+43kn	汕
+43km	汢
+43k,	汪
+43k.	沂
+43k/	沍
+43l1	沚
+43l2	沁
+43l3	沛
+43l4	汾
+43l5	汨
+43l6	汳
+43l7	沒
+43l8	沐
+43l9	泄
+43l0	泱
+43lq	泓
+43lw	沽
+43le	泗
+43lr	泅
+43lt	泝
+43ly	沮
+43lu	沱
+43li	沾
+43lo	沺
+43lp	泛
+43la	泯
+43ls	泙
+43ld	泪
+43lf	洟
+43lg	衍
+43lh	洶
+43lj	洫
+43lk	洽
+43ll	洸
+43l;	洙
+43lz	洵
+43lx	洳
+43lc	洒
+43lv	洌
+43lb	浣
+43ln	涓
+43lm	浤
+43l,	浚
+43l.	浹
+43l/	浙
+43;1	涎
+43;2	涕
+43;3	濤
+43;4	涅
+43;5	淹
+43;6	渕
+43;7	渊
+43;8	涵
+43;9	淇
+43;0	淦
+43;q	涸
+43;w	淆
+43;e	淬
+43;r	淞
+43;t	淌
+43;y	淨
+43;u	淒
+43;i	淅
+43;o	淺
+43;p	淙
+43;a	淤
+43;s	淕
+43;d	淪
+43;f	淮
+43;g	渭
+43;h	湮
+43;j	渮
+43;k	渙
+43;l	湲
+43;;	湟
+43;z	渾
+43;x	渣
+43;c	湫
+43;v	渫
+43;b	湶
+43;n	湍
+43;m	渟
+43;,	湃
+43;.	渺
+43;/	湎
+43z1	渤
+43z2	滿
+43z3	渝
+43z4	游
+43z5	溂
+43z6	溪
+43z7	溘
+43z8	滉
+43z9	溷
+43z0	滓
+43zq	溽
+43zw	溯
+43ze	滄
+43zr	溲
+43zt	滔
+43zy	滕
+43zu	溏
+43zi	溥
+43zo	滂
+43zp	溟
+43za	潁
+43zs	漑
+43zd	灌
+43zf	滬
+43zg	滸
+43zh	滾
+43zj	漿
+43zk	滲
+43zl	漱
+43z;	滯
+43zz	漲
+43zx	滌
+43zc	漾
+43zv	漓
+43zb	滷
+43zn	澆
+43zm	潺
+43z,	潸
+43z.	澁
+43z/	澀
+43x1	潯
+43x2	潛
+43x3	濳
+43x4	潭
+43x5	澂
+43x6	潼
+43x7	潘
+43x8	澎
+43x9	澑
+43x0	濂
+43xq	潦
+43xw	澳
+43xe	澣
+43xr	澡
+43xt	澤
+43xy	澹
+43xu	濆
+43xi	澪
+43xo	濟
+43xp	濕
+43xa	濬
+43xs	濔
+43xd	濘
+43xf	濱
+43xg	濮
+43xh	濛
+43xj	瀉
+43xk	瀋
+43xl	濺
+43x;	瀑
+43xz	瀁
+43xx	瀏
+43xc	濾
+43xv	瀛
+43xb	瀚
+43xn	潴
+43xm	瀝
+43x,	瀘
+43x.	瀟
+43x/	瀰
+43c1	瀾
+43c2	瀲
+43c3	灑
+43c4	灣
+43c5	炙
+43c6	炒
+43c7	炯
+43c8	烱
+43c9	炬
+43c0	炸
+43cq	炳
+43cw	炮
+43ce	烟
+43cr	烋
+43ct	烝
+43cy	烙
+43cu	焉
+43ci	烽
+43co	焜
+43cp	焙
+43ca	煥
+43cs	煕
+43cd	熈
+43cf	煦
+43cg	煢
+43ch	煌
+43cj	煖
+43ck	煬
+43cl	熏
+43c;	燻
+43cz	熄
+43cx	熕
+43cc	熨
+43cv	熬
+43cb	燗
+43cn	熹
+43cm	熾
+43c,	燒
+43c.	燉
+43c/	燔
+43v1	燎
+43v2	燠
+43v3	燬
+43v4	燧
+43v5	燵
+43v6	燼
+43v7	燹
+43v8	燿
+43v9	爍
+43v0	爐
+43vq	爛
+43vw	爨
+43ve	爭
+43vr	爬
+43vt	爰
+43vy	爲
+43vu	爻
+43vi	爼
+43vo	爿
+43vp	牀
+43va	牆
+43vs	牋
+43vd	牘
+43vf	牴
+43vg	牾
+43vh	犂
+43vj	犁
+43vk	犇
+43vl	犒
+43v;	犖
+43vz	犢
+43vx	犧
+43vc	犹
+43vv	犲
+43vb	狃
+43vn	狆
+43vm	狄
+43v,	狎
+43v.	狒
+43v/	狢
+43b1	狠
+43b2	狡
+43b3	狹
+43b4	狷
+43b5	倏
+43b6	猗
+43b7	猊
+43b8	猜
+43b9	猖
+43b0	猝
+43bq	猴
+43bw	猯
+43be	猩
+43br	猥
+43bt	猾
+43by	獎
+43bu	獏
+43bi	默
+43bo	獗
+43bp	獪
+43ba	獨
+43bs	獰
+43bd	獸
+43bf	獵
+43bg	獻
+43bh	獺
+43bj	珈
+43bk	玳
+43bl	珎
+43b;	玻
+43bz	珀
+43bx	珥
+43bc	珮
+43bv	珞
+43bb	璢
+43bn	琅
+43bm	瑯
+43b,	琥
+43b.	珸
+43b/	琲
+43n1	琺
+43n2	瑕
+43n3	琿
+43n4	瑟
+43n5	瑙
+43n6	瑁
+43n7	瑜
+43n8	瑩
+43n9	瑰
+43n0	瑣
+43nq	瑪
+43nw	瑶
+43ne	瑾
+43nr	璋
+43nt	璞
+43ny	瓊
+43nu	瓏
+43ni	瓔
+43no	珱
+43np	瓠
+43na	瓣
+43ns	瓧
+43nd	瓩
+43nf	瓮
+43ng	瓲
+43nh	瓰
+43nj	瓱
+43nk	瓸
+43nl	瓷
+43n;	甄
+43nz	甃
+43nx	甅
+43nc	甌
+43nv	甎
+43nb	甍
+43nn	甕
+43nm	甓
+43n,	甞
+43n.	甦
+43n/	甬
+43m1	甼
+43m2	畄
+43m3	畍
+43m4	畊
+43m5	畉
+43m6	畛
+43m7	畆
+43m8	畚
+43m9	畩
+43m0	畤
+43mq	畧
+43mw	畫
+43me	畭
+43mr	畸
+43mt	當
+43my	疆
+43mu	疇
+43mi	畴
+43mo	疊
+43mp	疉
+43ma	疂
+43ms	疔
+43md	疚
+43mf	疝
+43mg	疥
+43mh	疣
+43mj	痂
+43mk	疳
+43ml	痃
+43m;	疵
+43mz	疽
+43mx	疸
+43mc	疼
+43mv	疱
+43mb	痍
+43mn	痊
+43mm	痒
+43m,	痙
+43m.	痣
+43m/	痞
+43,1	痾
+43,2	痿
+43,3	痼
+43,4	瘁
+43,5	痰
+43,6	痺
+43,7	痲
+43,8	痳
+43,9	瘋
+43,0	瘉
+43,q	瘟
+43,w	瘧
+43,e	瘠
+43,r	瘡
+43,t	瘢
+43,y	瘤
+43,u	瘴
+43,i	瘰
+43,o	瘻
+43,p	癇
+43,a	癈
+43,s	癆
+43,d	癜
+43,f	癘
+43,g	癡
+43,h	癢
+43,j	癨
+43,k	癩
+43,l	癪
+43,;	癧
+43,z	癬
+43,x	癰
+43,c	癲
+43,v	癶
+43,b	癸
+43,n	發
+43,m	皀
+43,,	皃
+43,.	皈
+43,/	皋
+43.1	皎
+43.2	皖
+43.3	皓
+43.4	皙
+43.5	皚
+43.6	皰
+43.7	皴
+43.8	皸
+43.9	皹
+43.0	皺
+43.q	盂
+43.w	盍
+43.e	盖
+43.r	盒
+43.t	盞
+43.y	盡
+43.u	盥
+43.i	盧
+43.o	盪
+43.p	蘯
+43.a	盻
+43.s	眈
+43.d	眇
+43.f	眄
+43.g	眩
+43.h	眤
+43.j	眞
+43.k	眥
+43.l	眦
+43.;	眛
+43.z	眷
+43.x	眸
+43.c	睇
+43.v	睚
+43.b	睨
+43.n	睫
+43.m	睛
+43.,	睥
+43..	睿
+43./	睾
+43/1	睹
+43/2	瞎
+43/3	瞋
+43/4	瞑
+43/5	瞠
+43/6	瞞
+43/7	瞰
+43/8	瞶
+43/9	瞹
+43/0	瞿
+43/q	瞼
+43/w	瞽
+43/e	瞻
+43/r	矇
+43/t	矍
+43/y	矗
+43/u	矚
+43/i	矜
+43/o	矣
+43/p	矮
+43/a	矼
+43/s	砌
+43/d	砒
+43/f	礦
+43/g	砠
+43/h	礪
+43/j	硅
+43/k	碎
+43/l	硴
+43/;	碆
+43/z	硼
+43/x	碚
+43/c	碌
+43/v	碣
+43/b	碵
+43/n	碪
+43/m	碯
+43/,	磑
+43/.	磆
+43//	磋
+7811	磔
+7812	碾
+7813	碼
+7814	磅
+7815	磊
+7816	磬
+7817	磧
+7818	磚
+7819	磽
+7810	磴
+781q	礇
+781w	礒
+781e	礑
+781r	礙
+781t	礬
+781y	礫
+781u	祀
+781i	祠
+781o	祗
+781p	祟
+781a	祚
+781s	祕
+781d	祓
+781f	祺
+781g	祿
+781h	禊
+781j	禝
+781k	禧
+781l	齋
+781;	禪
+781z	禮
+781x	禳
+781c	禹
+781v	禺
+781b	秉
+781n	秕
+781m	秧
+781,	秬
+781.	秡
+781/	秣
+7821	稈
+7822	稍
+7823	稘
+7824	稙
+7825	稠
+7826	稟
+7827	禀
+7828	稱
+7829	稻
+7820	稾
+782q	稷
+782w	穃
+782e	穗
+782r	穉
+782t	穡
+782y	穢
+782u	穩
+782i	龝
+782o	穰
+782p	穹
+782a	穽
+782s	窈
+782d	窗
+782f	窕
+782g	窘
+782h	窖
+782j	窩
+782k	竈
+782l	窰
+782;	窶
+782z	竅
+782x	竄
+782c	窿
+782v	邃
+782b	竇
+782n	竊
+782m	竍
+782,	竏
+782.	竕
+782/	竓
+7831	站
+7832	竚
+7833	竝
+7834	竡
+7835	竢
+7836	竦
+7837	竭
+7838	竰
+7839	笂
+7830	笏
+783q	笊
+783w	笆
+783e	笳
+783r	笘
+783t	笙
+783y	笞
+783u	笵
+783i	笨
+783o	笶
+783p	筐
+783a	筺
+783s	笄
+783d	筍
+783f	笋
+783g	筌
+783h	筅
+783j	筵
+783k	筥
+783l	筴
+783;	筧
+783z	筰
+783x	筱
+783c	筬
+783v	筮
+783b	箝
+783n	箘
+783m	箟
+783,	箍
+783.	箜
+783/	箚
+7841	箒
+7842	箏
+7843	筝
+7844	箙
+7845	篋
+7846	篁
+7847	篌
+7848	篏
+7849	箴
+7840	篆
+784q	篝
+784w	篩
+784e	簑
+784r	簔
+784t	篦
+784y	篥
+784u	簀
+784i	簇
+784o	簓
+784p	篳
+784a	篷
+784s	簗
+784d	簍
+784f	篶
+784g	簣
+784h	簧
+784j	簪
+784k	簟
+784l	簷
+784;	簫
+784z	簽
+784x	籌
+784c	籃
+784v	籔
+784b	籏
+784n	籀
+784m	籐
+784,	籘
+784.	籟
+784/	籤
+7851	籖
+7852	籥
+7853	籬
+7854	籵
+7855	粃
+7856	粐
+7857	粤
+7858	粭
+7859	粢
+7850	粫
+785q	粡
+785w	粨
+785e	粳
+785r	粲
+785t	粱
+785y	粮
+785u	粹
+785i	粽
+785o	糀
+785p	糅
+785a	糂
+785s	糘
+785d	糒
+785f	糜
+785g	糢
+785h	鬻
+785j	糯
+785k	糲
+785l	糴
+785;	糶
+785z	糺
+785x	紆
+785c	紂
+785v	紜
+785b	紕
+785n	紊
+785m	絅
+785,	絋
+785.	紮
+785/	紲
+7861	紿
+7862	紵
+7863	絆
+7864	絳
+7865	絖
+7866	絎
+7867	絲
+7868	絨
+7869	絮
+7860	絏
+786q	絣
+786w	經
+786e	綉
+786r	絛
+786t	綏
+786y	絽
+786u	綛
+786i	綺
+786o	綮
+786p	綣
+786a	綵
+786s	緇
+786d	綽
+786f	綫
+786g	總
+786h	綢
+786j	綯
+786k	緜
+786l	綸
+786;	綟
+786z	綰
+786x	緘
+786c	緝
+786v	緤
+786b	緞
+786n	緲
+786m	緡
+786,	縅
+786.	縊
+786/	縣
+7871	縡
+7872	縒
+7873	縱
+7874	縟
+7875	縉
+7876	縋
+7877	縢
+7878	繆
+7879	繦
+7870	縻
+787q	縵
+787w	縹
+787e	繃
+787r	縷
+787t	縲
+787y	縺
+787u	繧
+787i	繝
+787o	繖
+787p	繞
+787a	繙
+787s	繚
+787d	繹
+787f	繪
+787g	繩
+787h	繼
+787j	繻
+787k	纃
+787l	緕
+787;	繽
+787z	辮
+787x	繿
+787c	纈
+787v	纉
+787b	續
+787n	纒
+787m	纐
+787,	纓
+787.	纔
+787/	纖
+7881	纎
+7882	纛
+7883	纜
+7884	缸
+7885	缺
+7886	罅
+7887	罌
+7888	罍
+7889	罎
+7880	罐
+788q	网
+788w	罕
+788e	罔
+788r	罘
+788t	罟
+788y	罠
+788u	罨
+788i	罩
+788o	罧
+788p	罸
+788a	羂
+788s	羆
+788d	羃
+788f	羈
+788g	羇
+788h	羌
+788j	羔
+788k	羝
+788l	羚
+788;	羣
+788z	羯
+788x	羲
+788c	羹
+788v	羮
+788b	羶
+788n	羸
+788m	譱
+788,	翅
+788.	翆
+788/	翊
+7891	翕
+7892	翔
+7893	翡
+7894	翦
+7895	翩
+7896	翳
+7897	翹
+7898	飜
+7899	耆
+7890	耄
+789q	耋
+789w	耒
+789e	耘
+789r	耙
+789t	耜
+789y	耡
+789u	耨
+789i	耿
+789o	耻
+789p	聊
+789a	聆
+789s	聒
+789d	聘
+789f	聚
+789g	聟
+789h	聢
+789j	聨
+789k	聳
+789l	聲
+789;	聰
+789z	聶
+789x	聹
+789c	聽
+789v	聿
+789b	肄
+789n	肆
+789m	肅
+789,	肛
+789.	肓
+789/	肚
+7801	肭
+7802	冐
+7803	肬
+7804	胛
+7805	胥
+7806	胙
+7807	胝
+7808	胄
+7809	胚
+7800	胖
+780q	脉
+780w	胯
+780e	胱
+780r	脛
+780t	脩
+780y	脣
+780u	脯
+780i	腋
+780o	隋
+780p	腆
+780a	脾
+780s	腓
+780d	腑
+780f	胼
+780g	腱
+780h	腮
+780j	腥
+780k	腦
+780l	腴
+780;	膃
+780z	膈
+780x	膊
+780c	膀
+780v	膂
+780b	膠
+780n	膕
+780m	膤
+780,	膣
+780.	腟
+780/	膓
+78q1	膩
+78q2	膰
+78q3	膵
+78q4	膾
+78q5	膸
+78q6	膽
+78q7	臀
+78q8	臂
+78q9	膺
+78q0	臉
+78qq	臍
+78qw	臑
+78qe	臙
+78qr	臘
+78qt	臈
+78qy	臚
+78qu	臟
+78qi	臠
+78qo	臧
+78qp	臺
+78qa	臻
+78qs	臾
+78qd	舁
+78qf	舂
+78qg	舅
+78qh	與
+78qj	舊
+78qk	舍
+78ql	舐
+78q;	舖
+78qz	舩
+78qx	舫
+78qc	舸
+78qv	舳
+78qb	艀
+78qn	艙
+78qm	艘
+78q,	艝
+78q.	艚
+78q/	艟
+78w1	艤
+78w2	艢
+78w3	艨
+78w4	艪
+78w5	艫
+78w6	舮
+78w7	艱
+78w8	艷
+78w9	艸
+78w0	艾
+78wq	芍
+78ww	芒
+78we	芫
+78wr	芟
+78wt	芻
+78wy	芬
+78wu	苡
+78wi	苣
+78wo	苟
+78wp	苒
+78wa	苴
+78ws	苳
+78wd	苺
+78wf	莓
+78wg	范
+78wh	苻
+78wj	苹
+78wk	苞
+78wl	茆
+78w;	苜
+78wz	茉
+78wx	苙
+78wc	茵
+78wv	茴
+78wb	茖
+78wn	茲
+78wm	茱
+78w,	荀
+78w.	茹
+78w/	荐
+78e1	荅
+78e2	茯
+78e3	茫
+78e4	茗
+78e5	茘
+78e6	莅
+78e7	莚
+78e8	莪
+78e9	莟
+78e0	莢
+78eq	莖
+78ew	茣
+78ee	莎
+78er	莇
+78et	莊
+78ey	荼
+78eu	莵
+78ei	荳
+78eo	荵
+78ep	莠
+78ea	莉
+78es	莨
+78ed	菴
+78ef	萓
+78eg	菫
+78eh	菎
+78ej	菽
+78ek	萃
+78el	菘
+78e;	萋
+78ez	菁
+78ex	菷
+78ec	萇
+78ev	菠
+78eb	菲
+78en	萍
+78em	萢
+78e,	萠
+78e.	莽
+78e/	萸
+78r1	蔆
+78r2	菻
+78r3	葭
+78r4	萪
+78r5	萼
+78r6	蕚
+78r7	蒄
+78r8	葷
+78r9	葫
+78r0	蒭
+78rq	葮
+78rw	蒂
+78re	葩
+78rr	葆
+78rt	萬
+78ry	葯
+78ru	葹
+78ri	萵
+78ro	蓊
+78rp	葢
+78ra	蒹
+78rs	蒿
+78rd	蒟
+78rf	蓙
+78rg	蓍
+78rh	蒻
+78rj	蓚
+78rk	蓐
+78rl	蓁
+78r;	蓆
+78rz	蓖
+78rx	蒡
+78rc	蔡
+78rv	蓿
+78rb	蓴
+78rn	蔗
+78rm	蔘
+78r,	蔬
+78r.	蔟
+78r/	蔕
+78t1	蔔
+78t2	蓼
+78t3	蕀
+78t4	蕣
+78t5	蕘
+78t6	蕈
+78t7	蕁
+78t8	蘂
+78t9	蕋
+78t0	蕕
+78tq	薀
+78tw	薤
+78te	薈
+78tr	薑
+78tt	薊
+78ty	薨
+78tu	蕭
+78ti	薔
+78to	薛
+78tp	藪
+78ta	薇
+78ts	薜
+78td	蕷
+78tf	蕾
+78tg	薐
+78th	藉
+78tj	薺
+78tk	藏
+78tl	薹
+78t;	藐
+78tz	藕
+78tx	藝
+78tc	藥
+78tv	藜
+78tb	藹
+78tn	蘊
+78tm	蘓
+78t,	蘋
+78t.	藾
+78t/	藺
+78y1	蘆
+78y2	蘢
+78y3	蘚
+78y4	蘰
+78y5	蘿
+78y6	虍
+78y7	乕
+78y8	虔
+78y9	號
+78y0	虧
+78yq	虱
+78yw	蚓
+78ye	蚣
+78yr	蚩
+78yt	蚪
+78yy	蚋
+78yu	蚌
+78yi	蚶
+78yo	蚯
+78yp	蛄
+78ya	蛆
+78ys	蚰
+78yd	蛉
+78yf	蠣
+78yg	蚫
+78yh	蛔
+78yj	蛞
+78yk	蛩
+78yl	蛬
+78y;	蛟
+78yz	蛛
+78yx	蛯
+78yc	蜒
+78yv	蜆
+78yb	蜈
+78yn	蜀
+78ym	蜃
+78y,	蛻
+78y.	蜑
+78y/	蜉
+78u1	蜍
+78u2	蛹
+78u3	蜊
+78u4	蜴
+78u5	蜿
+78u6	蜷
+78u7	蜻
+78u8	蜥
+78u9	蜩
+78u0	蜚
+78uq	蝠
+78uw	蝟
+78ue	蝸
+78ur	蝌
+78ut	蝎
+78uy	蝴
+78uu	蝗
+78ui	蝨
+78uo	蝮
+78up	蝙
+78ua	蝓
+78us	蝣
+78ud	蝪
+78uf	蠅
+78ug	螢
+78uh	螟
+78uj	螂
+78uk	螯
+78ul	蟋
+78u;	螽
+78uz	蟀
+78ux	蟐
+78uc	雖
+78uv	螫
+78ub	蟄
+78un	螳
+78um	蟇
+78u,	蟆
+78u.	螻
+78u/	蟯
+78i1	蟲
+78i2	蟠
+78i3	蠏
+78i4	蠍
+78i5	蟾
+78i6	蟶
+78i7	蟷
+78i8	蠎
+78i9	蟒
+78i0	蠑
+78iq	蠖
+78iw	蠕
+78ie	蠢
+78ir	蠡
+78it	蠱
+78iy	蠶
+78iu	蠹
+78ii	蠧
+78io	蠻
+78ip	衄
+78ia	衂
+78is	衒
+78id	衙
+78if	衞
+78ig	衢
+78ih	衫
+78ij	袁
+78ik	衾
+78il	袞
+78i;	衵
+78iz	衽
+78ix	袵
+78ic	衲
+78iv	袂
+78ib	袗
+78in	袒
+78im	袮
+78i,	袙
+78i.	袢
+78i/	袍
+78o1	袤
+78o2	袰
+78o3	袿
+78o4	袱
+78o5	裃
+78o6	裄
+78o7	裔
+78o8	裘
+78o9	裙
+78o0	裝
+78oq	裹
+78ow	褂
+78oe	裼
+78or	裴
+78ot	裨
+78oy	裲
+78ou	褄
+78oi	褌
+78oo	褊
+78op	褓
+78oa	襃
+78os	褞
+78od	褥
+78of	褪
+78og	褫
+78oh	襁
+78oj	襄
+78ok	褻
+78ol	褶
+78o;	褸
+78oz	襌
+78ox	褝
+78oc	襠
+78ov	襞
+78ob	襦
+78on	襤
+78om	襭
+78o,	襪
+78o.	襯
+78o/	襴
+78p1	襷
+78p2	襾
+78p3	覃
+78p4	覈
+78p5	覊
+78p6	覓
+78p7	覘
+78p8	覡
+78p9	覩
+78p0	覦
+78pq	覬
+78pw	覯
+78pe	覲
+78pr	覺
+78pt	覽
+78py	覿
+78pu	觀
+78pi	觚
+78po	觜
+78pp	觝
+78pa	觧
+78ps	觴
+78pd	觸
+78pf	訖
+78pg	訐
+78ph	訌
+78pj	訛
+78pk	訝
+78pl	訥
+78p;	訶
+78pz	詁
+78px	詛
+78pc	詒
+78pv	詆
+78pb	詈
+78pn	詼
+78pm	詭
+78p,	詬
+78p.	詢
+78p/	誅
+78a1	誂
+78a2	誄
+78a3	誨
+78a4	誡
+78a5	誑
+78a6	誥
+78a7	誦
+78a8	誚
+78a9	誣
+78a0	諄
+78aq	諍
+78aw	諂
+78ae	諚
+78ar	諫
+78at	諳
+78ay	諤
+78au	諱
+78ai	謔
+78ao	諠
+78ap	諢
+78aa	諷
+78as	諞
+78ad	諛
+78af	謌
+78ag	謇
+78ah	謚
+78aj	諡
+78ak	謖
+78al	謐
+78a;	謗
+78az	謠
+78ax	謳
+78ac	鞫
+78av	謦
+78ab	謫
+78an	謾
+78am	謨
+78a,	譁
+78a.	譌
+78a/	譏
+78s1	譎
+78s2	證
+78s3	譖
+78s4	譛
+78s5	譚
+78s6	譫
+78s7	譟
+78s8	譬
+78s9	譯
+78s0	譴
+78sq	譽
+78sw	讀
+78se	讌
+78sr	讎
+78st	讒
+78sy	讓
+78su	讖
+78si	讙
+78so	讚
+78sp	谺
+78sa	豁
+78ss	谿
+78sd	豈
+78sf	豌
+78sg	豎
+78sh	豐
+78sj	豕
+78sk	豢
+78sl	豬
+78s;	豸
+78sz	豺
+78sx	貂
+78sc	貉
+78sv	貅
+78sb	貊
+78sn	貍
+78sm	貎
+78s,	貔
+78s.	豼
+78s/	貘
+78d1	戝
+78d2	貭
+78d3	貽
+78d4	貲
+78d5	貳
+78d6	貮
+78d7	貶
+78d8	賈
+78d9	賁
+78d0	賤
+78dq	賣
+78dw	賚
+78de	賽
+78dr	賺
+78dt	賻
+78dy	贄
+78du	贅
+78di	贊
+78do	贇
+78dp	贏
+78da	贍
+78ds	贐
+78dd	齎
+78df	贓
+78dg	賍
+78dh	贔
+78dj	贖
+78dk	赧
+78dl	赭
+78d;	赱
+78dz	赳
+78dx	趁
+78dc	趙
+78dv	跂
+78db	趾
+78dn	趺
+78dm	跏
+78d,	跚
+78d.	跖
+78d/	跌
+78f1	跛
+78f2	跋
+78f3	跪
+78f4	跫
+78f5	跟
+78f6	跣
+78f7	跼
+78f8	踈
+78f9	踉
+78f0	跿
+78fq	踝
+78fw	踞
+78fe	踐
+78fr	踟
+78ft	蹂
+78fy	踵
+78fu	踰
+78fi	踴
+78fo	蹊
+78fp	蹇
+78fa	蹉
+78fs	蹌
+78fd	蹐
+78ff	蹈
+78fg	蹙
+78fh	蹤
+78fj	蹠
+78fk	蹣
+78fl	蹕
+78f;	蹶
+78fz	蹲
+78fx	蹼
+78fc	躁
+78fv	躇
+78fb	躅
+78fn	躄
+78fm	躋
+78f,	躊
+78f.	躓
+78f/	躑
+78g1	躔
+78g2	躙
+78g3	躪
+78g4	躡
+78g5	躬
+78g6	躰
+78g7	軆
+78g8	躱
+78g9	躾
+78g0	軅
+78gq	軈
+78gw	軋
+78ge	軛
+78gr	軣
+78gt	軼
+78gy	軻
+78gu	軫
+78gi	軾
+78go	輊
+78gp	輅
+78ga	輕
+78gs	輒
+78gd	輙
+78gf	輓
+78gg	輜
+78gh	輟
+78gj	輛
+78gk	輌
+78gl	輦
+78g;	輳
+78gz	輻
+78gx	輹
+78gc	轅
+78gv	轂
+78gb	輾
+78gn	轌
+78gm	轉
+78g,	轆
+78g.	轎
+78g/	轗
+78h1	轜
+78h2	轢
+78h3	轣
+78h4	轤
+78h5	辜
+78h6	辟
+78h7	辭
+78h8	辯
+78h9	辷
+78h0	迚
+78hq	迥
+78hw	迢
+78he	迪
+78hr	迯
+78ht	邇
+78hy	迴
+78hu	逅
+78hi	迹
+78ho	迺
+78hp	逑
+78ha	逕
+78hs	逡
+78hd	逍
+78hf	逞
+78hg	逖
+78hh	逋
+78hj	逧
+78hk	逶
+78hl	逵
+78h;	逹
+78hz	迸
+78hx	遏
+78hc	遐
+78hv	遑
+78hb	遒
+78hn	逎
+78hm	遉
+78h,	逾
+78h.	遖
+78h/	遘
+78j1	遞
+78j2	遨
+78j3	遯
+78j4	遶
+78j5	隨
+78j6	遲
+78j7	邂
+78j8	遽
+78j9	邁
+78j0	邀
+78jq	邊
+78jw	邉
+78je	邏
+78jr	邨
+78jt	邯
+78jy	邱
+78ju	邵
+78ji	郢
+78jo	郤
+78jp	扈
+78ja	郛
+78js	鄂
+78jd	鄒
+78jf	鄙
+78jg	鄲
+78jh	鄰
+78jj	酊
+78jk	酖
+78jl	酘
+78j;	酣
+78jz	酥
+78jx	酩
+78jc	酳
+78jv	酲
+78jb	醋
+78jn	醉
+78jm	醂
+78j,	醢
+78j.	醫
+78j/	醯
+78k1	醪
+78k2	醵
+78k3	醴
+78k4	醺
+78k5	釀
+78k6	釁
+78k7	釉
+78k8	釋
+78k9	釐
+78k0	釖
+78kq	釟
+78kw	釡
+78ke	釛
+78kr	釼
+78kt	釵
+78ky	釶
+78ku	鈞
+78ki	釿
+78ko	鈔
+78kp	鈬
+78ka	鈕
+78ks	鈑
+78kd	鉞
+78kf	鉗
+78kg	鉅
+78kh	鉉
+78kj	鉤
+78kk	鉈
+78kl	銕
+78k;	鈿
+78kz	鉋
+78kx	鉐
+78kc	銜
+78kv	銖
+78kb	銓
+78kn	銛
+78km	鉚
+78k,	鋏
+78k.	銹
+78k/	銷
+78l1	鋩
+78l2	錏
+78l3	鋺
+78l4	鍄
+78l5	錙
+78l6	錢
+78l7	錚
+78l8	錣
+78l9	錺
+78l0	錵
+78lq	錻
+78lw	鍜
+78le	鍠
+78lr	鍼
+78lt	鍮
+78ly	鍖
+78lu	鎰
+78li	鎬
+78lo	鎭
+78lp	鎔
+78la	鎹
+78ls	鏖
+78ld	鏗
+78lf	鏨
+78lg	鏥
+78lh	鏘
+78lj	鏃
+78lk	鏝
+78ll	鏐
+78l;	鏈
+78lz	鏤
+78lx	鐚
+78lc	鐔
+78lv	鐓
+78lb	鐃
+78ln	鐇
+78lm	鐐
+78l,	鐶
+78l.	鐫
+78l/	鐵
+78;1	鐡
+78;2	鐺
+78;3	鑁
+78;4	鑒
+78;5	鑄
+78;6	鑛
+78;7	鑠
+78;8	鑢
+78;9	鑞
+78;0	鑪
+78;q	鈩
+78;w	鑰
+78;e	鑵
+78;r	鑷
+78;t	鑽
+78;y	鑚
+78;u	鑼
+78;i	鑾
+78;o	钁
+78;p	鑿
+78;a	閂
+78;s	閇
+78;d	閊
+78;f	閔
+78;g	閖
+78;h	閘
+78;j	閙
+78;k	閠
+78;l	閨
+78;;	閧
+78;z	閭
+78;x	閼
+78;c	閻
+78;v	閹
+78;b	閾
+78;n	闊
+78;m	濶
+78;,	闃
+78;.	闍
+78;/	闌
+78z1	闕
+78z2	闔
+78z3	闖
+78z4	關
+78z5	闡
+78z6	闥
+78z7	闢
+78z8	阡
+78z9	阨
+78z0	阮
+78zq	阯
+78zw	陂
+78ze	陌
+78zr	陏
+78zt	陋
+78zy	陷
+78zu	陜
+78zi	陞
+78zo	陝
+78zp	陟
+78za	陦
+78zs	陲
+78zd	陬
+78zf	隍
+78zg	隘
+78zh	隕
+78zj	隗
+78zk	險
+78zl	隧
+78z;	隱
+78zz	隲
+78zx	隰
+78zc	隴
+78zv	隶
+78zb	隸
+78zn	隹
+78zm	雎
+78z,	雋
+78z.	雉
+78z/	雍
+78x1	襍
+78x2	雜
+78x3	霍
+78x4	雕
+78x5	雹
+78x6	霄
+78x7	霆
+78x8	霈
+78x9	霓
+78x0	霎
+78xq	霑
+78xw	霏
+78xe	霖
+78xr	霙
+78xt	霤
+78xy	霪
+78xu	霰
+78xi	霹
+78xo	霽
+78xp	霾
+78xa	靄
+78xs	靆
+78xd	靈
+78xf	靂
+78xg	靉
+78xh	靜
+78xj	靠
+78xk	靤
+78xl	靦
+78x;	靨
+78xz	勒
+78xx	靫
+78xc	靱
+78xv	靹
+78xb	鞅
+78xn	靼
+78xm	鞁
+78x,	靺
+78x.	鞆
+78x/	鞋
+78c1	鞏
+78c2	鞐
+78c3	鞜
+78c4	鞨
+78c5	鞦
+78c6	鞣
+78c7	鞳
+78c8	鞴
+78c9	韃
+78c0	韆
+78cq	韈
+78cw	韋
+78ce	韜
+78cr	韭
+78ct	齏
+78cy	韲
+78cu	竟
+78ci	韶
+78co	韵
+78cp	頏
+78ca	頌
+78cs	頸
+78cd	頤
+78cf	頡
+78cg	頷
+78ch	頽
+78cj	顆
+78ck	顏
+78cl	顋
+78c;	顫
+78cz	顯
+78cx	顰
+78cc	顱
+78cv	顴
+78cb	顳
+78cn	颪
+78cm	颯
+78c,	颱
+78c.	颶
+78c/	飄
+78v1	飃
+78v2	飆
+78v3	飩
+78v4	飫
+78v5	餃
+78v6	餉
+78v7	餒
+78v8	餔
+78v9	餘
+78v0	餡
+78vq	餝
+78vw	餞
+78ve	餤
+78vr	餠
+78vt	餬
+78vy	餮
+78vu	餽
+78vi	餾
+78vo	饂
+78vp	饉
+78va	饅
+78vs	饐
+78vd	饋
+78vf	饑
+78vg	饒
+78vh	饌
+78vj	饕
+78vk	馗
+78vl	馘
+78v;	馥
+78vz	馭
+78vx	馮
+78vc	馼
+78vv	駟
+78vb	駛
+78vn	駝
+78vm	駘
+78v,	駑
+78v.	駭
+78v/	駮
+78b1	駱
+78b2	駲
+78b3	駻
+78b4	駸
+78b5	騁
+78b6	騏
+78b7	騅
+78b8	駢
+78b9	騙
+78b0	騫
+78bq	騷
+78bw	驅
+78be	驂
+78br	驀
+78bt	驃
+78by	騾
+78bu	驕
+78bi	驍
+78bo	驛
+78bp	驗
+78ba	驟
+78bs	驢
+78bd	驥
+78bf	驤
+78bg	驩
+78bh	驫
+78bj	驪
+78bk	骭
+78bl	骰
+78b;	骼
+78bz	髀
+78bx	髏
+78bc	髑
+78bv	髓
+78bb	體
+78bn	髞
+78bm	髟
+78b,	髢
+78b.	髣
+78b/	髦
+78n1	髯
+78n2	髫
+78n3	髮
+78n4	髴
+78n5	髱
+78n6	髷
+78n7	髻
+78n8	鬆
+78n9	鬘
+78n0	鬚
+78nq	鬟
+78nw	鬢
+78ne	鬣
+78nr	鬥
+78nt	鬧
+78ny	鬨
+78nu	鬩
+78ni	鬪
+78no	鬮
+78np	鬯
+78na	鬲
+78ns	魄
+78nd	魃
+78nf	魏
+78ng	魍
+78nh	魎
+78nj	魑
+78nk	魘
+78nl	魴
+78n;	鮓
+78nz	鮃
+78nx	鮑
+78nc	鮖
+78nv	鮗
+78nb	鮟
+78nn	鮠
+78nm	鮨
+78n,	鮴
+78n.	鯀
+78n/	鯊
+78m1	鮹
+78m2	鯆
+78m3	鯏
+78m4	鯑
+78m5	鯒
+78m6	鯣
+78m7	鯢
+78m8	鯤
+78m9	鯔
+78m0	鯡
+78mq	鰺
+78mw	鯲
+78me	鯱
+78mr	鯰
+78mt	鰕
+78my	鰔
+78mu	鰉
+78mi	鰓
+78mo	鰌
+78mp	鰆
+78ma	鰈
+78ms	鰒
+78md	鰊
+78mf	鰄
+78mg	鰮
+78mh	鰛
+78mj	鰥
+78mk	鰤
+78ml	鰡
+78m;	鰰
+78mz	鱇
+78mx	鰲
+78mc	鱆
+78mv	鰾
+78mb	鱚
+78mn	鱠
+78mm	鱧
+78m,	鱶
+78m.	鱸
+78m/	鳧
+78,1	鳬
+78,2	鳰
+78,3	鴉
+78,4	鴈
+78,5	鳫
+78,6	鴃
+78,7	鴆
+78,8	鴪
+78,9	鴦
+78,0	鶯
+78,q	鴣
+78,w	鴟
+78,e	鵄
+78,r	鴕
+78,t	鴒
+78,y	鵁
+78,u	鴿
+78,i	鴾
+78,o	鵆
+78,p	鵈
+78,a	鵝
+78,s	鵞
+78,d	鵤
+78,f	鵑
+78,g	鵐
+78,h	鵙
+78,j	鵲
+78,k	鶉
+78,l	鶇
+78,;	鶫
+78,z	鵯
+78,x	鵺
+78,c	鶚
+78,v	鶤
+78,b	鶩
+78,n	鶲
+78,m	鷄
+78,,	鷁
+78,.	鶻
+78,/	鶸
+78.1	鶺
+78.2	鷆
+78.3	鷏
+78.4	鷂
+78.5	鷙
+78.6	鷓
+78.7	鷸
+78.8	鷦
+78.9	鷭
+78.0	鷯
+78.q	鷽
+78.w	鸚
+78.e	鸛
+78.r	鸞
+78.t	鹵
+78.y	鹹
+78.u	鹽
+78.i	麁
+78.o	麈
+78.p	麋
+78.a	麌
+78.s	麒
+78.d	麕
+78.f	麑
+78.g	麝
+78.h	麥
+78.j	麩
+78.k	麸
+78.l	麪
+78.;	麭
+78.z	靡
+78.x	黌
+78.c	黎
+78.v	黏
+78.b	黐
+78.n	黔
+78.m	黜
+78.,	點
+78..	黝
+78./	黠
+78/1	黥
+78/2	黨
+78/3	黯
+78/4	黴
+78/5	黶
+78/6	黷
+78/7	黹
+78/8	黻
+78/9	黼
+78/0	黽
+78/q	鼇
+78/w	鼈
+78/e	皷
+78/r	鼕
+78/t	鼡
+78/y	鼬
+78/u	鼾
+78/i	齊
+78/o	齒
+78/p	齔
+78/a	齣
+78/s	齟
+78/d	齠
+78/f	齡
+78/g	齦
+78/h	齧
+78/j	齬
+78/k	齪
+78/l	齷
+78/;	齲
+78/z	齶
+78/x	龕
+78/c	龜
+78/v	龠
+78/b	堯
+78/n	槇
+78/m	遙
+78/,	瑤
+78/.	凜
+78//	熙
