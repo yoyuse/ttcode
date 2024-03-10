@@ -1,0 +1,7996 @@
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+10	
+1q	ヲ
+1w	ゥ
+1e	ヴ
+1r	ヂ
+1t	ヅ
+1y	簡
+1u	承
+1i	快
+1o	包
+1p	唱
+1a	ぱ
+1s	ぴ
+1d	ぷ
+1f	ぺ
+1g	ぽ
+1h	朱
+1j	陣
+1k	眼
+1l	執
+1;	岳
+1z	ぁ
+1x	ぃ
+1c	ぅ
+1v	ぇ
+1b	ぉ
+1n	欲
+1m	迫
+1,	留
+1.	替
+1/	還
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+20	
+2q	哀
+2w	逢
+2e	宛
+2r	囲
+2t	庵
+2y	徴
+2u	章
+2i	否
+2o	納
+2p	暮
+2a	慰
+2s	為
+2d	陰
+2f	隠
+2g	胃
+2h	遅
+2j	鶴
+2k	繁
+2l	紹
+2;	刑
+2z	
+2x	
+2c	
+2v	
+2b	
+2n	巣
+2m	災
+2,	列
+2.	沼
+2/	更
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+30	
+3q	暇
+3w	牙
+3e	壊
+3r	較
+3t	寒
+3y	触
+3u	候
+3i	歯
+3o	頼
+3p	憲
+3a	我
+3s	掛
+3d	敢
+3f	甘
+3g	患
+3h	甲
+3j	鹿
+3k	誌
+3l	夢
+3;	弱
+3z	瓦
+3x	
+3c	
+3v	
+3b	
+3n	茂
+3m	恋
+3,	刻
+3.	?
+3/	占
+41	
+42	
+4311	刋
+4312	刔
+4313	刎
+4314	刧
+4315	刪
+4316	刮
+4317	刳
+4318	剏
+4319	剄
+4310	剋
+431q	剌
+431w	剞
+431e	剔
+431r	剪
+431t	剴
+431y	剩
+431u	剳
+431i	剿
+431o	剽
+431p	劍
+431a	劔
+431s	劒
+431d	剱
+431f	劈
+431g	劑
+431h	辨
+431j	辧
+431k	劬
+431l	劭
+431;	劼
+431z	劵
+431x	勁
+431c	勍
+431v	勗
+431b	勞
+431n	勣
+431m	勦
+431,	飭
+431.	勠
+431/	勳
+4321	勵
+4322	勸
+4323	勹
+4324	匆
+4325	匈
+4326	甸
+4327	匍
+4328	匐
+4329	匏
+4320	匕
+432q	匚
+432w	匣
+432e	匯
+432r	匱
+432t	匳
+432y	匸
+432u	區
+432i	卆
+432o	卅
+432p	丗
+432a	卉
+432s	卍
+432d	凖
+432f	卞
+432g	卩
+432h	卮
+432j	夘
+432k	卻
+432l	卷
+432;	厂
+432z	厖
+432x	厠
+432c	厦
+432v	厥
+432b	厮
+432n	厰
+432m	厶
+432,	參
+432.	簒
+432/	雙
+4331	叟
+4332	曼
+4333	燮
+4334	叮
+4335	叨
+4336	叭
+4337	叺
+4338	吁
+4339	吽
+4330	呀
+433q	听
+433w	吭
+433e	吼
+433r	吮
+433t	吶
+433y	吩
+433u	吝
+433i	呎
+433o	咏
+433p	呵
+433a	咎
+433s	呟
+433d	呱
+433f	呷
+433g	呰
+433h	咒
+433j	呻
+433k	咀
+433l	呶
+433;	咄
+433z	咐
+433x	咆
+433c	哇
+433v	咢
+433b	咸
+433n	咥
+433m	咬
+433,	哄
+433.	哈
+433/	咨
+4341	咫
+4342	哂
+4343	咤
+4344	咾
+4345	咼
+4346	哘
+4347	哥
+4348	哦
+4349	唏
+4340	唔
+434q	哽
+434w	哮
+434e	哭
+434r	哢
+434t	唹
+434y	啀
+434u	啣
+434i	啌
+434o	售
+434p	啜
+434a	啅
+434s	啖
+434d	啗
+434f	唸
+434g	唳
+434h	啝
+434j	喙
+434k	喀
+434l	咯
+434;	喊
+434z	喟
+434x	啻
+434c	啾
+434v	喘
+434b	喞
+434n	單
+434m	啼
+434,	喃
+434.	喇
+434/	喨
+4351	嗚
+4352	嗟
+4353	嗄
+4354	嗜
+4355	嗤
+4356	嗔
+4357	嘔
+4358	嗷
+4359	嘖
+4350	嗾
+435q	嗽
+435w	嘛
+435e	嗹
+435r	噎
+435t	噐
+435y	營
+435u	嘴
+435i	嘶
+435o	嘸
+435p	噫
+435a	噤
+435s	嘯
+435d	噬
+435f	噪
+435g	嚆
+435h	嚀
+435j	嚊
+435k	嚠
+435l	嚔
+435;	嚏
+435z	嚥
+435x	嚮
+435c	嚶
+435v	嚴
+435b	囂
+435n	嚼
+435m	囁
+435,	囃
+435.	囀
+435/	囈
+4361	囎
+4362	囑
+4363	囓
+4364	囗
+4365	囮
+4366	囹
+4367	圀
+4368	囿
+4369	圄
+4360	圉
+436q	圈
+436w	國
+436e	圍
+436r	圓
+436t	團
+436y	圖
+436u	嗇
+436i	圜
+436o	圦
+436p	圷
+436a	圸
+436s	坎
+436d	圻
+436f	址
+436g	坏
+436h	坩
+436j	埀
+436k	垈
+436l	坡
+436;	坿
+436z	垉
+436x	垓
+436c	垠
+436v	垳
+436b	垤
+436n	垪
+436m	垰
+436,	埃
+436.	埆
+436/	埔
+4371	埒
+4372	埓
+4373	堊
+4374	埖
+4375	埣
+4376	堋
+4377	堙
+4378	堝
+4379	塲
+4370	堡
+437q	塢
+437w	塋
+437e	塰
+437r	塒
+437t	堽
+437y	塹
+437u	墅
+437i	墹
+437o	墟
+437p	墫
+437a	墺
+437s	壞
+437d	墻
+437f	墸
+437g	墮
+437h	壅
+437j	壓
+437k	壑
+437l	壗
+437;	壙
+437z	壘
+437x	壥
+437c	壜
+437v	壤
+437b	壟
+437n	壯
+437m	壺
+437,	壹
+437.	壻
+437/	壼
+4381	壽
+4382	夂
+4383	夊
+4384	夐
+4385	夛
+4386	梦
+4387	夥
+4388	夬
+4389	夭
+4380	夲
+438q	夸
+438w	夾
+438e	竒
+438r	奕
+438t	奐
+438y	奎
+438u	奚
+438i	奘
+438o	奢
+438p	奠
+438a	奧
+438s	奬
+438d	奩
+438f	奸
+438g	妁
+438h	妝
+438j	佞
+438k	侫
+438l	妣
+438;	妲
+438z	姆
+438x	姨
+438c	姜
+438v	妍
+438b	姙
+438n	姚
+438m	娥
+438,	娟
+438.	娑
+438/	娜
+4391	娉
+4392	娚
+4393	婀
+4394	婬
+4395	婉
+4396	娵
+4397	娶
+4398	婢
+4399	婪
+4390	媚
+439q	媼
+439w	媾
+439e	嫋
+439r	嫂
+439t	媽
+439y	嫣
+439u	嫗
+439i	嫦
+439o	嫩
+439p	嫖
+439a	嫺
+439s	嫻
+439d	嬌
+439f	嬋
+439g	嬖
+439h	嬲
+439j	嫐
+439k	嬪
+439l	嬶
+439;	嬾
+439z	孃
+439x	孅
+439c	孀
+439v	孑
+439b	孕
+439n	孚
+439m	孛
+439,	孥
+439.	孩
+439/	孰
+4301	孳
+4302	孵
+4303	學
+4304	斈
+4305	孺
+4306	宀
+4307	它
+4308	宦
+4309	宸
+4300	寃
+430q	寇
+430w	寉
+430e	寔
+430r	寐
+430t	寤
+430y	實
+430u	寢
+430i	寞
+430o	寥
+430p	寫
+430a	寰
+430s	寶
+430d	寳
+430f	尅
+430g	將
+430h	專
+430j	對
+430k	尓
+430l	尠
+430;	尢
+430z	尨
+430x	尸
+430c	尹
+430v	屁
+430b	屆
+430n	屎
+430m	屓
+430,	屐
+430.	屏
+430/	孱
+43q1	屬
+43q2	屮
+43q3	乢
+43q4	屶
+43q5	屹
+43q6	岌
+43q7	岑
+43q8	岔
+43q9	妛
+43q0	岫
+43qq	岻
+43qw	岶
+43qe	岼
+43qr	岷
+43qt	峅
+43qy	岾
+43qu	峇
+43qi	峙
+43qo	峩
+43qp	峽
+43qa	峺
+43qs	峭
+43qd	嶌
+43qf	峪
+43qg	崋
+43qh	崕
+43qj	崗
+43qk	嵜
+43ql	崟
+43q;	崛
+43qz	崑
+43qx	崔
+43qc	崢
+43qv	崚
+43qb	崙
+43qn	崘
+43qm	嵌
+43q,	嵒
+43q.	嵎
+43q/	嵋
+43w1	嵬
+43w2	嵳
+43w3	嵶
+43w4	嶇
+43w5	嶄
+43w6	嶂
+43w7	嶢
+43w8	嶝
+43w9	嶬
+43w0	嶮
+43wq	嶽
+43ww	嶐
+43we	嶷
+43wr	嶼
+43wt	巉
+43wy	巍
+43wu	巓
+43wi	巒
+43wo	巖
+43wp	巛
+43wa	巫
+43ws	巵
+43wd	帋
+43wf	帚
+43wg	帙
+43wh	帑
+43wj	帛
+43wk	帶
+43wl	帷
+43w;	幄
+43wz	幃
+43wx	幀
+43wc	幎
+43wv	幗
+43wb	幔
+43wn	幟
+43wm	幢
+43w,	幤
+43w.	幇
+43w/	幵
+43e1	并
+43e2	幺
+43e3	麼
+43e4	广
+43e5	庠
+43e6	廁
+43e7	廂
+43e8	廈
+43e9	廐
+43e0	廏
+43eq	廖
+43ew	廣
+43ee	廝
+43er	廚
+43et	廛
+43ey	廢
+43eu	廡
+43ei	廨
+43eo	廩
+43ep	廬
+43ea	廱
+43es	廳
+43ed	廰
+43ef	廴
+43eg	廸
+43eh	廾
+43ej	弃
+43ek	弉
+43el	彝
+43e;	彜
+43ez	弋
+43ex	弑
+43ec	弖
+43ev	弩
+43eb	弭
+43en	弸
+43em	彁
+43e,	彈
+43e.	彌
+43e/	彎
+43r1	弯
+43r2	彑
+43r3	彖
+43r4	彗
+43r5	彡
+43r6	彭
+43r7	彳
+43r8	彷
+43r9	徃
+43r0	徂
+43rq	彿
+43rw	徊
+43re	很
+43rr	徑
+43rt	徇
+43ry	從
+43ru	徙
+43ri	徘
+43ro	徠
+43rp	徨
+43ra	徭
+43rs	徼
+43rd	忖
+43rf	忻
+43rg	忤
+43rh	忸
+43rj	忱
+43rk	忝
+43rl	悳
+43r;	忿
+43rz	怡
+43rx	恠
+43rc	怙
+43rv	怐
+43rb	怩
+43rn	怎
+43rm	怱
+43r,	怛
+43r.	怕
+43r/	怫
+43t1	怦
+43t2	怏
+43t3	怺
+43t4	恚
+43t5	恁
+43t6	恪
+43t7	恷
+43t8	恟
+43t9	恊
+43t0	恆
+43tq	恍
+43tw	恃
+43te	恤
+43tr	恂
+43tt	恬
+43ty	恫
+43tu	恙
+43ti	悁
+43to	悍
+43tp	悃
+43ta	悚
+43ts	悄
+43td	悛
+43tf	悖
+43tg	悗
+43th	悒
+43tj	悧
+43tk	悋
+43tl	惡
+43t;	悸
+43tz	惠
+43tx	惓
+43tc	悴
+43tv	忰
+43tb	悽
+43tn	惆
+43tm	悵
+43t,	惘
+43t.	慍
+43t/	愕
+43y1	愆
+43y2	惶
+43y3	惷
+43y4	愀
+43y5	惴
+43y6	惺
+43y7	愃
+43y8	愡
+43y9	惻
+43y0	惱
+43yq	愍
+43yw	愎
+43ye	慇
+43yr	愾
+43yt	愨
+43yy	愧
+43yu	慊
+43yi	愿
+43yo	愼
+43yp	愬
+43ya	愴
+43ys	愽
+43yd	慂
+43yf	慳
+43yg	慷
+43yh	慘
+43yj	慙
+43yk	慚
+43yl	慫
+43y;	慴
+43yz	慯
+43yx	慥
+43yc	慱
+43yv	慟
+43yb	慝
+43yn	慓
+43ym	慵
+43y,	憙
+43y.	憖
+43y/	憇
+43u1	憔
+43u2	憚
+43u3	憊
+43u4	憑
+43u5	憫
+43u6	憮
+43u7	懌
+43u8	懊
+43u9	應
+43u0	懷
+43uq	懈
+43uw	懃
+43ue	懆
+43ur	憺
+43ut	懋
+43uy	罹
+43uu	懍
+43ui	懦
+43uo	懣
+43up	懶
+43ua	懺
+43us	懴
+43ud	懿
+43uf	懽
+43ug	懼
+43uh	懾
+43uj	戀
+43uk	戈
+43ul	戉
+43u;	戍
+43uz	戌
+43ux	戔
+43uc	戛
+43uv	戞
+43ub	戡
+43un	截
+43um	戮
+43u,	戰
+43u.	戲
+43u/	戳
+43i1	扁
+43i2	扎
+43i3	扞
+43i4	扣
+43i5	扛
+43i6	扠
+43i7	扨
+43i8	扼
+43i9	抂
+43i0	抉
+43iq	找
+43iw	抒
+43ie	抓
+43ir	抖
+43it	拔
+43iy	抃
+43iu	抔
+43ii	拗
+43io	拑
+43ip	抻
+43ia	拏
+43is	拿
+43id	拆
+43if	擔
+43ig	拈
+43ih	拜
+43ij	拌
+43ik	拊
+43il	拂
+43i;	拇
+43iz	抛
+43ix	挌
+43ic	拮
+43iv	拱
+43ib	挧
+43in	挂
+43im	挈
+43i,	拯
+43i.	拵
+43i/	捐
+43o1	挾
+43o2	捍
+43o3	搜
+43o4	捏
+43o5	掖
+43o6	掎
+43o7	掀
+43o8	掫
+43o9	捶
+43o0	掣
+43oq	掏
+43ow	掉
+43oe	掟
+43or	掵
+43ot	捫
+43oy	捩
+43ou	掾
+43oi	揩
+43oo	揀
+43op	揆
+43oa	揣
+43os	揉
+43od	插
+43of	揶
+43og	揄
+43oh	搖
+43oj	搴
+43ok	搆
+43ol	搓
+43o;	搦
+43oz	搶
+43ox	攝
+43oc	搗
+43ov	搨
+43ob	搏
+43on	摧
+43om	摶
+43o,	摎
+43o.	攪
+43o/	撕
+43p1	撓
+43p2	撥
+43p3	撩
+43p4	撈
+43p5	撼
+43p6	據
+43p7	擒
+43p8	擅
+43p9	擇
+43p0	撻
+43pq	擘
+43pw	擂
+43pe	擱
+43pr	擧
+43pt	舉
+43py	擠
+43pu	擡
+43pi	抬
+43po	擣
+43pp	擯
+43pa	攬
+43ps	擶
+43pd	擴
+43pf	擲
+43pg	擺
+43ph	攀
+43pj	擽
+43pk	攘
+43pl	攜
+43p;	攅
+43pz	攤
+43px	攣
+43pc	攫
+43pv	攴
+43pb	攵
+43pn	攷
+43pm	收
+43p,	攸
+43p.	畋
+43p/	效
+43a1	敖
+43a2	敕
+43a3	敍
+43a4	敘
+43a5	敞
+43a6	敝
+43a7	敲
+43a8	數
+43a9	斂
+43a0	斃
+43aq	變
+43aw	斛
+43ae	斟
+43ar	斫
+43at	斷
+43ay	旃
+43au	旆
+43ai	旁
+43ao	旄
+43ap	旌
+43aa	旒
+43as	旛
+43ad	旙
+43af	无
+43ag	旡
+43ah	旱
+43aj	杲
+43ak	昊
+43al	昃
+43a;	旻
+43az	杳
+43ax	昵
+43ac	昶
+43av	昴
+43ab	昜
+43an	晏
+43am	晄
+43a,	晉
+43a.	晁
+43a/	晞
+43s1	晝
+43s2	晤
+43s3	晧
+43s4	晨
+43s5	晟
+43s6	晢
+43s7	晰
+43s8	暃
+43s9	暈
+43s0	暎
+43sq	暉
+43sw	暄
+43se	暘
+43sr	暝
+43st	曁
+43sy	暹
+43su	曉
+43si	暾
+43so	暼
+43sp	曄
+43sa	暸
+43ss	曚
+43sd	曠
+43sf	昿
+43sg	曦
+43sh	曩
+43sj	曰
+43sk	曵
+43sl	曷
+43s;	朏
+43sz	朖
+43sx	朞
+43sc	朦
+43sv	朧
+43sb	霸
+43sn	朮
+43sm	朿
+43s,	朶
+43s.	杁
+43s/	朸
+43d1	朷
+43d2	杆
+43d3	杞
+43d4	杠
+43d5	杙
+43d6	杣
+43d7	杤
+43d8	枉
+43d9	杰
+43d0	枩
+43dq	杼
+43dw	杪
+43de	枌
+43dr	枋
+43dt	枦
+43dy	枡
+43du	枅
+43di	枷
+43do	柯
+43dp	枴
+43da	柬
+43ds	枳
+43dd	柩
+43df	枸
+43dg	柤
+43dh	柞
+43dj	柝
+43dk	柢
+43dl	柮
+43d;	枹
+43dz	柎
+43dx	柆
+43dc	柧
+43dv	檜
+43db	栞
+43dn	框
+43dm	栩
+43d,	桀
+43d.	桍
+43d/	栲
+43f1	桎
+43f2	梳
+43f3	栫
+43f4	桙
+43f5	档
+43f6	桷
+43f7	桿
+43f8	梟
+43f9	梏
+43f0	梭
+43fq	梔
+43fw	條
+43fe	梛
+43fr	梃
+43ft	檮
+43fy	梹
+43fu	桴
+43fi	梵
+43fo	梠
+43fp	梺
+43fa	椏
+43fs	梍
+43fd	桾
+43ff	椁
+43fg	棊
+43fh	椈
+43fj	棘
+43fk	椢
+43fl	椦
+43f;	棡
+43fz	椌
+43fx	棍
+43fc	棔
+43fv	棧
+43fb	棕
+43fn	椶
+43fm	椒
+43f,	椄
+43f.	棗
+43f/	棣
+43g1	椥
+43g2	棹
+43g3	棠
+43g4	棯
+43g5	椨
+43g6	椪
+43g7	椚
+43g8	椣
+43g9	椡
+43g0	棆
+43gq	楹
+43gw	楜
+43ge	楸
+43gr	楫
+43gt	楔
+43gy	楾
+43gu	楮
+43gi	椹
+43go	楴
+43gp	椽
+43ga	楙
+43gs	椰
+43gd	楡
+43gf	楞
+43gg	楝
+43gh	榁
+43gj	楪
+43gk	榲
+43gl	榮
+43g;	槐
+43gz	榿
+43gx	槁
+43gc	槓
+43gv	榾
+43gb	槎
+43gn	寨
+43gm	槊
+43g,	槝
+43g.	榻
+43g/	槃
+43h1	榧
+43h2	樮
+43h3	榑
+43h4	榠
+43h5	榜
+43h6	榕
+43h7	榴
+43h8	槞
+43h9	槨
+43h0	樂
+43hq	樛
+43hw	槿
+43he	權
+43hr	槹
+43ht	槲
+43hy	槧
+43hu	樅
+43hi	榱
+43ho	樞
+43hp	槭
+43ha	樔
+43hs	槫
+43hd	樊
+43hf	樒
+43hg	櫁
+43hh	樣
+43hj	樓
+43hk	橄
+43hl	樌
+43h;	橲
+43hz	樶
+43hx	橸
+43hc	橇
+43hv	橢
+43hb	橙
+43hn	橦
+43hm	橈
+43h,	樸
+43h.	樢
+43h/	檐
+43j1	檍
+43j2	檠
+43j3	檄
+43j4	檢
+43j5	檣
+43j6	檗
+43j7	蘗
+43j8	檻
+43j9	櫃
+43j0	櫂
+43jq	檸
+43jw	檳
+43je	檬
+43jr	櫞
+43jt	櫑
+43jy	櫟
+43ju	檪
+43ji	櫚
+43jo	櫪
+43jp	櫻
+43ja	欅
+43js	蘖
+43jd	櫺
+43jf	欒
+43jg	欖
+43jh	欟
+43jj	欸
+43jk	欷
+43jl	盜
+43j;	欹
+43jz	飮
+43jx	歇
+43jc	歃
+43jv	歉
+43jb	歐
+43jn	歙
+43jm	歔
+43j,	歛
+43j.	歟
+43j/	歡
+43k1	歸
+43k2	歹
+43k3	歿
+43k4	殀
+43k5	殄
+43k6	殃
+43k7	殍
+43k8	殘
+43k9	殕
+43k0	殞
+43kq	殤
+43kw	殪
+43ke	殫
+43kr	殯
+43kt	殲
+43ky	殱
+43ku	殳
+43ki	殷
+43ko	殼
+43kp	毆
+43ka	毋
+43ks	毓
+43kd	毟
+43kf	毬
+43kg	毫
+43kh	毳
+43kj	毯
+43kk	麾
+43kl	氈
+43k;	氓
+43kz	气
+43kx	氛
+43kc	氤
+43kv	氣
+43kb	汞
+43kn	汕
+43km	汢
+43k,	汪
+43k.	沂
+43k/	沍
+43l1	沚
+43l2	沁
+43l3	沛
+43l4	汾
+43l5	汨
+43l6	汳
+43l7	沒
+43l8	沐
+43l9	泄
+43l0	泱
+43lq	泓
+43lw	沽
+43le	泗
+43lr	泅
+43lt	泝
+43ly	沮
+43lu	沱
+43li	沾
+43lo	沺
+43lp	泛
+43la	泯
+43ls	泙
+43ld	泪
+43lf	洟
+43lg	衍
+43lh	洶
+43lj	洫
+43lk	洽
+43ll	洸
+43l;	洙
+43lz	洵
+43lx	洳
+43lc	洒
+43lv	洌
+43lb	浣
+43ln	涓
+43lm	浤
+43l,	浚
+43l.	浹
+43l/	浙
+43;1	涎
+43;2	涕
+43;3	濤
+43;4	涅
+43;5	淹
+43;6	渕
+43;7	渊
+43;8	涵
+43;9	淇
+43;0	淦
+43;q	涸
+43;w	淆
+43;e	淬
+43;r	淞
+43;t	淌
+43;y	淨
+43;u	淒
+43;i	淅
+43;o	淺
+43;p	淙
+43;a	淤
+43;s	淕
+43;d	淪
+43;f	淮
+43;g	渭
+43;h	湮
+43;j	渮
+43;k	渙
+43;l	湲
+43;;	湟
+43;z	渾
+43;x	渣
+43;c	湫
+43;v	渫
+43;b	湶
+43;n	湍
+43;m	渟
+43;,	湃
+43;.	渺
+43;/	湎
+43z1	渤
+43z2	滿
+43z3	渝
+43z4	游
+43z5	溂
+43z6	溪
+43z7	溘
+43z8	滉
+43z9	溷
+43z0	滓
+43zq	溽
+43zw	溯
+43ze	滄
+43zr	溲
+43zt	滔
+43zy	滕
+43zu	溏
+43zi	溥
+43zo	滂
+43zp	溟
+43za	潁
+43zs	漑
+43zd	灌
+43zf	滬
+43zg	滸
+43zh	滾
+43zj	漿
+43zk	滲
+43zl	漱
+43z;	滯
+43zz	漲
+43zx	滌
+43zc	漾
+43zv	漓
+43zb	滷
+43zn	澆
+43zm	潺
+43z,	潸
+43z.	澁
+43z/	澀
+43x1	潯
+43x2	潛
+43x3	濳
+43x4	潭
+43x5	澂
+43x6	潼
+43x7	潘
+43x8	澎
+43x9	澑
+43x0	濂
+43xq	潦
+43xw	澳
+43xe	澣
+43xr	澡
+43xt	澤
+43xy	澹
+43xu	濆
+43xi	澪
+43xo	濟
+43xp	濕
+43xa	濬
+43xs	濔
+43xd	濘
+43xf	濱
+43xg	濮
+43xh	濛
+43xj	瀉
+43xk	瀋
+43xl	濺
+43x;	瀑
+43xz	瀁
+43xx	瀏
+43xc	濾
+43xv	瀛
+43xb	瀚
+43xn	潴
+43xm	瀝
+43x,	瀘
+43x.	瀟
+43x/	瀰
+43c1	瀾
+43c2	瀲
+43c3	灑
+43c4	灣
+43c5	炙
+43c6	炒
+43c7	炯
+43c8	烱
+43c9	炬
+43c0	炸
+43cq	炳
+43cw	炮
+43ce	烟
+43cr	烋
+43ct	烝
+43cy	烙
+43cu	焉
+43ci	烽
+43co	焜
+43cp	焙
+43ca	煥
+43cs	煕
+43cd	熈
+43cf	煦
+43cg	煢
+43ch	煌
+43cj	煖
+43ck	煬
+43cl	熏
+43c;	燻
+43cz	熄
+43cx	熕
+43cc	熨
+43cv	熬
+43cb	燗
+43cn	熹
+43cm	熾
+43c,	燒
+43c.	燉
+43c/	燔
+43v1	燎
+43v2	燠
+43v3	燬
+43v4	燧
+43v5	燵
+43v6	燼
+43v7	燹
+43v8	燿
+43v9	爍
+43v0	爐
+43vq	爛
+43vw	爨
+43ve	爭
+43vr	爬
+43vt	爰
+43vy	爲
+43vu	爻
+43vi	爼
+43vo	爿
+43vp	牀
+43va	牆
+43vs	牋
+43vd	牘
+43vf	牴
+43vg	牾
+43vh	犂
+43vj	犁
+43vk	犇
+43vl	犒
+43v;	犖
+43vz	犢
+43vx	犧
+43vc	犹
+43vv	犲
+43vb	狃
+43vn	狆
+43vm	狄
+43v,	狎
+43v.	狒
+43v/	狢
+43b1	狠
+43b2	狡
+43b3	狹
+43b4	狷
+43b5	倏
+43b6	猗
+43b7	猊
+43b8	猜
+43b9	猖
+43b0	猝
+43bq	猴
+43bw	猯
+43be	猩
+43br	猥
+43bt	猾
+43by	獎
+43bu	獏
+43bi	默
+43bo	獗
+43bp	獪
+43ba	獨
+43bs	獰
+43bd	獸
+43bf	獵
+43bg	獻
+43bh	獺
+43bj	珈
+43bk	玳
+43bl	珎
+43b;	玻
+43bz	珀
+43bx	珥
+43bc	珮
+43bv	珞
+43bb	璢
+43bn	琅
+43bm	瑯
+43b,	琥
+43b.	珸
+43b/	琲
+43n1	琺
+43n2	瑕
+43n3	琿
+43n4	瑟
+43n5	瑙
+43n6	瑁
+43n7	瑜
+43n8	瑩
+43n9	瑰
+43n0	瑣
+43nq	瑪
+43nw	瑶
+43ne	瑾
+43nr	璋
+43nt	璞
+43ny	瓊
+43nu	瓏
+43ni	瓔
+43no	珱
+43np	瓠
+43na	瓣
+43ns	瓧
+43nd	瓩
+43nf	瓮
+43ng	瓲
+43nh	瓰
+43nj	瓱
+43nk	瓸
+43nl	瓷
+43n;	甄
+43nz	甃
+43nx	甅
+43nc	甌
+43nv	甎
+43nb	甍
+43nn	甕
+43nm	甓
+43n,	甞
+43n.	甦
+43n/	甬
+43m1	甼
+43m2	畄
+43m3	畍
+43m4	畊
+43m5	畉
+43m6	畛
+43m7	畆
+43m8	畚
+43m9	畩
+43m0	畤
+43mq	畧
+43mw	畫
+43me	畭
+43mr	畸
+43mt	當
+43my	疆
+43mu	疇
+43mi	畴
+43mo	疊
+43mp	疉
+43ma	疂
+43ms	疔
+43md	疚
+43mf	疝
+43mg	疥
+43mh	疣
+43mj	痂
+43mk	疳
+43ml	痃
+43m;	疵
+43mz	疽
+43mx	疸
+43mc	疼
+43mv	疱
+43mb	痍
+43mn	痊
+43mm	痒
+43m,	痙
+43m.	痣
+43m/	痞
+43,1	痾
+43,2	痿
+43,3	痼
+43,4	瘁
+43,5	痰
+43,6	痺
+43,7	痲
+43,8	痳
+43,9	瘋
+43,0	瘉
+43,q	瘟
+43,w	瘧
+43,e	瘠
+43,r	瘡
+43,t	瘢
+43,y	瘤
+43,u	瘴
+43,i	瘰
+43,o	瘻
+43,p	癇
+43,a	癈
+43,s	癆
+43,d	癜
+43,f	癘
+43,g	癡
+43,h	癢
+43,j	癨
+43,k	癩
+43,l	癪
+43,;	癧
+43,z	癬
+43,x	癰
+43,c	癲
+43,v	癶
+43,b	癸
+43,n	發
+43,m	皀
+43,,	皃
+43,.	皈
+43,/	皋
+43.1	皎
+43.2	皖
+43.3	皓
+43.4	皙
+43.5	皚
+43.6	皰
+43.7	皴
+43.8	皸
+43.9	皹
+43.0	皺
+43.q	盂
+43.w	盍
+43.e	盖
+43.r	盒
+43.t	盞
+43.y	盡
+43.u	盥
+43.i	盧
+43.o	盪
+43.p	蘯
+43.a	盻
+43.s	眈
+43.d	眇
+43.f	眄
+43.g	眩
+43.h	眤
+43.j	眞
+43.k	眥
+43.l	眦
+43.;	眛
+43.z	眷
+43.x	眸
+43.c	睇
+43.v	睚
+43.b	睨
+43.n	睫
+43.m	睛
+43.,	睥
+43..	睿
+43./	睾
+43/1	睹
+43/2	瞎
+43/3	瞋
+43/4	瞑
+43/5	瞠
+43/6	瞞
+43/7	瞰
+43/8	瞶
+43/9	瞹
+43/0	瞿
+43/q	瞼
+43/w	瞽
+43/e	瞻
+43/r	矇
+43/t	矍
+43/y	矗
+43/u	矚
+43/i	矜
+43/o	矣
+43/p	矮
+43/a	矼
+43/s	砌
+43/d	砒
+43/f	礦
+43/g	砠
+43/h	礪
+43/j	硅
+43/k	碎
+43/l	硴
+43/;	碆
+43/z	硼
+43/x	碚
+43/c	碌
+43/v	碣
+43/b	碵
+43/n	碪
+43/m	碯
+43/,	磑
+43/.	磆
+43//	磋
+44	
+45	
+46	
+47	
+48	
+49	
+40	
+4q	啓
+4w	掲
+4e	携
+4r	劇
+4t	賢
+4y	宗
+4u	途
+4i	筆
+4o	逃
+4p	勉
+4a	兼
+4s	嫌
+4d	顕
+4f	牽
+4g	厳
+4h	致
+4j	貨
+4k	招
+4l	卸
+4;	雲
+4z	
+4x	
+4c	
+4v	
+4b	
+4n	述
+4m	脳
+4,	豆
+4.	辞
+4/	箱
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+50	
+5q	把
+5w	伐
+5e	避
+5r	卑
+5t	藩
+5y	植
+5u	複
+5i	里
+5o	寝
+5p	罪
+5a	菱
+5s	紐
+5d	描
+5f	憤
+5g	弊
+5h	汎
+5j	絡
+5k	季
+5l	阿
+5;	窓
+5z	
+5x	
+5c	
+5v	
+5b	
+5n	朗
+5m	老
+5,	看
+5.	献
+5/	矢
+61	
+62	
+63	
+64	
+65	
+66	
+67	
+68	
+69	
+60	
+6q	酸
+6w	貿
+6e	攻
+6r	盤
+6t	汽
+6y	
+6u	
+6i	
+6o	
+6p	
+6a	桜
+6s	典
+6d	採
+6f	君
+6g	犯
+6h	
+6j	
+6k	
+6l	
+6;	
+6z	呼
+6x	紀
+6c	房
+6v	去
+6b	秒
+6n	
+6m	
+6,	
+6.	
+6/	
+71	
+72	
+73	
+74	
+75	
+76	
+77	
+7811	磔
+7812	碾
+7813	碼
+7814	磅
+7815	磊
+7816	磬
+7817	磧
+7818	磚
+7819	磽
+7810	磴
+781q	礇
+781w	礒
+781e	礑
+781r	礙
+781t	礬
+781y	礫
+781u	祀
+781i	祠
+781o	祗
+781p	祟
+781a	祚
+781s	祕
+781d	祓
+781f	祺
+781g	祿
+781h	禊
+781j	禝
+781k	禧
+781l	齋
+781;	禪
+781z	禮
+781x	禳
+781c	禹
+781v	禺
+781b	秉
+781n	秕
+781m	秧
+781,	秬
+781.	秡
+781/	秣
+7821	稈
+7822	稍
+7823	稘
+7824	稙
+7825	稠
+7826	稟
+7827	禀
+7828	稱
+7829	稻
+7820	稾
+782q	稷
+782w	穃
+782e	穗
+782r	穉
+782t	穡
+782y	穢
+782u	穩
+782i	龝
+782o	穰
+782p	穹
+782a	穽
+782s	窈
+782d	窗
+782f	窕
+782g	窘
+782h	窖
+782j	窩
+782k	竈
+782l	窰
+782;	窶
+782z	竅
+782x	竄
+782c	窿
+782v	邃
+782b	竇
+782n	竊
+782m	竍
+782,	竏
+782.	竕
+782/	竓
+7831	站
+7832	竚
+7833	竝
+7834	竡
+7835	竢
+7836	竦
+7837	竭
+7838	竰
+7839	笂
+7830	笏
+783q	笊
+783w	笆
+783e	笳
+783r	笘
+783t	笙
+783y	笞
+783u	笵
+783i	笨
+783o	笶
+783p	筐
+783a	筺
+783s	笄
+783d	筍
+783f	笋
+783g	筌
+783h	筅
+783j	筵
+783k	筥
+783l	筴
+783;	筧
+783z	筰
+783x	筱
+783c	筬
+783v	筮
+783b	箝
+783n	箘
+783m	箟
+783,	箍
+783.	箜
+783/	箚
+7841	箒
+7842	箏
+7843	筝
+7844	箙
+7845	篋
+7846	篁
+7847	篌
+7848	篏
+7849	箴
+7840	篆
+784q	篝
+784w	篩
+784e	簑
+784r	簔
+784t	篦
+784y	篥
+784u	簀
+784i	簇
+784o	簓
+784p	篳
+784a	篷
+784s	簗
+784d	簍
+784f	篶
+784g	簣
+784h	簧
+784j	簪
+784k	簟
+784l	簷
+784;	簫
+784z	簽
+784x	籌
+784c	籃
+784v	籔
+784b	籏
+784n	籀
+784m	籐
+784,	籘
+784.	籟
+784/	籤
+7851	籖
+7852	籥
+7853	籬
+7854	籵
+7855	粃
+7856	粐
+7857	粤
+7858	粭
+7859	粢
+7850	粫
+785q	粡
+785w	粨
+785e	粳
+785r	粲
+785t	粱
+785y	粮
+785u	粹
+785i	粽
+785o	糀
+785p	糅
+785a	糂
+785s	糘
+785d	糒
+785f	糜
+785g	糢
+785h	鬻
+785j	糯
+785k	糲
+785l	糴
+785;	糶
+785z	糺
+785x	紆
+785c	紂
+785v	紜
+785b	紕
+785n	紊
+785m	絅
+785,	絋
+785.	紮
+785/	紲
+7861	紿
+7862	紵
+7863	絆
+7864	絳
+7865	絖
+7866	絎
+7867	絲
+7868	絨
+7869	絮
+7860	絏
+786q	絣
+786w	經
+786e	綉
+786r	絛
+786t	綏
+786y	絽
+786u	綛
+786i	綺
+786o	綮
+786p	綣
+786a	綵
+786s	緇
+786d	綽
+786f	綫
+786g	總
+786h	綢
+786j	綯
+786k	緜
+786l	綸
+786;	綟
+786z	綰
+786x	緘
+786c	緝
+786v	緤
+786b	緞
+786n	緲
+786m	緡
+786,	縅
+786.	縊
+786/	縣
+7871	縡
+7872	縒
+7873	縱
+7874	縟
+7875	縉
+7876	縋
+7877	縢
+7878	繆
+7879	繦
+7870	縻
+787q	縵
+787w	縹
+787e	繃
+787r	縷
+787t	縲
+787y	縺
+787u	繧
+787i	繝
+787o	繖
+787p	繞
+787a	繙
+787s	繚
+787d	繹
+787f	繪
+787g	繩
+787h	繼
+787j	繻
+787k	纃
+787l	緕
+787;	繽
+787z	辮
+787x	繿
+787c	纈
+787v	纉
+787b	續
+787n	纒
+787m	纐
+787,	纓
+787.	纔
+787/	纖
+7881	纎
+7882	纛
+7883	纜
+7884	缸
+7885	缺
+7886	罅
+7887	罌
+7888	罍
+7889	罎
+7880	罐
+788q	网
+788w	罕
+788e	罔
+788r	罘
+788t	罟
+788y	罠
+788u	罨
+788i	罩
+788o	罧
+788p	罸
+788a	羂
+788s	羆
+788d	羃
+788f	羈
+788g	羇
+788h	羌
+788j	羔
+788k	羝
+788l	羚
+788;	羣
+788z	羯
+788x	羲
+788c	羹
+788v	羮
+788b	羶
+788n	羸
+788m	譱
+788,	翅
+788.	翆
+788/	翊
+7891	翕
+7892	翔
+7893	翡
+7894	翦
+7895	翩
+7896	翳
+7897	翹
+7898	飜
+7899	耆
+7890	耄
+789q	耋
+789w	耒
+789e	耘
+789r	耙
+789t	耜
+789y	耡
+789u	耨
+789i	耿
+789o	耻
+789p	聊
+789a	聆
+789s	聒
+789d	聘
+789f	聚
+789g	聟
+789h	聢
+789j	聨
+789k	聳
+789l	聲
+789;	聰
+789z	聶
+789x	聹
+789c	聽
+789v	聿
+789b	肄
+789n	肆
+789m	肅
+789,	肛
+789.	肓
+789/	肚
+7801	肭
+7802	冐
+7803	肬
+7804	胛
+7805	胥
+7806	胙
+7807	胝
+7808	胄
+7809	胚
+7800	胖
+780q	脉
+780w	胯
+780e	胱
+780r	脛
+780t	脩
+780y	脣
+780u	脯
+780i	腋
+780o	隋
+780p	腆
+780a	脾
+780s	腓
+780d	腑
+780f	胼
+780g	腱
+780h	腮
+780j	腥
+780k	腦
+780l	腴
+780;	膃
+780z	膈
+780x	膊
+780c	膀
+780v	膂
+780b	膠
+780n	膕
+780m	膤
+780,	膣
+780.	腟
+780/	膓
+78q1	膩
+78q2	膰
+78q3	膵
+78q4	膾
+78q5	膸
+78q6	膽
+78q7	臀
+78q8	臂
+78q9	膺
+78q0	臉
+78qq	臍
+78qw	臑
+78qe	臙
+78qr	臘
+78qt	臈
+78qy	臚
+78qu	臟
+78qi	臠
+78qo	臧
+78qp	臺
+78qa	臻
+78qs	臾
+78qd	舁
+78qf	舂
+78qg	舅
+78qh	與
+78qj	舊
+78qk	舍
+78ql	舐
+78q;	舖
+78qz	舩
+78qx	舫
+78qc	舸
+78qv	舳
+78qb	艀
+78qn	艙
+78qm	艘
+78q,	艝
+78q.	艚
+78q/	艟
+78w1	艤
+78w2	艢
+78w3	艨
+78w4	艪
+78w5	艫
+78w6	舮
+78w7	艱
+78w8	艷
+78w9	艸
+78w0	艾
+78wq	芍
+78ww	芒
+78we	芫
+78wr	芟
+78wt	芻
+78wy	芬
+78wu	苡
+78wi	苣
+78wo	苟
+78wp	苒
+78wa	苴
+78ws	苳
+78wd	苺
+78wf	莓
+78wg	范
+78wh	苻
+78wj	苹
+78wk	苞
+78wl	茆
+78w;	苜
+78wz	茉
+78wx	苙
+78wc	茵
+78wv	茴
+78wb	茖
+78wn	茲
+78wm	茱
+78w,	荀
+78w.	茹
+78w/	荐
+78e1	荅
+78e2	茯
+78e3	茫
+78e4	茗
+78e5	茘
+78e6	莅
+78e7	莚
+78e8	莪
+78e9	莟
+78e0	莢
+78eq	莖
+78ew	茣
+78ee	莎
+78er	莇
+78et	莊
+78ey	荼
+78eu	莵
+78ei	荳
+78eo	荵
+78ep	莠
+78ea	莉
+78es	莨
+78ed	菴
+78ef	萓
+78eg	菫
+78eh	菎
+78ej	菽
+78ek	萃
+78el	菘
+78e;	萋
+78ez	菁
+78ex	菷
+78ec	萇
+78ev	菠
+78eb	菲
+78en	萍
+78em	萢
+78e,	萠
+78e.	莽
+78e/	萸
+78r1	蔆
+78r2	菻
+78r3	葭
+78r4	萪
+78r5	萼
+78r6	蕚
+78r7	蒄
+78r8	葷
+78r9	葫
+78r0	蒭
+78rq	葮
+78rw	蒂
+78re	葩
+78rr	葆
+78rt	萬
+78ry	葯
+78ru	葹
+78ri	萵
+78ro	蓊
+78rp	葢
+78ra	蒹
+78rs	蒿
+78rd	蒟
+78rf	蓙
+78rg	蓍
+78rh	蒻
+78rj	蓚
+78rk	蓐
+78rl	蓁
+78r;	蓆
+78rz	蓖
+78rx	蒡
+78rc	蔡
+78rv	蓿
+78rb	蓴
+78rn	蔗
+78rm	蔘
+78r,	蔬
+78r.	蔟
+78r/	蔕
+78t1	蔔
+78t2	蓼
+78t3	蕀
+78t4	蕣
+78t5	蕘
+78t6	蕈
+78t7	蕁
+78t8	蘂
+78t9	蕋
+78t0	蕕
+78tq	薀
+78tw	薤
+78te	薈
+78tr	薑
+78tt	薊
+78ty	薨
+78tu	蕭
+78ti	薔
+78to	薛
+78tp	藪
+78ta	薇
+78ts	薜
+78td	蕷
+78tf	蕾
+78tg	薐
+78th	藉
+78tj	薺
+78tk	藏
+78tl	薹
+78t;	藐
+78tz	藕
+78tx	藝
+78tc	藥
+78tv	藜
+78tb	藹
+78tn	蘊
+78tm	蘓
+78t,	蘋
+78t.	藾
+78t/	藺
+78y1	蘆
+78y2	蘢
+78y3	蘚
+78y4	蘰
+78y5	蘿
+78y6	虍
+78y7	乕
+78y8	虔
+78y9	號
+78y0	虧
+78yq	虱
+78yw	蚓
+78ye	蚣
+78yr	蚩
+78yt	蚪
+78yy	蚋
+78yu	蚌
+78yi	蚶
+78yo	蚯
+78yp	蛄
+78ya	蛆
+78ys	蚰
+78yd	蛉
+78yf	蠣
+78yg	蚫
+78yh	蛔
+78yj	蛞
+78yk	蛩
+78yl	蛬
+78y;	蛟
+78yz	蛛
+78yx	蛯
+78yc	蜒
+78yv	蜆
+78yb	蜈
+78yn	蜀
+78ym	蜃
+78y,	蛻
+78y.	蜑
+78y/	蜉
+78u1	蜍
+78u2	蛹
+78u3	蜊
+78u4	蜴
+78u5	蜿
+78u6	蜷
+78u7	蜻
+78u8	蜥
+78u9	蜩
+78u0	蜚
+78uq	蝠
+78uw	蝟
+78ue	蝸
+78ur	蝌
+78ut	蝎
+78uy	蝴
+78uu	蝗
+78ui	蝨
+78uo	蝮
+78up	蝙
+78ua	蝓
+78us	蝣
+78ud	蝪
+78uf	蠅
+78ug	螢
+78uh	螟
+78uj	螂
+78uk	螯
+78ul	蟋
+78u;	螽
+78uz	蟀
+78ux	蟐
+78uc	雖
+78uv	螫
+78ub	蟄
+78un	螳
+78um	蟇
+78u,	蟆
+78u.	螻
+78u/	蟯
+78i1	蟲
+78i2	蟠
+78i3	蠏
+78i4	蠍
+78i5	蟾
+78i6	蟶
+78i7	蟷
+78i8	蠎
+78i9	蟒
+78i0	蠑
+78iq	蠖
+78iw	蠕
+78ie	蠢
+78ir	蠡
+78it	蠱
+78iy	蠶
+78iu	蠹
+78ii	蠧
+78io	蠻
+78ip	衄
+78ia	衂
+78is	衒
+78id	衙
+78if	衞
+78ig	衢
+78ih	衫
+78ij	袁
+78ik	衾
+78il	袞
+78i;	衵
+78iz	衽
+78ix	袵
+78ic	衲
+78iv	袂
+78ib	袗
+78in	袒
+78im	袮
+78i,	袙
+78i.	袢
+78i/	袍
+78o1	袤
+78o2	袰
+78o3	袿
+78o4	袱
+78o5	裃
+78o6	裄
+78o7	裔
+78o8	裘
+78o9	裙
+78o0	裝
+78oq	裹
+78ow	褂
+78oe	裼
+78or	裴
+78ot	裨
+78oy	裲
+78ou	褄
+78oi	褌
+78oo	褊
+78op	褓
+78oa	襃
+78os	褞
+78od	褥
+78of	褪
+78og	褫
+78oh	襁
+78oj	襄
+78ok	褻
+78ol	褶
+78o;	褸
+78oz	襌
+78ox	褝
+78oc	襠
+78ov	襞
+78ob	襦
+78on	襤
+78om	襭
+78o,	襪
+78o.	襯
+78o/	襴
+78p1	襷
+78p2	襾
+78p3	覃
+78p4	覈
+78p5	覊
+78p6	覓
+78p7	覘
+78p8	覡
+78p9	覩
+78p0	覦
+78pq	覬
+78pw	覯
+78pe	覲
+78pr	覺
+78pt	覽
+78py	覿
+78pu	觀
+78pi	觚
+78po	觜
+78pp	觝
+78pa	觧
+78ps	觴
+78pd	觸
+78pf	訖
+78pg	訐
+78ph	訌
+78pj	訛
+78pk	訝
+78pl	訥
+78p;	訶
+78pz	詁
+78px	詛
+78pc	詒
+78pv	詆
+78pb	詈
+78pn	詼
+78pm	詭
+78p,	詬
+78p.	詢
+78p/	誅
+78a1	誂
+78a2	誄
+78a3	誨
+78a4	誡
+78a5	誑
+78a6	誥
+78a7	誦
+78a8	誚
+78a9	誣
+78a0	諄
+78aq	諍
+78aw	諂
+78ae	諚
+78ar	諫
+78at	諳
+78ay	諤
+78au	諱
+78ai	謔
+78ao	諠
+78ap	諢
+78aa	諷
+78as	諞
+78ad	諛
+78af	謌
+78ag	謇
+78ah	謚
+78aj	諡
+78ak	謖
+78al	謐
+78a;	謗
+78az	謠
+78ax	謳
+78ac	鞫
+78av	謦
+78ab	謫
+78an	謾
+78am	謨
+78a,	譁
+78a.	譌
+78a/	譏
+78s1	譎
+78s2	證
+78s3	譖
+78s4	譛
+78s5	譚
+78s6	譫
+78s7	譟
+78s8	譬
+78s9	譯
+78s0	譴
+78sq	譽
+78sw	讀
+78se	讌
+78sr	讎
+78st	讒
+78sy	讓
+78su	讖
+78si	讙
+78so	讚
+78sp	谺
+78sa	豁
+78ss	谿
+78sd	豈
+78sf	豌
+78sg	豎
+78sh	豐
+78sj	豕
+78sk	豢
+78sl	豬
+78s;	豸
+78sz	豺
+78sx	貂
+78sc	貉
+78sv	貅
+78sb	貊
+78sn	貍
+78sm	貎
+78s,	貔
+78s.	豼
+78s/	貘
+78d1	戝
+78d2	貭
+78d3	貽
+78d4	貲
+78d5	貳
+78d6	貮
+78d7	貶
+78d8	賈
+78d9	賁
+78d0	賤
+78dq	賣
+78dw	賚
+78de	賽
+78dr	賺
+78dt	賻
+78dy	贄
+78du	贅
+78di	贊
+78do	贇
+78dp	贏
+78da	贍
+78ds	贐
+78dd	齎
+78df	贓
+78dg	賍
+78dh	贔
+78dj	贖
+78dk	赧
+78dl	赭
+78d;	赱
+78dz	赳
+78dx	趁
+78dc	趙
+78dv	跂
+78db	趾
+78dn	趺
+78dm	跏
+78d,	跚
+78d.	跖
+78d/	跌
+78f1	跛
+78f2	跋
+78f3	跪
+78f4	跫
+78f5	跟
+78f6	跣
+78f7	跼
+78f8	踈
+78f9	踉
+78f0	跿
+78fq	踝
+78fw	踞
+78fe	踐
+78fr	踟
+78ft	蹂
+78fy	踵
+78fu	踰
+78fi	踴
+78fo	蹊
+78fp	蹇
+78fa	蹉
+78fs	蹌
+78fd	蹐
+78ff	蹈
+78fg	蹙
+78fh	蹤
+78fj	蹠
+78fk	蹣
+78fl	蹕
+78f;	蹶
+78fz	蹲
+78fx	蹼
+78fc	躁
+78fv	躇
+78fb	躅
+78fn	躄
+78fm	躋
+78f,	躊
+78f.	躓
+78f/	躑
+78g1	躔
+78g2	躙
+78g3	躪
+78g4	躡
+78g5	躬
+78g6	躰
+78g7	軆
+78g8	躱
+78g9	躾
+78g0	軅
+78gq	軈
+78gw	軋
+78ge	軛
+78gr	軣
+78gt	軼
+78gy	軻
+78gu	軫
+78gi	軾
+78go	輊
+78gp	輅
+78ga	輕
+78gs	輒
+78gd	輙
+78gf	輓
+78gg	輜
+78gh	輟
+78gj	輛
+78gk	輌
+78gl	輦
+78g;	輳
+78gz	輻
+78gx	輹
+78gc	轅
+78gv	轂
+78gb	輾
+78gn	轌
+78gm	轉
+78g,	轆
+78g.	轎
+78g/	轗
+78h1	轜
+78h2	轢
+78h3	轣
+78h4	轤
+78h5	辜
+78h6	辟
+78h7	辭
+78h8	辯
+78h9	辷
+78h0	迚
+78hq	迥
+78hw	迢
+78he	迪
+78hr	迯
+78ht	邇
+78hy	迴
+78hu	逅
+78hi	迹
+78ho	迺
+78hp	逑
+78ha	逕
+78hs	逡
+78hd	逍
+78hf	逞
+78hg	逖
+78hh	逋
+78hj	逧
+78hk	逶
+78hl	逵
+78h;	逹
+78hz	迸
+78hx	遏
+78hc	遐
+78hv	遑
+78hb	遒
+78hn	逎
+78hm	遉
+78h,	逾
+78h.	遖
+78h/	遘
+78j1	遞
+78j2	遨
+78j3	遯
+78j4	遶
+78j5	隨
+78j6	遲
+78j7	邂
+78j8	遽
+78j9	邁
+78j0	邀
+78jq	邊
+78jw	邉
+78je	邏
+78jr	邨
+78jt	邯
+78jy	邱
+78ju	邵
+78ji	郢
+78jo	郤
+78jp	扈
+78ja	郛
+78js	鄂
+78jd	鄒
+78jf	鄙
+78jg	鄲
+78jh	鄰
+78jj	酊
+78jk	酖
+78jl	酘
+78j;	酣
+78jz	酥
+78jx	酩
+78jc	酳
+78jv	酲
+78jb	醋
+78jn	醉
+78jm	醂
+78j,	醢
+78j.	醫
+78j/	醯
+78k1	醪
+78k2	醵
+78k3	醴
+78k4	醺
+78k5	釀
+78k6	釁
+78k7	釉
+78k8	釋
+78k9	釐
+78k0	釖
+78kq	釟
+78kw	釡
+78ke	釛
+78kr	釼
+78kt	釵
+78ky	釶
+78ku	鈞
+78ki	釿
+78ko	鈔
+78kp	鈬
+78ka	鈕
+78ks	鈑
+78kd	鉞
+78kf	鉗
+78kg	鉅
+78kh	鉉
+78kj	鉤
+78kk	鉈
+78kl	銕
+78k;	鈿
+78kz	鉋
+78kx	鉐
+78kc	銜
+78kv	銖
+78kb	銓
+78kn	銛
+78km	鉚
+78k,	鋏
+78k.	銹
+78k/	銷
+78l1	鋩
+78l2	錏
+78l3	鋺
+78l4	鍄
+78l5	錙
+78l6	錢
+78l7	錚
+78l8	錣
+78l9	錺
+78l0	錵
+78lq	錻
+78lw	鍜
+78le	鍠
+78lr	鍼
+78lt	鍮
+78ly	鍖
+78lu	鎰
+78li	鎬
+78lo	鎭
+78lp	鎔
+78la	鎹
+78ls	鏖
+78ld	鏗
+78lf	鏨
+78lg	鏥
+78lh	鏘
+78lj	鏃
+78lk	鏝
+78ll	鏐
+78l;	鏈
+78lz	鏤
+78lx	鐚
+78lc	鐔
+78lv	鐓
+78lb	鐃
+78ln	鐇
+78lm	鐐
+78l,	鐶
+78l.	鐫
+78l/	鐵
+78;1	鐡
+78;2	鐺
+78;3	鑁
+78;4	鑒
+78;5	鑄
+78;6	鑛
+78;7	鑠
+78;8	鑢
+78;9	鑞
+78;0	鑪
+78;q	鈩
+78;w	鑰
+78;e	鑵
+78;r	鑷
+78;t	鑽
+78;y	鑚
+78;u	鑼
+78;i	鑾
+78;o	钁
+78;p	鑿
+78;a	閂
+78;s	閇
+78;d	閊
+78;f	閔
+78;g	閖
+78;h	閘
+78;j	閙
+78;k	閠
+78;l	閨
+78;;	閧
+78;z	閭
+78;x	閼
+78;c	閻
+78;v	閹
+78;b	閾
+78;n	闊
+78;m	濶
+78;,	闃
+78;.	闍
+78;/	闌
+78z1	闕
+78z2	闔
+78z3	闖
+78z4	關
+78z5	闡
+78z6	闥
+78z7	闢
+78z8	阡
+78z9	阨
+78z0	阮
+78zq	阯
+78zw	陂
+78ze	陌
+78zr	陏
+78zt	陋
+78zy	陷
+78zu	陜
+78zi	陞
+78zo	陝
+78zp	陟
+78za	陦
+78zs	陲
+78zd	陬
+78zf	隍
+78zg	隘
+78zh	隕
+78zj	隗
+78zk	險
+78zl	隧
+78z;	隱
+78zz	隲
+78zx	隰
+78zc	隴
+78zv	隶
+78zb	隸
+78zn	隹
+78zm	雎
+78z,	雋
+78z.	雉
+78z/	雍
+78x1	襍
+78x2	雜
+78x3	霍
+78x4	雕
+78x5	雹
+78x6	霄
+78x7	霆
+78x8	霈
+78x9	霓
+78x0	霎
+78xq	霑
+78xw	霏
+78xe	霖
+78xr	霙
+78xt	霤
+78xy	霪
+78xu	霰
+78xi	霹
+78xo	霽
+78xp	霾
+78xa	靄
+78xs	靆
+78xd	靈
+78xf	靂
+78xg	靉
+78xh	靜
+78xj	靠
+78xk	靤
+78xl	靦
+78x;	靨
+78xz	勒
+78xx	靫
+78xc	靱
+78xv	靹
+78xb	鞅
+78xn	靼
+78xm	鞁
+78x,	靺
+78x.	鞆
+78x/	鞋
+78c1	鞏
+78c2	鞐
+78c3	鞜
+78c4	鞨
+78c5	鞦
+78c6	鞣
+78c7	鞳
+78c8	鞴
+78c9	韃
+78c0	韆
+78cq	韈
+78cw	韋
+78ce	韜
+78cr	韭
+78ct	齏
+78cy	韲
+78cu	竟
+78ci	韶
+78co	韵
+78cp	頏
+78ca	頌
+78cs	頸
+78cd	頤
+78cf	頡
+78cg	頷
+78ch	頽
+78cj	顆
+78ck	顏
+78cl	顋
+78c;	顫
+78cz	顯
+78cx	顰
+78cc	顱
+78cv	顴
+78cb	顳
+78cn	颪
+78cm	颯
+78c,	颱
+78c.	颶
+78c/	飄
+78v1	飃
+78v2	飆
+78v3	飩
+78v4	飫
+78v5	餃
+78v6	餉
+78v7	餒
+78v8	餔
+78v9	餘
+78v0	餡
+78vq	餝
+78vw	餞
+78ve	餤
+78vr	餠
+78vt	餬
+78vy	餮
+78vu	餽
+78vi	餾
+78vo	饂
+78vp	饉
+78va	饅
+78vs	饐
+78vd	饋
+78vf	饑
+78vg	饒
+78vh	饌
+78vj	饕
+78vk	馗
+78vl	馘
+78v;	馥
+78vz	馭
+78vx	馮
+78vc	馼
+78vv	駟
+78vb	駛
+78vn	駝
+78vm	駘
+78v,	駑
+78v.	駭
+78v/	駮
+78b1	駱
+78b2	駲
+78b3	駻
+78b4	駸
+78b5	騁
+78b6	騏
+78b7	騅
+78b8	駢
+78b9	騙
+78b0	騫
+78bq	騷
+78bw	驅
+78be	驂
+78br	驀
+78bt	驃
+78by	騾
+78bu	驕
+78bi	驍
+78bo	驛
+78bp	驗
+78ba	驟
+78bs	驢
+78bd	驥
+78bf	驤
+78bg	驩
+78bh	驫
+78bj	驪
+78bk	骭
+78bl	骰
+78b;	骼
+78bz	髀
+78bx	髏
+78bc	髑
+78bv	髓
+78bb	體
+78bn	髞
+78bm	髟
+78b,	髢
+78b.	髣
+78b/	髦
+78n1	髯
+78n2	髫
+78n3	髮
+78n4	髴
+78n5	髱
+78n6	髷
+78n7	髻
+78n8	鬆
+78n9	鬘
+78n0	鬚
+78nq	鬟
+78nw	鬢
+78ne	鬣
+78nr	鬥
+78nt	鬧
+78ny	鬨
+78nu	鬩
+78ni	鬪
+78no	鬮
+78np	鬯
+78na	鬲
+78ns	魄
+78nd	魃
+78nf	魏
+78ng	魍
+78nh	魎
+78nj	魑
+78nk	魘
+78nl	魴
+78n;	鮓
+78nz	鮃
+78nx	鮑
+78nc	鮖
+78nv	鮗
+78nb	鮟
+78nn	鮠
+78nm	鮨
+78n,	鮴
+78n.	鯀
+78n/	鯊
+78m1	鮹
+78m2	鯆
+78m3	鯏
+78m4	鯑
+78m5	鯒
+78m6	鯣
+78m7	鯢
+78m8	鯤
+78m9	鯔
+78m0	鯡
+78mq	鰺
+78mw	鯲
+78me	鯱
+78mr	鯰
+78mt	鰕
+78my	鰔
+78mu	鰉
+78mi	鰓
+78mo	鰌
+78mp	鰆
+78ma	鰈
+78ms	鰒
+78md	鰊
+78mf	鰄
+78mg	鰮
+78mh	鰛
+78mj	鰥
+78mk	鰤
+78ml	鰡
+78m;	鰰
+78mz	鱇
+78mx	鰲
+78mc	鱆
+78mv	鰾
+78mb	鱚
+78mn	鱠
+78mm	鱧
+78m,	鱶
+78m.	鱸
+78m/	鳧
+78,1	鳬
+78,2	鳰
+78,3	鴉
+78,4	鴈
+78,5	鳫
+78,6	鴃
+78,7	鴆
+78,8	鴪
+78,9	鴦
+78,0	鶯
+78,q	鴣
+78,w	鴟
+78,e	鵄
+78,r	鴕
+78,t	鴒
+78,y	鵁
+78,u	鴿
+78,i	鴾
+78,o	鵆
+78,p	鵈
+78,a	鵝
+78,s	鵞
+78,d	鵤
+78,f	鵑
+78,g	鵐
+78,h	鵙
+78,j	鵲
+78,k	鶉
+78,l	鶇
+78,;	鶫
+78,z	鵯
+78,x	鵺
+78,c	鶚
+78,v	鶤
+78,b	鶩
+78,n	鶲
+78,m	鷄
+78,,	鷁
+78,.	鶻
+78,/	鶸
+78.1	鶺
+78.2	鷆
+78.3	鷏
+78.4	鷂
+78.5	鷙
+78.6	鷓
+78.7	鷸
+78.8	鷦
+78.9	鷭
+78.0	鷯
+78.q	鷽
+78.w	鸚
+78.e	鸛
+78.r	鸞
+78.t	鹵
+78.y	鹹
+78.u	鹽
+78.i	麁
+78.o	麈
+78.p	麋
+78.a	麌
+78.s	麒
+78.d	麕
+78.f	麑
+78.g	麝
+78.h	麥
+78.j	麩
+78.k	麸
+78.l	麪
+78.;	麭
+78.z	靡
+78.x	黌
+78.c	黎
+78.v	黏
+78.b	黐
+78.n	黔
+78.m	黜
+78.,	點
+78..	黝
+78./	黠
+78/1	黥
+78/2	黨
+78/3	黯
+78/4	黴
+78/5	黶
+78/6	黷
+78/7	黹
+78/8	黻
+78/9	黼
+78/0	黽
+78/q	鼇
+78/w	鼈
+78/e	皷
+78/r	鼕
+78/t	鼡
+78/y	鼬
+78/u	鼾
+78/i	齊
+78/o	齒
+78/p	齔
+78/a	齣
+78/s	齟
+78/d	齠
+78/f	齡
+78/g	齦
+78/h	齧
+78/j	齬
+78/k	齪
+78/l	齷
+78/;	齲
+78/z	齶
+78/x	龕
+78/c	龜
+78/v	龠
+78/b	堯
+78/n	槇
+78/m	遙
+78/,	瑤
+78/.	凜
+78//	熙
+79	
+70	
+7q	昼
+7w	捜
+7e	焼
+7r	帯
+7t	換
+7y	索
+7u	冊
+7i	皿
+7o	賛
+7p	
+7a	瀬
+7s	博
+7d	謡
+7f	純
+7g	余
+7h	衰
+7j	趨
+7k	垂
+7l	粋
+7;	寸
+7z	幅
+7x	破
+7c	績
+7v	疑
+7b	範
+7n	
+7m	
+7,	
+7.	
+7/	
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+80	
+8q	炭
+8w	異
+8e	闘
+8r	易
+8t	延
+8y	射
+8u	需
+8i	輯
+8o	瞬
+8p	盾
+8a	鳥
+8s	筋
+8d	希
+8f	副
+8g	堀
+8h	滋
+8j	湿
+8k	甚
+8l	
+8;	瞳
+8z	歓
+8x	郡
+8c	識
+8v	ぢ
+8b	核
+8n	
+8m	
+8,	
+8.	
+8/	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+90	
+9q	稲
+9w	隣
+9e	奈
+9r	速
+9t	雪
+9y	濁
+9u	詑
+9i	蓄
+9o	貯
+9p	虫
+9a	催
+9s	忠
+9d	仏
+9f	盟
+9g	肩
+9h	沈
+9j	添
+9k	徹
+9l	爪
+9;	陶
+9z	功
+9x	抗
+9c	属
+9v	綿
+9b	影
+9n	
+9m	
+9,	
+9.	
+9/	
+01	
+02	
+03	
+04	
+05	
+06	
+07	
+08	
+09	
+00	
+0q	湯
+0w	旧
+0e	夕
+0r	拡
+0t	互
+0y	慢
+0u	迷
+0i	戻
+0o	羊
+0p	
+0a	障
+0s	乳
+0d	察
+0f	標
+0g	療
+0h	己
+0j	已
+0k	巳
+0l	巴
+0;	
+0z	盗
+0x	幡
+0c	衣
+0v	離
+0b	麻
+0n	
+0m	
+0,	
+0.	
+0/	
+q1	ヮ
+q2	丑
+q3	鬼
+q4	孤
+q5	奉
+q6	湖
+q7	端
+q8	刷
+q9	震
+q0	弘
+qq	果
+qw	概
+qe	武
+qr	風
+qt	細
+qy	害
+qu	撃
+qi	浴
+qo	積
+qp	故
+qa	収
+qs	若
+qd	指
+qf	ぎ
+qg	思
+qh	病
+qj	常
+qk	寺
+ql	停
+q;	河
+qz	徳
+qx	械
+qc	帝
+qv	読
+qb	族
+qn	帰
+qm	監
+q,	竹
+q.	ゅ
+q/	志
+w1	ヰ
+w2	臼
+w3	虚
+w4	誇
+w5	某
+w6	礼
+w7	飾
+w8	寿
+w9	扱
+w0	痛
+wq	告
+ww	買
+we	残
+wr	階
+wt	古
+wy	賃
+wu	折
+wi	秀
+wo	程
+wp	鉱
+wa	際
+ws	雄
+wd	氏
+wf	格
+wg	術
+wh	終
+wj	張
+wk	質
+wl	領
+w;	置
+wz	渡
+wx	刊
+wc	始
+wv	鈴
+wb	丁
+wn	庁
+wm	寄
+w,	注
+w.	修
+w/	抜
+e1	ヱ
+e2	宴
+e3	狭
+e4	黄
+e5	貌
+e6	著
+e7	郵
+e8	順
+e9	片
+e0	票
+eq	策
+ew	詳
+ee	両
+er	能
+et	利
+ey	整
+eu	追
+ei	糸
+eo	断
+ep	提
+ea	太
+es	査
+ed	丸
+ef	次
+eg	広
+eh	起
+ej	薬
+ek	づ
+el	容
+e;	供
+ez	守
+ex	訪
+ec	了
+ev	恐
+eb	未
+en	昨
+em	裁
+e,	介
+e.	究
+e/	航
+r1	ヵ
+r2	縁
+r3	脅
+r4	后
+r5	卜
+r6	移
+r7	塩
+r8	危
+r9	札
+r0	訴
+rq	首
+rw	由
+re	在
+rr	論
+rt	ペ
+ry	軽
+ru	隊
+ri	春
+ro	低
+rp	児
+ra	園
+rs	ふ
+rd	続
+rf	習
+rg	門
+rh	路
+rj	防
+rk	港
+rl	玉
+r;	試
+rz	登
+rx	融
+rc	極
+rv	督
+rb	才
+rn	跡
+rm	達
+r,	具
+r.	答
+r/	層
+t1	ヶ
+t2	曳
+t3	驚
+t4	耕
+t5	
+t6	郷
+t7	群
+t8	砂
+t9	乞
+t0	遺
+tq	農
+tw	死
+te	!
+tr	増
+tt	ゃ
+ty	評
+tu	角
+ti	幸
+to	減
+tp	敷
+ta	船
+ts	賞
+td	ェ
+tf	火
+tg	聞
+th	越
+tj	得
+tk	条
+tl	右
+t;	席
+tz	退
+tx	雨
+tc	熱
+tv	況
+tb	返
+tn	ゲ
+tm	芝
+t,	失
+t.	養
+t/	深
+y1	請
+y2	尚
+y3	舎
+y4	布
+y5	姿
+y6	
+y7	
+y8	庶
+y9	
+y0	欄
+yq	歩
+yw	キ
+ye	や
+yr	コ
+yt	ナ
+yy	佐
+yu	接
+yi	記
+yo	モ
+yp	無
+ya	中
+ys	わ
+yd	う
+yf	あ
+yg	本
+yh	む
+yj	ケ
+yk	話
+yl	べ
+y;	期
+yz	店
+yx	全
+yc	バ
+yv	後
+yb	問
+yn	洗
+ym	響
+y,	司
+y.	復
+y/	担
+u1	境
+u2	賀
+u3	喜
+u4	苦
+u5	絶
+u6	
+u7	星
+u8	粧
+u9	乃
+u0	龍
+uq	回
+uw	せ
+ue	出
+ur	山
+ut	金
+uy	法
+uu	備
+ui	朝
+uo	資
+up	石
+ua	ス
+us	ラ
+ud	4
+uf	こ
+ug	さ
+uh	南
+uj	式
+uk	座
+ul	民
+u;	ゾ
+uz	持
+ux	じ
+uc	部
+uv	間
+ub	ム
+un	羽
+um	忘
+u,	迎
+u.	並
+u/	陸
+i1	系
+i2	岸
+i3	幹
+i4	圧
+i5	密
+i6	
+i7	析
+i8	丈
+i9	如
+i0	略
+iq	務
+iw	区
+ie	タ
+ir	者
+it	マ
+iy	数
+iu	最
+ii	知
+io	士
+ip	屋
+ia	も
+is	東
+id	)
+if	6
+ig	ら
+ih	原
+ij	戦
+ik	線
+il	ソ
+i;	歳
+iz	町
+ix	自
+ic	六
+iv	場
+ib	七
+in	個
+im	討
+i,	華
+i.	浦
+i/	巻
+o1	探
+o2	責
+o3	丘
+o4	恵
+o5	秘
+o6	
+o7	遷
+o8	称
+o9	尼
+o0	慮
+oq	島
+ow	百
+oe	手
+or	発
+ot	和
+oy	郎
+ou	急
+oi	ワ
+oo	費
+op	解
+oa	お
+os	生
+od	十
+of	学
+og	高
+oh	駅
+oj	関
+ok	ダ
+ol	点
+o;	強
+oz	所
+ox	議
+oc	経
+ov	ニ
+ob	住
+on	医
+om	史
+o,	許
+o.	ユ
+o/	競
+p1	象
+p2	漁
+p3	糖
+p4	固
+p5	押
+p6	
+p7	宣
+p8	蒸
+p9	帳
+p0	累
+pq	開
+pw	木
+pe	保
+pr	立
+pt	女
+py	談
+pu	験
+pi	送
+po	ィ
+pp	募
+pa	定
+ps	ろ
+pd	リ
+pf	月
+pg	シ
+ph	物
+pj	男
+pk	橋
+pl	遇
+p;	係
+pz	ほ
+px	明
+pc	動
+pv	産
+pb	北
+pn	静
+pm	環
+p,	補
+p.	冷
+p/	護
+a1	ゎ
+a2	於
+a3	奇
+a4	巧
+a5	
+a6	償
+a7	紅
+a8	舗
+a9	輪
+a0	則
+aq	報
+aw	音
+ae	案
+ar	横
+at	崎
+ay	服
+au	変
+ai	限
+ao	逆
+ap	令
+aa	種
+as	宅
+ad	料
+af	受
+ag	英
+ah	勢
+aj	輸
+ak	基
+al	足
+a;	婦
+az	件
+ax	宮
+ac	局
+av	向
+ab	割
+an	億
+am	色
+a,	左
+a.	ぬ
+a/	根
+s1	ゐ
+s2	汚
+s3	既
+s4	克
+s5	
+s6	欧
+s7	傷
+s8	充
+s9	倒
+s0	存
+sq	紙
+sw	王
+se	曲
+sr	興
+st	白
+sy	声
+su	審
+si	研
+so	企
+sp	違
+sa	岡
+ss	熟
+sd	土
+sf	予
+sg	ボ
+sh	必
+sj	形
+sk	好
+sl	草
+s;	段
+sz	友
+sx	伊
+sc	頭
+sv	府
+sb	ぶ
+sn	録
+sm	貸
+s,	態
+s.	展
+s/	様
+d1	ゑ
+d2	乙
+d3	菊
+d4	懇
+d5	
+d6	努
+d7	豪
+d8	喫
+d9	操
+d0	倍
+dq	館
+dw	放
+de	情
+dr	刺
+dt	ぐ
+dy	任
+du	改
+di	労
+do	精
+dp	装
+da	結
+ds	待
+dd	活
+df	切
+dg	加
+dh	講
+dj	助
+dk	味
+dl	築
+d;	衛
+dz	卒
+dx	求
+dc	配
+dv	富
+db	番
+dn	赤
+dm	販
+d,	花
+d.	警
+d/	独
+f1	
+f2	穏
+f3	却
+f4	困
+f5	
+f6	底
+f7	維
+f8	腕
+f9	柄
+f0	牛
+fq	夜
+fw	々
+fe	引
+fr	側
+ft	官
+fy	検
+fu	昇
+fi	統
+fo	ざ
+fp	然
+fa	進
+fs	取
+fd	ね
+ff	育
+fg	室
+fh	愛
+fj11	
+fj12	
+fj13	
+fj14	
+fj15	
+fj16	
+fj17	
+fj18	
+fj19	
+fj10	
+fj1q	佗
+fj1w	佇
+fj1e	佶
+fj1r	侈
+fj1t	侏
+fj1y	侘
+fj1u	佻
+fj1i	佩
+fj1o	佰
+fj1p	侑
+fj1a	佯
+fj1s	來
+fj1d	侖
+fj1f	儘
+fj1g	俔
+fj1h	俟
+fj1j	俎
+fj1k	俘
+fj1l	俛
+fj1;	俑
+fj1z	俚
+fj1x	俐
+fj1c	俤
+fj1v	俥
+fj1b	倚
+fj1n	倨
+fj1m	倔
+fj1,	倪
+fj1.	倥
+fj1/	倅
+fj21	
+fj22	
+fj23	
+fj24	
+fj25	
+fj26	
+fj27	
+fj28	
+fj29	
+fj20	
+fj2q	伜
+fj2w	俶
+fj2e	倡
+fj2r	倩
+fj2t	倬
+fj2y	俾
+fj2u	俯
+fj2i	們
+fj2o	倆
+fj2p	偃
+fj2a	假
+fj2s	會
+fj2d	偕
+fj2f	偐
+fj2g	偈
+fj2h	做
+fj2j	偖
+fj2k	偬
+fj2l	偸
+fj2;	傀
+fj2z	傚
+fj2x	傅
+fj2c	傴
+fj2v	僉
+fj2b	僊
+fj2n	傳
+fj2m	僂
+fj2,	僖
+fj2.	僞
+fj2/	僥
+fj31	
+fj32	
+fj33	
+fj34	
+fj35	
+fj36	
+fj37	
+fj38	
+fj39	
+fj30	
+fj3q	Α
+fj3w	Β
+fj3e	Γ
+fj3r	Δ
+fj3t	Ε
+fj3y	Ζ
+fj3u	Η
+fj3i	Θ
+fj3o	Ι
+fj3p	Κ
+fj3a	Λ
+fj3s	Μ
+fj3d	Ν
+fj3f	Ξ
+fj3g	Ο
+fj3h	Π
+fj3j	Ρ
+fj3k	Σ
+fj3l	Τ
+fj3;	Υ
+fj3z	Φ
+fj3x	Χ
+fj3c	Ψ
+fj3v	Ω
+fj3b	
+fj3n	
+fj3m	
+fj3,	
+fj3.	
+fj3/	
+fj41	
+fj42	
+fj43	
+fj44	
+fj45	
+fj46	
+fj47	
+fj48	
+fj49	
+fj40	
+fj4q	Ａ
+fj4w	Ｂ
+fj4e	Ｃ
+fj4r	Ｄ
+fj4t	Ｅ
+fj4y	Ｆ
+fj4u	Ｇ
+fj4i	Ｈ
+fj4o	Ｉ
+fj4p	Ｊ
+fj4a	Ｋ
+fj4s	Ｌ
+fj4d	Ｍ
+fj4f	Ｎ
+fj4g	Ｏ
+fj4h	Ｐ
+fj4j	Ｑ
+fj4k	Ｒ
+fj4l	Ｓ
+fj4;	Ｔ
+fj4z	Ｕ
+fj4x	Ｖ
+fj4c	Ｗ
+fj4v	Ｘ
+fj4b	Ｙ
+fj4n	Ｚ
+fj4m	
+fj4,	
+fj4.	
+fj4/	
+fj51	Э
+fj52	Ю
+fj53	Я
+fj54	
+fj55	
+fj56	
+fj57	
+fj58	
+fj59	
+fj50	
+fj5q	А
+fj5w	Б
+fj5e	В
+fj5r	Г
+fj5t	Д
+fj5y	Е
+fj5u	Ё
+fj5i	Ж
+fj5o	З
+fj5p	И
+fj5a	Й
+fj5s	К
+fj5d	Л
+fj5f	М
+fj5g	Н
+fj5h	О
+fj5j	П
+fj5k	Р
+fj5l	С
+fj5;	Т
+fj5z	У
+fj5x	Ф
+fj5c	Х
+fj5v	Ц
+fj5b	Ч
+fj5n	Ш
+fj5m	Щ
+fj5,	Ъ
+fj5.	Ы
+fj5/	Ь
+fj61	э
+fj62	ю
+fj63	я
+fj64	
+fj65	
+fj66	
+fj67	
+fj68	
+fj69	
+fj60	
+fj6q	а
+fj6w	б
+fj6e	в
+fj6r	г
+fj6t	д
+fj6y	е
+fj6u	ё
+fj6i	ж
+fj6o	з
+fj6p	и
+fj6a	й
+fj6s	к
+fj6d	л
+fj6f	м
+fj6g	н
+fj6h	о
+fj6j	п
+fj6k	р
+fj6l	с
+fj6;	т
+fj6z	у
+fj6x	ф
+fj6c	х
+fj6v	ц
+fj6b	ч
+fj6n	ш
+fj6m	щ
+fj6,	ъ
+fj6.	ы
+fj6/	ь
+fj71	
+fj72	
+fj73	
+fj74	
+fj75	
+fj76	
+fj77	
+fj78	
+fj79	
+fj70	
+fj7q	ａ
+fj7w	ｂ
+fj7e	ｃ
+fj7r	ｄ
+fj7t	ｅ
+fj7y	ｆ
+fj7u	ｇ
+fj7i	ｈ
+fj7o	ｉ
+fj7p	ｊ
+fj7a	ｋ
+fj7s	ｌ
+fj7d	ｍ
+fj7f	ｎ
+fj7g	ｏ
+fj7h	ｐ
+fj7j	ｑ
+fj7k	ｒ
+fj7l	ｓ
+fj7;	ｔ
+fj7z	ｕ
+fj7x	ｖ
+fj7c	ｗ
+fj7v	ｘ
+fj7b	ｙ
+fj7n	ｚ
+fj7m	
+fj7,	
+fj7.	
+fj7/	
+fj81	
+fj82	
+fj83	
+fj84	
+fj85	
+fj86	
+fj87	
+fj88	
+fj89	
+fj80	
+fj8q	α
+fj8w	β
+fj8e	γ
+fj8r	δ
+fj8t	ε
+fj8y	ζ
+fj8u	η
+fj8i	θ
+fj8o	ι
+fj8p	κ
+fj8a	λ
+fj8s	μ
+fj8d	ν
+fj8f	ξ
+fj8g	ο
+fj8h	π
+fj8j	ρ
+fj8k	σ
+fj8l	τ
+fj8;	υ
+fj8z	φ
+fj8x	χ
+fj8c	ψ
+fj8v	ω
+fj8b	
+fj8n	
+fj8m	
+fj8,	
+fj8.	
+fj8/	
+fj91	
+fj92	
+fj93	
+fj94	
+fj95	
+fj96	
+fj97	
+fj98	
+fj99	
+fj90	
+fj9q	僭
+fj9w	僣
+fj9e	僮
+fj9r	價
+fj9t	僵
+fj9y	儉
+fj9u	儁
+fj9i	儂
+fj9o	儖
+fj9p	儕
+fj9a	儔
+fj9s	儚
+fj9d	儡
+fj9f	儺
+fj9g	儷
+fj9h	儼
+fj9j	儻
+fj9k	儿
+fj9l	兀
+fj9;	兒
+fj9z	兌
+fj9x	兔
+fj9c	兢
+fj9v	竸
+fj9b	兩
+fj9n	兪
+fj9m	兮
+fj9,	冀
+fj9.	冂
+fj9/	囘
+fj01	
+fj02	
+fj03	
+fj04	
+fj05	
+fj06	
+fj07	
+fj08	
+fj09	
+fj00	
+fj0q	册
+fj0w	冉
+fj0e	冏
+fj0r	冑
+fj0t	冓
+fj0y	冕
+fj0u	冖
+fj0i	冤
+fj0o	冦
+fj0p	冢
+fj0a	冩
+fj0s	冪
+fj0d	冫
+fj0f	决
+fj0g	冱
+fj0h	冲
+fj0j	冰
+fj0k	况
+fj0l	冽
+fj0;	凅
+fj0z	凉
+fj0x	凛
+fj0c	几
+fj0v	處
+fj0b	凩
+fj0n	凭
+fj0m	凰
+fj0,	凵
+fj0.	凾
+fj0/	刄
+fjq1	
+fjq2	
+fjq3	
+fjq4	
+fjq5	
+fjq6	肱
+fjq7	腔
+fjq8	膏
+fjq9	砿
+fjq0	閤
+fjqq	叡
+fjqw	餌
+fjqe	荏
+fjqr	云
+fjqt	噂
+fjqy	鴻
+fjqu	劫
+fjqi	壕
+fjqo	濠
+fjqp	轟
+fjqa	穎
+fjqs	盈
+fjqd	瑛
+fjqf	洩
+fjqg	嬰
+fjqh	麹
+fjqj	鵠
+fjqk	漉
+fjql	甑
+fjq;	忽
+fjqz	奄
+fjqx	堰
+fjqc	厭
+fjqv	榎
+fjqb	頴
+fjqn	惚
+fjqm	狛
+fjq,	此
+fjq.	坤
+fjq/	梱
+fjw1	
+fjw2	
+fjw3	
+fjw4	
+fjw5	
+fjw6	梧
+fjw7	檎
+fjw8	瑚
+fjw9	醐
+fjw0	鯉
+fjwq	窺
+fjww	鵜
+fjwe	卯
+fjwr	迂
+fjwt	烏
+fjwy	佼
+fjwu	倖
+fjwi	勾
+fjwo	喉
+fjwp	垢
+fjwa	蔚
+fjws	欝
+fjwd	唄
+fjwf	嘘
+fjwg	碓
+fjwh	宏
+fjwj	巷
+fjwk	庚
+fjwl	昂
+fjw;	晃
+fjwz	閏
+fjwx	瓜
+fjwc	厩
+fjwv	姥
+fjwb	鰻
+fjwn	杭
+fjwm	梗
+fjw,	浩
+fjw.	糠
+fjw/	紘
+fje1	
+fje2	
+fje3	
+fje4	
+fje5	
+fje6	捲
+fje7	硯
+fje8	鍵
+fje9	鹸
+fje0	絃
+fjeq	郁
+fjew	亥
+fjee	謂
+fjer	萎
+fjet	畏
+fjey	舷
+fjeu	諺
+fjei	乎
+fjeo	姑
+fjep	狐
+fjea	允
+fjes	鰯
+fjed	茨
+fjef	溢
+fjeg	磯
+fjeh	糊
+fjej	袴
+fjek	股
+fjel	胡
+fje;	菰
+fjez	吋
+fjex	蔭
+fjec	胤
+fjev	淫
+fjeb	咽
+fjen	虎
+fjem	跨
+fje,	鈷
+fje.	伍
+fje/	吾
+fjr1	
+fjr2	
+fjr3	
+fjr4	
+fjr5	
+fjr6	袈
+fjr7	祁
+fjr8	圭
+fjr9	珪
+fjr0	慧
+fjrq	鮎
+fjrw	綾
+fjre	絢
+fjrr	飴
+fjrt	虻
+fjry	桂
+fjru	畦
+fjri	稽
+fjro	繋
+fjrp	罫
+fjra	闇
+fjrs	按
+fjrd	袷
+fjrf	粟
+fjrg	或
+fjrh	荊
+fjrj	詣
+fjrk	頚
+fjrl	戟
+fjr;	隙
+fjrz	椅
+fjrx	惟
+fjrc	夷
+fjrv	杏
+fjrb	鞍
+fjrn	桁
+fjrm	訣
+fjr,	倦
+fjr.	喧
+fjr/	拳
+fjt1	
+fjt2	
+fjt3	
+fjt4	
+fjt5	
+fjt6	矩
+fjt7	躯
+fjt8	駈
+fjt9	駒
+fjt0	喰
+fjtq	葵
+fjtw	姶
+fjte	挨
+fjtr	娃
+fjtt	唖
+fjty	寓
+fjtu	串
+fjti	櫛
+fjto	釧
+fjtp	屑
+fjta	葦
+fjts	旭
+fjtd	渥
+fjtf	穐
+fjtg	茜
+fjth	窟
+fjtj	沓
+fjtk	轡
+fjtl	窪
+fjt;	熊
+fjtz	姐
+fjtx	斡
+fjtc	梓
+fjtv	鯵
+fjtb	芦
+fjtn	隈
+fjtm	粂
+fjt,	栗
+fjt.	鍬
+fjt/	卦
+fjy1	庇
+fjy2	匪
+fjy3	蕃
+fjy4	磐
+fjy5	挽
+fjy6	
+fjy7	
+fjy8	
+fjy9	
+fjy0	
+fjyq	簸
+fjyw	樋
+fjye	誹
+fjyr	緋
+fjyt	斐
+fjyy	蒼
+fjyu	鎗
+fjyi	捉
+fjyo	袖
+fjyp	其
+fjya	柊
+fjys	眉
+fjyd	琵
+fjyf	毘
+fjyg	枇
+fjyh	揃
+fjyj	遜
+fjyk	汰
+fjyl	唾
+fjy;	柁
+fjyz	肘
+fjyx	膝
+fjyc	髭
+fjyv	疋
+fjyb	稗
+fjyn	舵
+fjym	楕
+fjy,	陀
+fjy.	騨
+fjy/	堆
+fju1	媛
+fju2	桧
+fju3	逼
+fju4	畢
+fju5	弼
+fju6	
+fju7	
+fju8	
+fju9	
+fju0	
+fjuq	廟
+fjuw	豹
+fjue	瓢
+fjur	彪
+fjut	謬
+fjuy	岱
+fjuu	戴
+fjui	腿
+fjuo	苔
+fjup	黛
+fjua	鰭
+fjus	蛭
+fjud	蒜
+fjuf	鋲
+fjug	錨
+fjuh	鯛
+fjuj	醍
+fjuk	鷹
+fjul	瀧
+fju;	啄
+fjuz	冨
+fjux	埠
+fjuc	瀕
+fjuv	斌
+fjub	彬
+fjun	托
+fjum	琢
+fju,	鐸
+fju.	茸
+fju/	凧
+fji1	葡
+fji2	撫
+fji3	阜
+fji4	芙
+fji5	斧
+fji6	
+fji7	
+fji8	
+fji9	
+fji0	
+fjiq	淵
+fjiw	蕗
+fjie	葺
+fjir	楓
+fjit	蕪
+fjiy	蛸
+fjiu	只
+fjii	叩
+fjio	辰
+fjip	巽
+fjia	焚
+fjis	扮
+fjid	吻
+fjif	鮒
+fjig	弗
+fjih	竪
+fjij	辿
+fjik	狸
+fjil	鱈
+fji;	樽
+fjiz	碧
+fjix	僻
+fjic	頁
+fjiv	蔽
+fjib	糞
+fjin	坦
+fjim	旦
+fji,	歎
+fji.	湛
+fji/	箪
+fjo1	娩
+fjo2	篇
+fjo3	箆
+fjo4	蔑
+fjo5	瞥
+fjo6	
+fjo7	
+fjo8	
+fjo9	
+fjo0	
+fjoq	輔
+fjow	甫
+fjoe	圃
+fjor	鋪
+fjot	鞭
+fjoy	綻
+fjou	耽
+fjoi	蛋
+fjoo	檀
+fjop	弛
+fjoa	庖
+fjos	峯
+fjod	呆
+fjof	菩
+fjog	戊
+fjoh	智
+fjoj	蜘
+fjok	馳
+fjol	筑
+fjo;	註
+fjoz	蓬
+fjox	萌
+fjoc	烹
+fjov	朋
+fjob	捧
+fjon	酎
+fjom	樗
+fjo,	瀦
+fjo.	猪
+fjo/	苧
+fjp1	鉾
+fjp2	鵬
+fjp3	鳳
+fjp4	鋒
+fjp5	蜂
+fjp6	
+fjp7	
+fjp8	
+fjp9	
+fjp0	
+fjpq	釦
+fjpw	穆
+fjpe	睦
+fjpr	頬
+fjpt	吠
+fjpy	凋
+fjpu	喋
+fjpi	寵
+fjpo	帖
+fjpp	暢
+fjpa	哩
+fjps	昧
+fjpd	幌
+fjpf	殆
+fjpg	勃
+fjph	牒
+fjpj	蝶
+fjpk	諜
+fjpl	銚
+fjp;	捗
+fjpz	鱒
+fjpx	柾
+fjpc	鮪
+fjpv	枕
+fjpb	槙
+fjpn	椎
+fjpm	槌
+fjp,	鎚
+fjp.	栂
+fjp/	掴
+fja1	
+fja2	
+fja3	
+fja4	
+fja5	
+fja6	蒐
+fja7	讐
+fja8	蹴
+fja9	酋
+fja0	什
+fjaq	鰹
+fjaw	葛
+fjae	恰
+fjar	鰍
+fjat	梶
+fjay	戎
+fjau	夙
+fjai	峻
+fjao	竣
+fjap	舜
+fjaa	兜
+fjas	鞄
+fjad	樺
+fjaf	椛
+fjag	叶
+fjah	駿
+fjaj	楯
+fjak	淳
+fjal	醇
+fja;	曙
+fjaz	噛
+fjax	鎌
+fjac	釜
+fjav	蒲
+fjab	竃
+fjan	渚
+fjam	薯
+fja,	藷
+fja.	恕
+fja/	鋤
+fjs1	
+fjs2	
+fjs3	
+fjs4	
+fjs5	
+fjs6	叱
+fjs7	嫉
+fjs8	悉
+fjs9	蔀
+fjs0	篠
+fjsq	柿
+fjsw	蛙
+fjse	馨
+fjsr	浬
+fjst	骸
+fjsy	偲
+fjsu	柴
+fjsi	屡
+fjso	蕊
+fjsp	縞
+fjsa	撹
+fjss	廓
+fjsd	劃
+fjsf	鈎
+fjsg	蛎
+fjsh	紗
+fjsj	杓
+fjsk	灼
+fjsl	錫
+fjs;	惹
+fjsz	橿
+fjsx	樫
+fjsc	笠
+fjsv	顎
+fjsb	赫
+fjsn	腫
+fjsm	呪
+fjs,	綬
+fjs.	洲
+fjs/	繍
+fjd1	
+fjd2	
+fjd3	
+fjd4	
+fjd5	
+fjd6	燦
+fjd7	珊
+fjd8	纂
+fjd9	讃
+fjd0	餐
+fjdq	恢
+fjdw	廻
+fjde	駕
+fjdr	蛾
+fjdt	臥
+fjdy	斬
+fjdu	仔
+fjdi	屍
+fjdo	孜
+fjdp	斯
+fjda	凱
+fjds	蟹
+fjdd	芥
+fjdf	晦
+fjdg	魁
+fjdh	獅
+fjdj	爾
+fjdk	痔
+fjdl	而
+fjd;	蒔
+fjdz	鎧
+fjdx	蓋
+fjdc	碍
+fjdv	崖
+fjdb	咳
+fjdn	汐
+fjdm	鴫
+fjd,	竺
+fjd.	宍
+fjd/	雫
+fjf1	
+fjf2	
+fjf3	
+fjf4	
+fjf5	
+fjf6	埼
+fjf7	碕
+fjf8	鷺
+fjf9	咋
+fjf0	朔
+fjfq	嘉
+fjfw	伽
+fjfe	俺
+fjfr	牡
+fjft	桶
+fjfy	柵
+fjfu	窄
+fjfi	鮭
+fjfo	笹
+fjfp	匙
+fjfa	蝦
+fjfs	茄
+fjfd	苛
+fjff	禾
+fjfg	珂
+fjfh	拶
+fjfj	
+fjfk	薩
+fjfl	皐
+fjf;	鯖
+fjfz	峨
+fjfx	俄
+fjfc	霞
+fjfv	迦
+fjfb	嘩
+fjfn	捌
+fjfm	錆
+fjf,	鮫
+fjf.	晒
+fjf/	撒
+fjg1	
+fjg2	
+fjg3	
+fjg4	
+fjg5	
+fjg6	痕
+fjg7	艮
+fjg8	些
+fjg9	叉
+fjg0	嵯
+fjgq	艶
+fjgw	燕
+fjge	焔
+fjgr	掩
+fjgt	怨
+fjgy	沙
+fjgu	瑳
+fjgi	裟
+fjgo	坐
+fjgp	挫
+fjga	旺
+fjgs	甥
+fjgd	鴛
+fjgf	薗
+fjgg	苑
+fjgh	哉
+fjgj	塞
+fjgk	采
+fjgl	犀
+fjg;	砦
+fjgz	臆
+fjgx	荻
+fjgc	鴎
+fjgv	鴬
+fjgb	襖
+fjgn	冴
+fjgm	阪
+fjg,	堺
+fjg.	榊
+fjg/	肴
+fjh1	迄
+fjh2	沫
+fjh3	俣
+fjh4	亦
+fjh5	桝
+fjh6	
+fjh7	
+fjh8	
+fjh9	
+fjh0	
+fjhq	蜜
+fjhw	箕
+fjhe	蔓
+fjhr	麿
+fjht	侭
+fjhy	槻
+fjhu	佃
+fjhi	柘
+fjho	辻
+fjhp	蔦
+fjha	牟
+fjhs	粍
+fjhd	稔
+fjhf	蓑
+fjhg	湊
+fjhh	綴
+fjhj	鍔
+fjhk	椿
+fjhl	潰
+fjh;	壷
+fjhz	牝
+fjhx	姪
+fjhc	冥
+fjhv	椋
+fjhb	鵡
+fjhn	嬬
+fjhm	紬
+fjh,	吊
+fjh.	剃
+fjh/	悌
+fjj1	孟
+fjj2	摸
+fjj3	麺
+fjj4	緬
+fjj5	棉
+fjj6	
+fjj7	
+fjj8	
+fjj9	
+fjj0	
+fjjq	餅
+fjjw	勿
+fjje	杢
+fjjr	儲
+fjjt	蒙
+fjjy	挺
+fjju	梯
+fjji	汀
+fjjo	碇
+fjjp	禎
+fjja	悶
+fjjs	貰
+fjjd	籾
+fjjf	
+fjjg	尤
+fjjh	諦
+fjjj	蹄
+fjjk	鄭
+fjjl	釘
+fjj;	鼎
+fjjz	弥
+fjjx	耶
+fjjc	爺
+fjjv	冶
+fjjb	也
+fjjn	擢
+fjjm	鏑
+fjj,	溺
+fjj.	轍
+fjj/	填
+fjk1	佑
+fjk2	愈
+fjk3	鑓
+fjk4	薮
+fjk5	靖
+fjk6	
+fjk7	
+fjk8	
+fjk9	
+fjk0	
+fjkq	涌
+fjkw	湧
+fjke	柚
+fjkr	揖
+fjkt	宥
+fjky	纏
+fjku	甜
+fjki	貼
+fjko	顛
+fjkp	澱
+fjka	傭
+fjks	輿
+fjkd	邑
+fjkf	祐
+fjkg	猷
+fjkh	兎
+fjkj	堵
+fjkk	妬
+fjkl	屠
+fjk;	杜
+fjkz	蓉
+fjkx	耀
+fjkc	熔
+fjkv	楊
+fjkb	妖
+fjkn	菟
+fjkm	賭
+fjk,	鍍
+fjk.	砥
+fjk/	砺
+fjl1	螺
+fjl2	淀
+fjl3	沃
+fjl4	慾
+fjl5	遥
+fjl6	
+fjl7	
+fjl8	
+fjl9	
+fjl0	
+fjlq	蘭
+fjlw	藍
+fjle	嵐
+fjlr	洛
+fjlt	莱
+fjly	塘
+fjlu	套
+fjli	宕
+fjlo	嶋
+fjlp	梼
+fjla	葎
+fjls	裡
+fjld	璃
+fjlf	梨
+fjlg	李
+fjlh	淘
+fjlj	涛
+fjlk	燈
+fjll	祷
+fjl;	董
+fjlz	侶
+fjlx	琉
+fjlc	溜
+fjlv	劉
+fjlb	掠
+fjln	蕩
+fjlm	鐙
+fjl,	憧
+fjl.	撞
+fjl/	萄
+fj;1	稜
+fj;2	瞭
+fj;3	梁
+fj;4	凌
+fj;5	亮
+fj;6	
+fj;7	
+fj;8	
+fj;9	
+fj;0	
+fj;q	琳
+fj;w	燐
+fj;e	淋
+fj;r	遼
+fj;t	諒
+fj;y	鴇
+fj;u	涜
+fj;i	禿
+fj;o	栃
+fj;p	橡
+fj;a	嶺
+fj;s	伶
+fj;d	瑠
+fj;f	麟
+fj;g	鱗
+fj;h	椴
+fj;j	鳶
+fj;k	苫
+fj;l	寅
+fj;;	酉
+fj;z	漣
+fj;x	憐
+fj;c	苓
+fj;v	玲
+fj;b	怜
+fj;n	瀞
+fj;m	噸
+fj;,	惇
+fj;.	敦
+fj;/	沌
+fjz1	
+fjz2	
+fjz3	
+fjz4	
+fjz5	
+fjz6	岨
+fjz7	曾
+fjz8	曽
+fjz9	楚
+fjz0	狙
+fjzq	僅
+fjzw	粁
+fjze	桐
+fjzr	尭
+fjzt	饗
+fjzy	疏
+fjzu	蘇
+fjzi	遡
+fjzo	叢
+fjzp	爽
+fjza	禽
+fjzs	欽
+fjzd	欣
+fjzf	錦
+fjzg	巾
+fjzh	宋
+fjzj	匝
+fjzk	惣
+fjzl	掻
+fjz;	槍
+fjzz	玖
+fjzx	狗
+fjzc	倶
+fjzv	衿
+fjzb	芹
+fjzn	漕
+fjzm	痩
+fjz,	糟
+fjz.	綜
+fjz/	聡
+fjx1	
+fjx2	
+fjx3	
+fjx4	
+fjx5	
+fjx6	脊
+fjx7	蹟
+fjx8	碩
+fjx9	蝉
+fjx0	尖
+fjxq	禦
+fjxw	鋸
+fjxe	渠
+fjxr	笈
+fjxt	灸
+fjxy	撰
+fjxu	栴
+fjxi	煎
+fjxo	煽
+fjxp	穿
+fjxa	匡
+fjxs	兇
+fjxd	僑
+fjxf	侠
+fjxg	亨
+fjxh	箭
+fjxj	羨
+fjxk	腺
+fjxl	舛
+fjx;	詮
+fjxz	蕎
+fjxx	怯
+fjxc	彊
+fjxv	喬
+fjxb	卿
+fjxn	賎
+fjxm	閃
+fjx,	膳
+fjx.	糎
+fjx/	噌
+fjc1	
+fjc2	
+fjc3	
+fjc4	
+fjc5	
+fjc6	諏
+fjc7	厨
+fjc8	逗
+fjc9	翠
+fjc0	錐
+fjcq	誼
+fjcw	蟻
+fjce	祇
+fjcr	妓
+fjct	亀
+fjcy	瑞
+fjcu	嵩
+fjci	雛
+fjco	椙
+fjcp	菅
+fjca	橘
+fjcs	桔
+fjcd	吃
+fjcf	鞠
+fjcg	掬
+fjch	頗
+fjcj	雀
+fjck	裾
+fjcl	摺
+fjc;	凄
+fjcz	汲
+fjcx	仇
+fjcc	黍
+fjcv	杵
+fjcb	砧
+fjcn	棲
+fjcm	栖
+fjc,	醒
+fjc.	脆
+fjc/	戚
+fjv1	
+fjv2	
+fjv3	
+fjv4	
+fjv5	
+fjv6	丞
+fjv7	擾
+fjv8	杖
+fjv9	穣
+fjv0	埴
+fjvq	玩
+fjvw	巌
+fjve	舘
+fjvr	韓
+fjvt	諌
+fjvy	拭
+fjvu	燭
+fjvi	蝕
+fjvo	尻
+fjvp	晋
+fjva	伎
+fjvs	雁
+fjvd	贋
+fjvf	翫
+fjvg	癌
+fjvh	榛
+fjvj	疹
+fjvk	秦
+fjvl	芯
+fjv;	塵
+fjvz	徽
+fjvx	稀
+fjvc	畿
+fjvv	毅
+fjvb	嬉
+fjvn	壬
+fjvm	腎
+fjv,	訊
+fjv.	靭
+fjv/	笥
+fjb1	
+fjb2	
+fjb3	
+fjb4	
+fjb5	
+fjb6	哨
+fjb7	嘗
+fjb8	妾
+fjb9	娼
+fjb0	庄
+fjbq	粥
+fjbw	萱
+fjbe	茅
+fjbr	栢
+fjbt	鴨
+fjby	廠
+fjbu	捷
+fjbi	昌
+fjbo	梢
+fjbp	樟
+fjba	桓
+fjbs	柑
+fjbd	姦
+fjbf	侃
+fjbg	苅
+fjbh	樵
+fjbj	湘
+fjbk	菖
+fjbl	蒋
+fjb;	蕉
+fjbz	莞
+fjbx	翰
+fjbc	竿
+fjbv	潅
+fjbb	澗
+fjbn	裳
+fjbm	醤
+fjb,	鉦
+fjb.	鍾
+fjb/	鞘
+fjn1	呂
+fjn2	蓮
+fjn3	聯
+fjn4	簾
+fjn5	煉
+fjn6	
+fjn7	
+fjn8	
+fjn9	
+fjn0	
+fjnq	弄
+fjnw	婁
+fjne	賂
+fjnr	櫓
+fjnt	魯
+fjny	遁
+fjnu	頓
+fjni	呑
+fjno	那
+fjnp	乍
+fjna	聾
+fjns	篭
+fjnd	狼
+fjnf	牢
+fjng	榔
+fjnh	凪
+fjnj	薙
+fjnk	謎
+fjnl	灘
+fjn;	捺
+fjnz	倭
+fjnx	肋
+fjnc	禄
+fjnv	麓
+fjnb	蝋
+fjnn	鍋
+fjnm	楢
+fjn,	馴
+fjn.	畷
+fjn/	楠
+fjm1	亘
+fjm2	亙
+fjm3	鷲
+fjm4	脇
+fjm5	歪
+fjm6	
+fjm7	
+fjm8	
+fjm9	
+fjm0	
+fjmq	椀
+fjmw	蕨
+fjme	藁
+fjmr	詫
+fjmt	鰐
+fjmy	汝
+fjmu	迩
+fjmi	匂
+fjmo	賑
+fjmp	虹
+fjma	哺
+fjms	刹
+fjmd	傲
+fjmf	丼
+fjmg	碗
+fjmh	廿
+fjmj	韮
+fjmk	濡
+fjml	禰
+fjm;	祢
+fjmz	彙
+fjmx	毀
+fjmc	嘲
+fjmv	嗅
+fjmb	喩
+fjmn	葱
+fjmm	捻
+fjm,	撚
+fjm.	廼
+fjm/	埜
+fj,1	拉
+fj,2	憬
+fj,3	慄
+fj,4	惧
+fj,5	恣
+fj,6	
+fj,7	
+fj,8	
+fj,9	
+fj,0	
+fj,q	璧
+fj,w	鬱
+fj,e	楷
+fj,r	曖
+fj,t	摯
+fj,y	嚢
+fj,u	膿
+fj,i	覗
+fj,o	蚤
+fj,p	播
+fj,a	羞
+fj,s	緻
+fj,d	籠
+fj,f	箋
+fj,g	瘍
+fj,h	杷
+fj,j	琶
+fj,k	罵
+fj,l	芭
+fj,;	盃
+fj,z	辣
+fj,x	踪
+fj,c	貪
+fj,v	諧
+fj,b	訃
+fj,n	牌
+fj,m	楳
+fj,,	煤
+fj,.	狽
+fj,/	這
+fj.1	弌
+fj.2	丐
+fj.3	丕
+fj.4	个
+fj.5	錮
+fj.6	
+fj.7	
+fj.8	
+fj.9	
+fj.0	
+fj.q	丱
+fj.w	丶
+fj.e	丿
+fj.r	乂
+fj.t	乖
+fj.y	蝿
+fj.u	秤
+fj.i	矧
+fj.o	萩
+fj.p	剥
+fj.a	乘
+fj.s	亂
+fj.d	亅
+fj.f	豫
+fj.g	亊
+fj.h	柏
+fj.j	箔
+fj.k	粕
+fj.l	曝
+fj.;	莫
+fj.z	舒
+fj.x	弍
+fj.c	于
+fj.v	亞
+fj.b	亟
+fj.n	駁
+fj.m	函
+fj.,	硲
+fj..	箸
+fj./	肇
+fj/1	亠
+fj/2	亢
+fj/3	亰
+fj/4	亳
+fj/5	亶
+fj/6	
+fj/7	
+fj/8	
+fj/9	
+fj/0	
+fj/q	从
+fj/w	仍
+fj/e	仄
+fj/r	仆
+fj/t	仂
+fj/y	筈
+fj/u	櫨
+fj/i	畠
+fj/o	溌
+fj/p	醗
+fj/a	仗
+fj/s	仞
+fj/d	仭
+fj/f	仟
+fj/g	价
+fj/h	筏
+fj/j	鳩
+fj/k	噺
+fj/l	塙
+fj/;	蛤
+fj/z	伉
+fj/x	佚
+fj/c	估
+fj/v	佛
+fj/b	佝
+fj/n	隼
+fj/m	叛
+fj/,	斑
+fj/.	氾
+fj//	釆
+fk	宝
+fl	観
+f;	額
+fz	初
+fx	技
+fc	黒
+fv	直
+fb	望
+fn	想
+fm	編
+f,	栄
+f.	型
+f/	止
+g1	
+g2	
+g3	享
+g4	昏
+g5	
+g6	亜
+g7	脱
+g8	暴
+g9	魚
+g0	釈
+gq	位
+gw	応
+ge	職
+gr	覚
+gt	球
+gy	豊
+gu	芸
+gi	役
+go	印
+gp	確
+ga	真
+gs	科
+gd	参
+gf	池
+gg	少
+gh	管
+gj	流
+gk	争
+gl	言
+g;	渋
+gz	慣
+gx	写
+gc	院
+gv	倉
+gb	元
+gn	消
+gm	仕
+g,	ザ
+g.	誰
+g/	堂
+h1	盛
+h2	益
+h3	康
+h4	邦
+h5	衆
+h6	
+h7	鼠
+h8	
+h9	
+h0	
+hq	給
+hw	分
+he	7
+hr	き
+ht	上
+hy	美
+hu	宿
+hi	セ
+ho	神
+hp	優
+ha	3
+hs	ー
+hd	い
+hf	。
+hg	で
+hh	要
+hj	連
+hk	デ
+hl	車
+h;	主
+hz	行
+hx	通
+hc	だ
+hv	新
+hb	事
+hn	支
+hm	先
+h,	調
+h.	組
+h/	銀
+j1	革
+j2	援
+j3	徒
+j4	舞
+j5	節
+j6	
+j7	曹
+j8	
+j9	
+j0	
+jq	員
+jw	よ
+je	か
+jr	っ
+jt	く
+jy	題
+ju	制
+ji	運
+jo	び
+jp	公
+ja	と
+js	し
+jd	、
+jf11	
+jf12	
+jf13	
+jf14	
+jf15	
+jf16	
+jf17	
+jf18	
+jf19	
+jf10	
+jf1q	
+jf1w	
+jf1e	
+jf1r	
+jf1t	
+jf1y	
+jf1u	
+jf1i	┯
+jf1o	
+jf1p	
+jf1a	
+jf1s	
+jf1d	
+jf1f	
+jf1g	
+jf1h	┠
+jf1j	
+jf1k	
+jf1l	┿
+jf1;	┨
+jf1z	
+jf1x	
+jf1c	
+jf1v	
+jf1b	
+jf1n	
+jf1m	
+jf1,	┷
+jf1.	
+jf1/	
+jf21	
+jf22	
+jf23	
+jf24	
+jf25	
+jf26	
+jf27	
+jf28	
+jf29	
+jf20	
+jf2q	
+jf2w	
+jf2e	
+jf2r	
+jf2t	
+jf2y	┏
+jf2u	
+jf2i	┳
+jf2o	
+jf2p	┓
+jf2a	
+jf2s	
+jf2d	
+jf2f	
+jf2g	
+jf2h	┣
+jf2j	┃
+jf2k	━
+jf2l	╋
+jf2;	┫
+jf2z	
+jf2x	
+jf2c	
+jf2v	
+jf2b	
+jf2n	┗
+jf2m	
+jf2,	┻
+jf2.	
+jf2/	┛
+jf31	
+jf32	
+jf33	
+jf34	
+jf35	
+jf36	
+jf37	
+jf38	
+jf39	
+jf30	
+jf3q	
+jf3w	
+jf3e	
+jf3r	
+jf3t	
+jf3y	┌
+jf3u	
+jf3i	┬
+jf3o	
+jf3p	┐
+jf3a	
+jf3s	
+jf3d	
+jf3f	
+jf3g	
+jf3h	├
+jf3j	│
+jf3k	─
+jf3l	┼
+jf3;	┤
+jf3z	
+jf3x	
+jf3c	
+jf3v	
+jf3b	
+jf3n	└
+jf3m	
+jf3,	┴
+jf3.	
+jf3/	┘
+jf41	
+jf42	
+jf43	
+jf44	
+jf45	
+jf46	
+jf47	
+jf48	
+jf49	
+jf40	
+jf4q	
+jf4w	
+jf4e	
+jf4r	
+jf4t	
+jf4y	
+jf4u	
+jf4i	┰
+jf4o	
+jf4p	
+jf4a	
+jf4s	
+jf4d	
+jf4f	
+jf4g	
+jf4h	┝
+jf4j	
+jf4k	
+jf4l	╂
+jf4;	┥
+jf4z	
+jf4x	
+jf4c	
+jf4v	
+jf4b	
+jf4n	
+jf4m	
+jf4,	┸
+jf4.	
+jf4/	
+jf51	
+jf52	
+jf53	
+jf54	
+jf55	
+jf56	
+jf57	
+jf58	
+jf59	
+jf50	
+jf5q	
+jf5w	
+jf5e	
+jf5r	
+jf5t	
+jf5y	
+jf5u	
+jf5i	
+jf5o	
+jf5p	
+jf5a	
+jf5s	
+jf5d	
+jf5f	
+jf5g	
+jf5h	
+jf5j	
+jf5k	
+jf5l	
+jf5;	
+jf5z	
+jf5x	
+jf5c	
+jf5v	
+jf5b	
+jf5n	
+jf5m	
+jf5,	
+jf5.	
+jf5/	
+jf61	
+jf62	
+jf63	
+jf64	
+jf65	
+jf66	
+jf67	
+jf68	
+jf69	
+jf60	
+jf6q	￣
+jf6w	＾
+jf6e	｀
+jf6r	゜
+jf6t	
+jf6y	
+jf6u	
+jf6i	
+jf6o	
+jf6p	
+jf6a	＿
+jf6s	¨
+jf6d	´
+jf6f	゛
+jf6g	
+jf6h	
+jf6j	
+jf6k	
+jf6l	
+jf6;	
+jf6z	
+jf6x	
+jf6c	
+jf6v	
+jf6b	
+jf6n	
+jf6m	
+jf6,	
+jf6.	
+jf6/	
+jf71	
+jf72	
+jf73	
+jf74	
+jf75	
+jf76	
+jf77	
+jf78	
+jf79	
+jf70	
+jf7q	℃
+jf7w	″
+jf7e	′
+jf7r	°
+jf7t	Å
+jf7y	
+jf7u	
+jf7i	
+jf7o	
+jf7p	
+jf7a	£
+jf7s	¢
+jf7d	＄
+jf7f	￥
+jf7g	‰
+jf7h	
+jf7j	
+jf7k	
+jf7l	
+jf7;	
+jf7z	
+jf7x	
+jf7c	
+jf7v	
+jf7b	
+jf7n	
+jf7m	
+jf7,	
+jf7.	
+jf7/	
+jf81	
+jf82	
+jf83	
+jf84	
+jf85	
+jf86	
+jf87	
+jf88	
+jf89	
+jf80	
+jf8q	＜
+jf8w	≦
+jf8e	≧
+jf8r	＞
+jf8t	≠
+jf8y	
+jf8u	
+jf8i	
+jf8o	
+jf8p	
+jf8a	−
+jf8s	÷
+jf8d	×
+jf8f	＋
+jf8g	＝
+jf8h	
+jf8j	
+jf8k	
+jf8l	
+jf8;	
+jf8z	≪
+jf8x	≒
+jf8c	≡
+jf8v	≫
+jf8b	±
+jf8n	
+jf8m	
+jf8,	
+jf8.	
+jf8/	
+jf91	
+jf92	
+jf93	
+jf94	
+jf95	
+jf96	
+jf97	
+jf98	
+jf99	
+jf90	
+jf9q	√
+jf9w	♀
+jf9e	♂
+jf9r	∴
+jf9t	∞
+jf9y	
+jf9u	
+jf9i	
+jf9o	
+jf9p	
+jf9a	⌒
+jf9s	⊥
+jf9d	∠
+jf9f	∵
+jf9g	∽
+jf9h	
+jf9j	
+jf9k	
+jf9l	
+jf9;	
+jf9z	∬
+jf9x	∫
+jf9c	∇
+jf9v	∂
+jf9b	∝
+jf9n	
+jf9m	
+jf9,	
+jf9.	
+jf9/	
+jf01	
+jf02	
+jf03	
+jf04	
+jf05	
+jf06	
+jf07	
+jf08	
+jf09	
+jf00	
+jf0q	⊂
+jf0w	⊆
+jf0e	⊇
+jf0r	⊃
+jf0t	⇒
+jf0y	
+jf0u	
+jf0i	
+jf0o	
+jf0p	
+jf0a	∈
+jf0s	∋
+jf0d	∩
+jf0f	∪
+jf0g	⇔
+jf0h	
+jf0j	
+jf0k	
+jf0l	
+jf0;	
+jf0z	∃
+jf0x	∀
+jf0c	∧
+jf0v	∨
+jf0b	¬
+jf0n	
+jf0m	
+jf0,	
+jf0.	
+jf0/	
+jfq1	
+jfq2	
+jfq3	
+jfq4	
+jfq5	
+jfq6	
+jfq7	
+jfq8	
+jfq9	
+jfq0	
+jfqq	冠
+jfqw	乾
+jfqe	刈
+jfqr	且
+jfqt	轄
+jfqy	焦
+jfqu	症
+jfqi	礁
+jfqo	祥
+jfqp	肖
+jfqa	寛
+jfqs	堪
+jfqd	喚
+jfqf	勧
+jfqg	勘
+jfqh	衝
+jfqj	訟
+jfqk	詔
+jfql	鐘
+jfq;	冗
+jfqz	緩
+jfqx	汗
+jfqc	款
+jfqv	棺
+jfqb	憾
+jfqn	剰
+jfqm	壌
+jfq,	嬢
+jfq.	浄
+jfq/	畳
+jfw1	
+jfw2	
+jfw3	
+jfw4	
+jfw5	
+jfw6	
+jfw7	
+jfw8	
+jfw9	
+jfw0	
+jfwq	嚇
+jfww	垣
+jfwe	該
+jfwr	涯
+jfwt	慨
+jfwy	巡
+jfwu	遵
+jfwi	緒
+jfwo	叙
+jfwp	徐
+jfwa	隔
+jfws	郭
+jfwd	穫
+jfwf	獲
+jfwg	殻
+jfwh	匠
+jfwj	升
+jfwk	召
+jfwl	奨
+jfw;	宵
+jfwz	褐
+jfwx	滑
+jfwc	渇
+jfwv	括
+jfwb	喝
+jfwn	床
+jfwm	彰
+jfw,	抄
+jfw.	掌
+jfw/	晶
+jfe1	
+jfe2	
+jfe3	
+jfe4	
+jfe5	
+jfe6	
+jfe7	
+jfe8	
+jfe9	
+jfe0	
+jfeq	蚊
+jfew	菓
+jfee	箇
+jfer	稼
+jfet	禍
+jfey	醜
+jfeu	柔
+jfei	汁
+jfeo	獣
+jfep	銃
+jfea	悔
+jfes	怪
+jfed	塊
+jfef	餓
+jfeg	雅
+jfeh	叔
+jfej	淑
+jfek	粛
+jfel	塾
+jfe;	俊
+jfez	劾
+jfex	皆
+jfec	拐
+jfev	戒
+jfeb	懐
+jfen	准
+jfem	循
+jfe,	旬
+jfe.	殉
+jfe/	潤
+jfr1	
+jfr2	
+jfr3	
+jfr4	
+jfr5	
+jfr6	
+jfr7	
+jfr8	
+jfr9	
+jfr0	
+jfrq	猿
+jfrw	煙
+jfre	炎
+jfrr	閲
+jfrt	謁
+jfry	勺
+jfru	爵
+jfri	酌
+jfro	寂
+jfrp	殊
+jfra	沖
+jfrs	翁
+jfrd	殴
+jfrf	凹
+jfrg	鉛
+jfrh	狩
+jfrj	珠
+jfrk	趣
+jfrl	儒
+jfr;	囚
+jfrz	架
+jfrx	寡
+jfrc	嫁
+jfrv	佳
+jfrb	憶
+jfrn	愁
+jfrm	臭
+jfr,	舟
+jfr.	襲
+jfr/	酬
+jft1	
+jft2	
+jft3	
+jft4	
+jft5	
+jft6	
+jft7	
+jft8	
+jft9	
+jft0	
+jftq	緯
+jftw	尉
+jfte	威
+jftr	偉
+jftt	握
+jfty	諮
+jftu	賜
+jfti	雌
+jfto	侍
+jftp	慈
+jfta	韻
+jfts	姻
+jftd	芋
+jftf	逸
+jftg	壱
+jfth	璽
+jftj	軸
+jftk	漆
+jftl	疾
+jft;	赦
+jftz	悦
+jftx	疫
+jftc	鋭
+jftv	詠
+jftb	渦
+jftn	斜
+jftm	煮
+jft,	遮
+jft.	蛇
+jft/	邪
+jfy1	
+jfy2	
+jfy3	
+jfy4	
+jfy5	
+jfy6	
+jfy7	
+jfy8	
+jfy9	
+jfy0	
+jfyq	沿
+jfyw	液
+jfye	泳
+jfyr	飲
+jfyt	暗
+jfyy	泥
+jfyu	摘
+jfyi	滴
+jfyo	哲
+jfyp	撤
+jfya	荷
+jfys	歌
+jfyd	仮
+jfyf	恩
+jfyg	往
+jfyh	迭
+jfyj	殿
+jfyk	吐
+jfyl	塗
+jfy;	斗
+jfyz	閣
+jfyx	貝
+jfyc	絵
+jfyv	灰
+jfyb	芽
+jfyn	奴
+jfym	怒
+jfy,	凍
+jfy.	唐
+jfy/	塔
+jfu1	
+jfu2	
+jfu3	
+jfu4	
+jfu5	
+jfu6	
+jfu7	
+jfu8	
+jfu9	
+jfu0	
+jfuq	弓
+jfuw	吸
+jfue	貴
+jfur	旗
+jfut	机
+jfuy	悼
+jfuu	搭
+jfui	桃
+jfuo	棟
+jfup	痘
+jfua	訓
+jfus	鏡
+jfud	胸
+jfuf	泣
+jfug	救
+jfuh	筒
+jfuj	到
+jfuk	謄
+jful	踏
+jfu;	透
+jfuz	穴
+jfux	潔
+jfuc	敬
+jfuv	径
+jfub	兄
+jfun	騰
+jfum	洞
+jfu,	胴
+jfu.	峠
+jfu/	匿
+jfi1	
+jfi2	
+jfi3	
+jfi4	
+jfi5	
+jfi6	
+jfi7	
+jfi8	
+jfi9	
+jfi0	
+jfiq	穀
+jfiw	鋼
+jfie	皇
+jfir	孝
+jfit	犬
+jfiy	篤
+jfiu	凸
+jfii	屯
+jfio	豚
+jfip	曇
+jfia	枝
+jfis	姉
+jfid	蚕
+jfif	菜
+jfig	祭
+jfih	鈍
+jfij	縄
+jfik	軟
+jfil	弐
+jfi;	尿
+jfiz	似
+jfix	飼
+jfic	詩
+jfiv	詞
+jfib	至
+jfin	妊
+jfim	忍
+jfi,	寧
+jfi.	猫
+jfi/	粘
+jfo1	
+jfo2	
+jfo3	
+jfo4	
+jfo5	
+jfo6	
+jfo7	
+jfo8	
+jfo9	
+jfo0	
+jfoq	拾
+jfow	尺
+jfoe	謝
+jfor	捨
+jfot	磁
+jfoy	悩
+jfou	濃
+jfoi	覇
+jfoo	婆
+jfop	廃
+jfoa	署
+jfos	暑
+jfod	縮
+jfof	祝
+jfog	縦
+jfoh	排
+jfoj	杯
+jfok	輩
+jfol	培
+jfo;	媒
+jfoz	臣
+jfox	森
+jfoc	城
+jfov	松
+jfob	昭
+jfon	賠
+jfom	陪
+jfo,	伯
+jfo.	拍
+jfo/	泊
+jfp1	
+jfp2	
+jfp3	
+jfp4	
+jfp5	
+jfp6	
+jfp7	
+jfp8	
+jfp9	
+jfp0	
+jfpq	舌
+jfpw	誠
+jfpe	聖
+jfpr	晴
+jfpt	仁
+jfpy	舶
+jfpu	薄
+jfpi	漠
+jfpo	縛
+jfpp	肌
+jfpa	像
+jfps	祖
+jfpd	銭
+jfpf	染
+jfpg	泉
+jfph	鉢
+jfpj	髪
+jfpk	罰
+jfpl	閥
+jfp;	伴
+jfpz	損
+jfpx	孫
+jfpc	束
+jfpv	息
+jfpb	臓
+jfpn	帆
+jfpm	搬
+jfp,	畔
+jfp.	煩
+jfp/	頒
+jfa1	
+jfa2	
+jfa3	
+jfa4	
+jfa5	
+jfa6	
+jfa7	
+jfa8	
+jfa9	
+jfa0	
+jfaq	憩
+jfaw	契
+jfae	傾
+jfar	薫
+jfat	勲
+jfay	措
+jfau	疎
+jfai	租
+jfao	粗
+jfap	阻
+jfaa	鶏
+jfas	蛍
+jfad	茎
+jfaf	継
+jfag	渓
+jfah	僧
+jfaj	双
+jfak	喪
+jfal	壮
+jfa;	掃
+jfaz	圏
+jfax	剣
+jfac	倹
+jfav	傑
+jfab	鯨
+jfan	挿
+jfam	槽
+jfa,	燥
+jfa.	荘
+jfa/	葬
+jfs1	
+jfs2	
+jfs3	
+jfs4	
+jfs5	
+jfs6	
+jfs7	
+jfs8	
+jfs9	
+jfs0	
+jfsq	吟
+jfsw	謹
+jfse	襟
+jfsr	菌
+jfst	琴
+jfsy	拙
+jfsu	摂
+jfsi	窃
+jfso	仙
+jfsp	扇
+jfsa	隅
+jfss	偶
+jfsd	虞
+jfsf	愚
+jfsg	駆
+jfsh	栓
+jfsj	潜
+jfsk	旋
+jfsl	薦
+jfs;	践
+jfsz	桑
+jfsx	繰
+jfsc	靴
+jfsv	掘
+jfsb	屈
+jfsn	銑
+jfsm	漸
+jfs,	禅
+jfs.	繕
+jfs/	塑
+jfd1	
+jfd2	
+jfd3	
+jfd4	
+jfd5	
+jfd6	
+jfd7	
+jfd8	
+jfd9	
+jfd0	
+jfdq	凶
+jfdw	距
+jfde	拠
+jfdr	拒
+jfdt	糾
+jfdy	枢
+jfdu	据
+jfdi	澄
+jfdo	畝
+jfdp	是
+jfda	狂
+jfds	挟
+jfdd	恭
+jfdf	峡
+jfdg	叫
+jfdh	姓
+jfdj	征
+jfdk	牲
+jfdl	誓
+jfd;	逝
+jfdz	斤
+jfdx	暁
+jfdc	凝
+jfdv	仰
+jfdb	矯
+jfdn	斉
+jfdm	隻
+jfd,	惜
+jfd.	斥
+jfd/	籍
+jff1	
+jff2	
+jff3	
+jff4	
+jff5	
+jff6	
+jff7	
+jff8	
+jff9	
+jff0	
+jffq	儀
+jffw	偽
+jffe	騎
+jffr	飢
+jfft	輝
+jffy	尋
+jffu	尽
+jffi	迅
+jffo	酢
+jffp	吹
+jffa	犠
+jffs	欺
+jffd	擬
+jfff	戯
+jffg	宜
+jffh	帥
+jffj	
+jffk	炊
+jffl	睡
+jff;	遂
+jffz	窮
+jffx	朽
+jffc	虐
+jffv	脚
+jffb	詰
+jffn	酔
+jffm	錘
+jff,	随
+jff.	髄
+jff/	崇
+jfg1	
+jfg2	
+jfg3	
+jfg4	
+jfg5	
+jfg6	
+jfg7	
+jfg8	
+jfg9	
+jfg0	
+jfgq	鑑
+jfgw	貫
+jfge	艦
+jfgr	肝
+jfgt	缶
+jfgy	醸
+jfgu	錠
+jfgi	嘱
+jfgo	殖
+jfgp	辱
+jfga	幾
+jfgs	岐
+jfgd	頑
+jfgf	陥
+jfgg	閑
+jfgh	侵
+jfgj	唇
+jfgk	娠
+jfgl	慎
+jfg;	浸
+jfgz	軌
+jfgx	祈
+jfgc	棄
+jfgv	棋
+jfgb	忌
+jfgn	紳
+jfgm	薪
+jfg,	診
+jfg.	辛
+jfg/	刃
+jfh1	
+jfh2	
+jfh3	
+jfh4	
+jfh5	
+jfh6	
+jfh7	
+jfh8	
+jfh9	
+jfh0	
+jfhq	兆
+jfhw	柱
+jfhe	宙
+jfhr	暖
+jfht	誕
+jfhy	蛮
+jfhu	妃
+jfhi	扉
+jfho	披
+jfhp	泌
+jfha	弟
+jfhs	頂
+jfhd	腸
+jfhf	．
+jfhg	潮
+jfhh	疲
+jfhj	碑
+jfhk	罷
+jfhl	微
+jfh;	匹
+jfhz	灯
+jfhx	刀
+jfhc	冬
+jfhv	笛
+jfhb	敵
+jfhn	姫
+jfhm	漂
+jfh,	苗
+jfh.	浜
+jfh/	賓
+jfj1	
+jfj2	
+jfj3	
+jfj4	
+jfj5	
+jfj6	
+jfj7	
+jfj8	
+jfj9	
+jfj0	
+jfjq	燃
+jfjw	届
+jfje	毒
+jfjr	銅
+jfjt	童
+jfjy	頻
+jfju	敏
+jfji	瓶
+jfjo	怖
+jfjp	扶
+jfja	拝
+jfjs	俳
+jfjd	，
+jfjf	
+jfjg	馬
+jfjh	浮
+jfjj	符
+jfjk	腐
+jfjl	膚
+jfj;	譜
+jfjz	畑
+jfjx	麦
+jfjc	梅
+jfjv	』
+jfjb	肺
+jfjn	賦
+jfjm	赴
+jfj,	附
+jfj.	侮
+jfj/	封
+jfk1	
+jfk2	
+jfk3	
+jfk4	
+jfk5	
+jfk6	
+jfk7	
+jfk8	
+jfk9	
+jfk0	
+jfkq	肥
+jfkw	悲
+jfke	晩
+jfkr	飯
+jfkt	班
+jfky	伏
+jfku	覆
+jfki	沸
+jfko	噴
+jfkp	墳
+jfka	腹
+jfks	貧
+jfkd	氷
+jfkf	俵
+jfkg	鼻
+jfkh	紛
+jfkj	雰
+jfkk	丙
+jfkl	塀
+jfk;	幣
+jfkz	墓
+jfkx	陛
+jfkc	閉
+jfkv	粉
+jfkb	奮
+jfkn	壁
+jfkm	癖
+jfk,	偏
+jfk.	遍
+jfk/	穂
+jfl1	
+jfl2	
+jfl3	
+jfl4	
+jfl5	
+jfl6	
+jfl7	
+jfl8	
+jfl9	
+jfl0	
+jflq	幕
+jflw	妹
+jfle	牧
+jflr	棒
+jflt	亡
+jfly	慕
+jflu	簿
+jfli	倣
+jflo	俸
+jflp	峰
+jfla	勇
+jfls	油
+jfld	鳴
+jflf	…
+jflg	脈
+jflh	崩
+jflj	抱
+jflk	泡
+jfll	砲
+jfl;	縫
+jflz	覧
+jflx	卵
+jflc	翌
+jflv	幼
+jflb	預
+jfln	胞
+jflm	芳
+jfl,	褒
+jfl.	飽
+jfl/	乏
+jf;1	
+jf;2	
+jf;3	
+jf;4	
+jf;5	
+jf;6	
+jf;7	
+jf;8	
+jf;9	
+jf;0	
+jf;q	零
+jf;w	隷
+jf;e	林
+jf;r	緑
+jf;t	律
+jf;y	傍
+jf;u	剖
+jf;i	坊
+jf;o	妨
+jf;p	帽
+jf;a	劣
+jf;s	暦
+jf;d	齢
+jf;f	麗
+jf;g	霊
+jf;h	忙
+jf;j	冒
+jf;k	紡
+jf;l	肪
+jf;;	膨
+jf;z	炉
+jf;x	錬
+jf;c	廉
+jf;v	裂
+jf;b	烈
+jf;n	謀
+jf;m	僕
+jf;,	墨
+jf;.	撲
+jf;/	朴
+jfz1	
+jfz2	
+jfz3	
+jfz4	
+jfz5	
+jfz6	
+jfz7	
+jfz8	
+jfz9	
+jfz0	
+jfzq	傘
+jfzw	擦
+jfze	撮
+jfzr	錯
+jfzt	搾
+jfzy	漬
+jfzu	坪
+jfzi	釣
+jfzo	亭
+jfzp	偵
+jfza	嗣
+jfzs	伺
+jfzd	暫
+jfzf	桟
+jfzg	惨
+jfzh	貞
+jfzj	呈
+jfzk	堤
+jfzl	廷
+jfz;	抵
+jfzz	脂
+jfzx	肢
+jfzc	紫
+jfzv	祉
+jfzb	旨
+jfzn	締
+jfzm	艇
+jfz,	訂
+jfz.	逓
+jfz/	邸
+jfx1	
+jfx2	
+jfx3	
+jfx4	
+jfx5	
+jfx6	
+jfx7	
+jfx8	
+jfx9	
+jfx0	
+jfxq	鎖
+jfxw	詐
+jfxe	唆
+jfxr	魂
+jfxt	紺
+jfxy	弔
+jfxu	彫
+jfxi	懲
+jfxo	挑
+jfxp	眺
+jfxa	砕
+jfxs	栽
+jfxd	彩
+jfxf	宰
+jfxg	債
+jfxh	聴
+jfxj	脹
+jfxk	超
+jfxl	跳
+jfx;	勅
+jfxz	削
+jfxx	咲
+jfxc	剤
+jfxv	載
+jfxb	斎
+jfxn	朕
+jfxm	珍
+jfx,	鎮
+jfx.	陳
+jfx/	墜
+jfc1	
+jfc2	
+jfc3	
+jfc4	
+jfc5	
+jfc6	
+jfc7	
+jfc8	
+jfc9	
+jfc0	
+jfcq	酵
+jfcw	郊
+jfce	購
+jfcr	貢
+jfct	衡
+jfcy	胆
+jfcu	鍛
+jfci	壇
+jfco	弾
+jfcp	恥
+jfca	獄
+jfcs	酷
+jfcd	拷
+jfcf	剛
+jfcg	項
+jfch	痴
+jfcj	稚
+jfck	畜
+jfcl	逐
+jfc;	秩
+jfcz	昆
+jfcx	恨
+jfcc	婚
+jfcv	墾
+jfcb	腰
+jfcn	窒
+jfcm	嫡
+jfc,	抽
+jfc.	衷
+jfc/	鋳
+jfv1	
+jfv2	
+jfv3	
+jfv4	
+jfv5	
+jfv6	
+jfv7	
+jfv8	
+jfv9	
+jfv0	
+jfvq	孔
+jfvw	坑
+jfve	侯
+jfvr	碁
+jfvt	悟
+jfvy	泰
+jfvu	滞
+jfvi	胎
+jfvo	逮
+jfvp	滝
+jfva	洪
+jfvs	控
+jfvd	拘
+jfvf	慌
+jfvg	恒
+jfvh	卓
+jfvj	拓
+jfvk	濯
+jfvl	託
+jfv;	諾
+jfvz	肯
+jfvx	絞
+jfvc	稿
+jfvv	硬
+jfvb	溝
+jfvn	但
+jfvm	奪
+jfv,	棚
+jfv.	嘆
+jfv/	淡
+jfb1	
+jfb2	
+jfb3	
+jfb4	
+jfb5	
+jfb6	
+jfb7	
+jfb8	
+jfb9	
+jfb0	
+jfbq	遣
+jfbw	軒
+jfbe	謙
+jfbr	懸
+jfbt	堅
+jfby	藻
+jfbu	遭
+jfbi	霜
+jfbo	騒
+jfbp	憎
+jfba	枯
+jfbs	弧
+jfbd	玄
+jfbf	弦
+jfbg	幻
+jfbh	贈
+jfbj	促
+jfbk	俗
+jfbl	賊
+jfb;	堕
+jfbz	娯
+jfbx	呉
+jfbc	鼓
+jfbv	顧
+jfbb	雇
+jfbn	妥
+jfbm	惰
+jfb,	駄
+jfb.	耐
+jfb/	怠
+jfn1	
+jfn2	
+jfn3	
+jfn4	
+jfn5	
+jfn6	
+jfn7	
+jfn8	
+jfn9	
+jfn0	
+jfnq	漏
+jfnw	浪
+jfne	楼
+jfnr	廊
+jfnt	露
+jfny	没
+jfnu	奔
+jfni	翻
+jfno	凡
+jfnp	盆
+jfna	
+jfns	湾
+jfnd	枠
+jfnf	惑
+jfng	賄
+jfnh	摩
+jfnj	磨
+jfnk	魔
+jfnl	埋
+jfn;	膜
+jfnz	
+jfnx	
+jfnc	
+jfnv	
+jfnb	
+jfnn	抹
+jfnm	繭
+jfn,	漫
+jfn.	魅
+jfn/	岬
+jfm1	
+jfm2	
+jfm3	
+jfm4	
+jfm5	
+jfm6	
+jfm7	
+jfm8	
+jfm9	
+jfm0	
+jfmq	；
+jfmw	：
+jfme	‥
+jfmr	｜
+jfmt	‖
+jfmy	妙
+jfmu	眠
+jfmi	矛
+jfmo	霧
+jfmp	婿
+jfma	〆
+jfms	仝
+jfmd	〃
+jfmf	／
+jfmg	＼
+jfmh	娘
+jfmj	銘
+jfmk	滅
+jfml	妄
+jfm;	猛
+jfmz	ヾ
+jfmx	ヽ
+jfmc	ゞ
+jfmv	ゝ
+jfmb	‐
+jfmn	盲
+jfmm	網
+jfm,	耗
+jfm.	黙
+jfm/	紋
+jf,1	［
+jf,2	｛
+jf,3	｝
+jf,4	］
+jf,5	
+jf,6	
+jf,7	
+jf,8	
+jf,9	
+jf,0	
+jf,q	〔
+jf,w	【
+jf,e	】
+jf,r	〕
+jf,t	
+jf,y	匁
+jf,u	厄
+jf,i	躍
+jf,o	柳
+jf,p	愉
+jf,a	《
+jf,s	〈
+jf,d	〉
+jf,f	》
+jf,g	『
+jf,h	癒
+jf,j	諭
+jf,k	唯
+jf,l	幽
+jf,;	悠
+jf,z	“
+jf,x	‘
+jf,c	’
+jf,v	”
+jf,b	
+jf,n	憂
+jf,m	猶
+jf,,	裕
+jf,.	誘
+jf,/	誉
+jf.1	＃
+jf.2	＆
+jf.3	＊
+jf.4	＠
+jf.5	
+jf.6	
+jf.7	
+jf.8	
+jf.9	
+jf.0	
+jf.q	♪
+jf.w	♭
+jf.e	♯
+jf.r	†
+jf.t	‡
+jf.y	庸
+jf.u	揚
+jf.i	揺
+jf.o	擁
+jf.p	溶
+jf.a	☆
+jf.s	△
+jf.d	□
+jf.f	○
+jf.g	◯
+jf.h	窯
+jf.j	踊
+jf.k	抑
+jf.l	翼
+jf.;	羅
+jf.z	　
+jf.x	▽
+jf.c	◇
+jf.v	◎
+jf.b	
+jf.n	裸
+jf.m	雷
+jf.,	酪
+jf..	濫
+jf./	吏
+jf/1	
+jf/2	
+jf/3	
+jf/4	
+jf/5	
+jf/6	
+jf/7	
+jf/8	
+jf/9	
+jf/0	
+jf/q	←
+jf/w	↓
+jf/e	↑
+jf/r	→
+jf/t	¶
+jf/y	痢
+jf/u	硫
+jf/i	粒
+jf/o	隆
+jf/p	虜
+jf/a	★
+jf/s	▲
+jf/d	■
+jf/f	●
+jf/g	§
+jf/h	僚
+jf/j	涼
+jf/k	猟
+jf/l	糧
+jf/;	陵
+jf/z	〓
+jf/x	▼
+jf/c	◆
+jf/v	※
+jf/b	〒
+jf/n	倫
+jf/m	厘
+jf/,	塁
+jf/.	涙
+jf//	励
+jg	は
+jh	設
+jj	鉄
+jk	現
+jl	成
+j;	映
+jz	ド
+jx	カ
+jc	り
+jv	」
+jb	田
+jn	協
+jm	多
+j,	混
+j.	選
+j/	以
+k1	突
+k2	周
+k3	景
+k4	雑
+k5	杉
+k6	
+k7	奏
+k8	
+k9	
+k0	
+kq	ど
+kw	ル
+ke	(
+kr	日
+kt	8
+ky	井
+ku	集
+ki	ツ
+ko	打
+kp	品
+ka	〇
+ks	た
+kd	の
+kf	0
+kg	に
+kh	水
+kj	教
+kk	エ
+kl	天
+k;	書
+kz	円
+kx	社
+kc	—
+kv	9
+kb	会
+kn	用
+km	商
+k,	ポ
+k.	党
+k/	ヌ
+l1	温
+l2	域
+l3	処
+l4	漢
+l5	肉
+l6	
+l7	尊
+l8	
+l9	
+l0	
+lq	代
+lw	千
+le	ト
+lr	国
+lt	え
+ly	洋
+lu	安
+li	特
+lo	勤
+lp	語
+la	て
+ls	一
+ld	5
+lf	・
+lg	な
+lh	藤
+lj	力
+lk	他
+ll	世
+l;	可
+lz	小
+lx	野
+lc	め
+lv	子
+lb	前
+ln	表
+lm	ハ
+l,	決
+l.	択
+l/	営
+;1	捕
+;2	荒
+;3	ぜ
+;4	緊
+;5	除
+;6	
+;7	
+;8	
+;9	
+;0	
+;q	レ
+;w	ア
+;e	れ
+;r	二
+;t	年
+;y	実
+;u	画
+;i	谷
+;o	ャ
+;p	演
+;a	る
+;s	が
+;d	1
+;f	2
+;g	を
+;h	有
+;j	ベ
+;k	度
+;l	文
+;;	へ
+;z	ジ
+;x	同
+;c	大
+;v	五
+;b	そ
+;n	正
+;m	交
+;,	ミ
+;.	体
+;/	治
+z1	
+z2	
+z3	
+z4	
+z5	
+z6	禁
+z7	絹
+z8	批
+z9	就
+z0	綱
+zq	欠
+zw	財
+ze	従
+zr	適
+zt	母
+zy	爆
+zu	陽
+zi	ァ
+zo	殺
+zp	券
+za	ヒ
+zs	及
+zd	投
+zf	込
+zg	転
+zh	素
+zj	毛
+zk	等
+zl	板
+z;	伝
+zz	ヨ
+zx	判
+zc	済
+zv	説
+zb	休
+zn	図
+zm	之
+z,	州
+z.	例
+z/	字
+x1	
+x2	
+x3	
+x4	
+x5	
+x6	硝
+x7	被
+x8	慶
+x9	駐
+x0	潟
+xq	夏
+xw	針
+xe	骨
+xr	類
+xt	奥
+xy	仲
+xu	構
+xi	導
+xo	負
+xp	悪
+xa	江
+xs	久
+xd	義
+xf	沢
+xg	空
+xh	兵
+xj	永
+xk	浅
+xl	客
+x;	庭
+xz	誤
+xx	規
+xc	吉
+xv	週
+xb	省
+xn	挙
+xm	末
+x,	払
+x.	満
+x/	材
+c1	
+c2	
+c3	
+c4	
+c5	
+c6	樹
+c7	源
+c8	渉
+c9	揮
+c0	創
+cq	彼
+cw	裏
+ce	厚
+cr	御
+ct	因
+cy	茶
+cu	旅
+ci	認
+co	何
+cp	秋
+ca	別
+cs	蔵
+cd	算
+cf	軍
+cg	性
+ch	専
+cj	申
+ck	頃
+cl	師
+c;	課
+cz	証
+cx	感
+cc	ゆ
+cv	号
+cb	央
+cn	険
+cm	ぼ
+c,	乗
+c.	津
+c/	過
+v1	
+v2	
+v3	
+v4	
+v5	
+v6	句
+v7	願
+v8	竜
+v9	丹
+v0	背
+vq	妻
+vw	居
+ve	顔
+vr	宇
+vt	酒
+vy	率
+vu	施
+vi	健
+vo	履
+vp	非
+va	考
+vs	早
+vd	半
+vf	青
+vg	使
+vh	親
+vj	袋
+vk	落
+vl	税
+v;	着
+vz	含
+vx	値
+vc	器
+vv	葉
+vb	福
+vn	ゼ
+vm	街
+v,	庫
+v.	準
+v/	諸
+b1	
+b2	
+b3	
+b4	
+b5	
+b6	礎
+b7	臨
+b8	併
+b9	鮮
+b0	皮
+bq	善
+bw	差
+be	量
+br	推
+bt	伸
+by	比
+bu	曜
+bi	尾
+bo	般
+bp	便
+ba	権
+bs	造
+bd	県
+bf	清
+bg	級
+bh	寮
+bj	良
+bk	命
+bl	飛
+b;	坂
+bz	%
+bx	ギ
+bc	照
+bv	派
+bb	毎
+bn	波
+bm	免
+b,	状
+b.	遊
+b/	単
+n1	依
+n2	織
+n3	譲
+n4	激
+n5	測
+n6	
+n7	
+n8	
+n9	
+n0	
+nq	相
+nw	付
+ne	内
+nr	九
+nt	サ
+ny	昔
+nu	遠
+ni	序
+no	耳
+np	示
+na	ッ
+ns	ロ
+nd	ん
+nf	け
+ng	業
+nh	ホ
+nj	私
+nk	村
+nl	ノ
+n;	近
+nz	海
+nx	当
+nc	不
+nv	委
+nb	気
+nn	ヤ
+nm	再
+n,	団
+n.	戸
+n/	身
+m1	繊
+m2	父
+m3	ヘ
+m4	干
+m5	血
+m6	
+m7	
+m8	
+m9	
+m0	
+mq	家
+mw	プ
+me	工
+mr	名
+mt	建
+my	短
+mu	ォ
+mi	振
+mo	授
+mp	即
+ma	人
+ms	ク
+md	ま
+mf	イ
+mg	時
+mh	共
+mj	ゴ
+mk	ガ
+ml	完
+m;	外
+mz	道
+mx	理
+mc	合
+mv	化
+mb	売
+mn	心
+mm	ネ
+m,	計
+m.	ひ
+m/	ピ
+,1	借
+,2	枚
+,3	模
+,4	彦
+,5	散
+,6	
+,7	
+,8	
+,9	
+,0	
+,q	的
+,w	ば
+,e	八
+,r	川
+,t	パ
+,y	岩
+,u	将
+,i	練
+,o	版
+,p	難
+,a	三
+,s	万
+,d	ン
+,f	す
+,g	「
+,h	ブ
+,j	来
+,k	製
+,l	重
+,;	米
+,z	ず
+,x	メ
+,c	面
+,v	ビ
+,b	下
+,n	界
+,m	〜
+,,	夫
+,.	ょ
+,/	勝
+.1	須
+.2	乱
+.3	降
+.4	均
+.5	笑
+.6	
+.7	
+.8	
+.9	
+.0	
+.q	対
+.w	ュ
+.e	テ
+.r	機
+.t	第
+.y	巨
+.u	ぞ
+.i	念
+.o	効
+.p	普
+.a	京
+.s	方
+.d	つ
+.f	電
+.g	長
+.h	平
+.j	信
+.k	校
+.l	約
+.;	ョ
+.z	西
+.x	ウ
+.c	政
+.v	目
+.b	都
+.n	意
+.m	口
+.,	食
+..	価
+./	反
+/1	訳
+/2	香
+/3	走
+/4	又
+/5	弁
+/6	
+/7	
+/8	
+/9	
+/0	
+/q	歴
+/w	作
+/e	見
+/r	チ
+/t	入
+/y	敗
+/u	塚
+/i	働
+/o	視
+/p	辺
+/a	ち
+/s	フ
+/d	四
+/f	地
+/g	み
+/h	楽
+/j	午
+/k	ご
+/l	各
+/;	光
+/z	げ
+/x	グ
+/c	オ
+/v	市
+/b	株
+/n	今
+/m	台
+/,	総
+/.	与
+//	ズ
