@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- linear grad: #4190A3 LT - #2852A8 RB -->
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="16" y2="16">
+      <stop offset="0" stop-color="#4190A3"/>
+      <stop offset="1" stop-color="#2852A8"/>
+    </linearGradient>
+    <!-- T -->
+    <g id="T">
+      <rect x="1" y="2" width="8" height="1"/>
+      <rect x="4" y="3" width="2" height="9"/>
+    </g>
+  </defs>
+  <rect x="0" y="0" width="16" height="16" rx="2" ry="2" fill="url(#grad)"/>
+  <!-- TT -->
+  <g fill="#FFFFFF">
+    <use xlink:href="#T"/>
+    <use xlink:href="#T" transform="translate(6,3)"/>
+  </g>
+</svg>
