@@ -14,7 +14,7 @@
   </defs>
   <rect x="0" y="0" width="145" height="52" rx="5" ry="5" fill="url(#grad)"/>
   <g mask="url(#mask)">
-    <g font-family="'ヒラギノ明朝 ProN','HiraMinProN','游明朝体','YuMin',serif" font-weight="bold" transform="translate(72.5,26)">
+    <g font-family="'Hiragino Mincho ProN','YuMincho','Noto Serif JP','Yu Mincho',serif" font-weight="bold" transform="translate(72.5,26)">
       <!-- 氷 -->
       <text fill="rgba(255,255,255,0.5)" font-size="64" x="-32" y="32" transform="translate(52,11)translate(0,-6.4)">氷</text>
       <!-- ▽▲ -->

@@ -4,7 +4,7 @@
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- -->
-  <g transform="translate(14,14)" fill="#000000" font-family="'HiraginoSans-W2', 'YuGo-Medium', sans-serif" font-size="10">
+  <g transform="translate(14,14)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
     <rect x="0" y="0" width="102" height="42" rx="2" ry="2" fill="#EEEEEE"/>
     <!-- -->
     <text x="108" y="32" font-size="16">必</text>
@@ -28,7 +28,7 @@
 
   </g>
   <!-- -->
-  <g transform="translate(180,14)" fill="#000000" font-family="'HiraginoSans-W2', 'YuGo-Medium', sans-serif" font-size="10">
+  <g transform="translate(180,14)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
     <rect x="0" y="0" width="102" height="42" rx="2" ry="2" fill="#EEEEEE"/>
     <!-- -->
     <text x="108" y="32" font-size="16">要</text>
@@ -54,7 +54,7 @@
   <!-- -->
   <rect x="11" y="74" width="300" height="1" fill="#000000"/>
   <!-- -->
-  <g transform="translate(14,89)" fill="#000000" font-family="'HiraginoSans-W2', 'YuGo-Medium', sans-serif" font-size="10">
+  <g transform="translate(14,89)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
     <rect x="0" y="0" width="102" height="42" rx="2" ry="2" fill="#EEEEEE"/>
     <!-- -->
     <text x="108" y="32" font-size="16">氷</text>
@@ -76,7 +76,7 @@
     <!-- -->                      <!-- -->
   </g>
   <!-- -->
-  <g transform="translate(180,89)" fill="#000000" font-family="'HiraginoSans-W2', 'YuGo-Medium', sans-serif" font-size="10">
+  <g transform="translate(180,89)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
     <rect x="0" y="0" width="102" height="42" rx="2" ry="2" fill="#EEEEEE"/>
     <!-- -->
     <text x="108" y="32" font-size="16">飴</text>

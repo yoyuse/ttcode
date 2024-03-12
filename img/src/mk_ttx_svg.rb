@@ -2,6 +2,7 @@
 #
 # usage: cat ttcode-4.0.ls.txt | awk '2 <= NF' | ruby mk_ttx_svg.rb --table TTX
 #
+# 2024-03-12 fix font-family
 # 2024-03-10 tt-t1.ls.txt → ttcode-4.0.ls.txt
 # 2024-03-09
 
@@ -65,7 +66,7 @@ else
   svg = %Q!<rect x="#{margin}" y="#{margin}" width="#{size + padding * 2}" height="#{size + padding * 2}" fill="#FFFFFF" stroke="#{dark}" stroke-width="4"/>\n!
 end
 
-svg += %Q!<g fill="#{main}" font-family="'HiraginoSans-W2', 'YuGo-Medium', sans-serif" font-size="#{(unit * 0.9).to_i}">\n!
+svg += %Q!<g fill="#{main}" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="#{(unit * 0.9).to_i}">\n!
 
 Key.each_with_index do |row, j|
   y = (unit * j + padding + margin + unit * 0.9).to_i

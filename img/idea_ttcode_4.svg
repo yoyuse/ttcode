@@ -30,7 +30,7 @@
   <!-- ttc -->
   <g stroke="#FFA726" transform="translate(168,182)">
     <use xlink:href="#ttx"/>
-    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <g font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="16" fill="#424242" stroke="none">
     <text x="48" y="24">本表</text>
     <text x="56" y="96">▽</text>
     <text x="80" y="72">▲</text>
@@ -41,28 +41,28 @@
   <!-- ttl -->
   <g stroke="#26A69A" transform="translate(8,182)">
     <use xlink:href="#ttx"/>
-    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <g font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="16" fill="#424242" stroke="none">
     <text x="48" y="24">左表</text>
     </g>
   </g>
   <!-- ttr -->
   <g stroke="#EC407A" transform="translate(328,182)">
     <use xlink:href="#ttx"/>
-    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <g font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="16" fill="#424242" stroke="none">
     <text x="48" y="24">右表</text>
     </g>
   </g>
   <!-- ttw -->
   <g transform="translate(100,8)">
     <use xlink:href="#ttw"/>
-    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <g font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="16" fill="#424242" stroke="none">
     <text x="48" y="24">白表</text>
     </g>
   </g>
   <!-- ttb -->
   <g transform="translate(236,8)">
     <use xlink:href="#ttb"/>
-    <g font-family="sans-serif" font-size="16" fill="#424242" stroke="none">
+    <g font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="16" fill="#424242" stroke="none">
     <text x="48" y="24">黒表</text>
     </g>
   </g>

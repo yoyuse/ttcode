@@ -2,7 +2,7 @@
 
 <svg width="680" height="680" viewBox="0 0 680  680" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect x="10" y="10" width="660" height="660" fill="#FFFFFF" stroke="#26A69A" stroke-width="4"/>
-<g fill="#424242" font-family="'HiraginoSans-W2', 'YuGo-Medium', sans-serif" font-size="14">
+<g fill="#424242" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="14">
 <circle fill="#80CBC4" cx="27" cy="29" r="2"/>
 <circle fill="#80CBC4" cx="43" cy="29" r="2"/>
 <circle fill="#80CBC4" cx="59" cy="29" r="2"/>
