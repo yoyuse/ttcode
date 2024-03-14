@@ -25,7 +25,6 @@
     <text x="31" y="41">・</text> <text x="91" y="41">・</text>
     <!-- -->                      <!-- -->
                                   <text x="51" y="31">○</text>
-
   </g>
   <!-- -->
   <g transform="translate(180,14)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
@@ -49,7 +48,6 @@
     <text x="31" y="41">・</text> <text x="91" y="41">・</text>
     <!-- -->                      <!-- -->
                                   <text x="51" y="31">◎</text>
-
   </g>
   <!-- -->
   <rect x="11" y="74" width="300" height="1" fill="#000000"/>
@@ -97,7 +95,5 @@
     <text x="31" y="41">・</text> <text x="91" y="41">・</text>
     <!-- -->                      <!-- -->
   </g>
-  <!-- -->
-  <rect x="11" y="74" width="300" height="1" fill="#000000"/>
   <!-- -->
 </svg>
