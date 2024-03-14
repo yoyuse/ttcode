@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg width="320" height="74" viewBox="0 0 320 74" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- -->
+  <g transform="translate(14,14)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
+    <rect x="0" y="0" width="102" height="42" rx="2" ry="2" fill="#EEEEEE"/>
+    <!-- -->
+    <text x="108" y="32" font-size="16">必</text>
+    <!-- L -->                    <!-- R -->
+    <text x="1"  y="21">・</text> <text x="61" y="21">・</text>
+    <text x="11" y="21">・</text> <text x="71" y="21">・</text>
+    <text x="21" y="21">・</text> <text x="81" y="21">・</text>
+    <text x="31" y="21">・</text> <text x="91" y="21">・</text>
+    <!-- -->                      <!-- -->
+    <text x="1"  y="31">・</text> <text x="61" y="31">・</text>
+    <text x="11" y="31">●</text> <text x="71" y="31">・</text>
+    <text x="21" y="31">・</text> <text x="81" y="31">・</text>
+    <text x="31" y="31">・</text> <text x="91" y="31">・</text>
+    <!-- -->                      <!-- -->
+    <text x="1"  y="41">・</text> <text x="61" y="41">・</text>
+    <text x="11" y="41">・</text> <text x="71" y="41">・</text>
+    <text x="21" y="41">・</text> <text x="81" y="41">・</text>
+    <text x="31" y="41">・</text> <text x="91" y="41">・</text>
+    <!-- -->                      <!-- -->
+                                  <text x="51" y="31">○</text>
+  </g>
+  <!-- -->
+  <g transform="translate(180,14)" fill="#000000" font-family="'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Noto Sans JP', 'Meiryo', sans-serif" font-size="10">
+    <rect x="0" y="0" width="102" height="42" rx="2" ry="2" fill="#EEEEEE"/>
+    <!-- -->
+    <text x="108" y="32" font-size="16">要</text>
+    <!-- L -->                    <!-- R -->
+    <text x="1"  y="21">・</text> <text x="61" y="21">・</text>
+    <text x="11" y="21">・</text> <text x="71" y="21">・</text>
+    <text x="21" y="21">・</text> <text x="81" y="21">・</text>
+    <text x="31" y="21">・</text> <text x="91" y="21">・</text>
+    <!-- -->                      <!-- -->
+    <text x="1"  y="31">・</text> <text x="61" y="31">・</text>
+    <text x="11" y="31">・</text> <text x="71" y="31">・</text>
+    <text x="21" y="31">・</text> <text x="81" y="31">・</text>
+    <text x="31" y="31">・</text> <text x="91" y="31">・</text>
+    <!-- -->                      <!-- -->
+    <text x="1"  y="41">・</text> <text x="61" y="41">・</text>
+    <text x="11" y="41">・</text> <text x="71" y="41">・</text>
+    <text x="21" y="41">・</text> <text x="81" y="41">・</text>
+    <text x="31" y="41">・</text> <text x="91" y="41">・</text>
+    <!-- -->                      <!-- -->
+                                  <text x="51" y="31">◎</text>
+  </g>
+  <!-- -->
+</svg>
